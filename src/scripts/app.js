@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', () => {
   const startBtn = document.getElementById('start-btn');
   const quizContainer = document.getElementById('quiz-container');
@@ -7,20 +6,48 @@ document.addEventListener('DOMContentLoaded', () => {
   const answersContainer = document.getElementById('answers');
   const submitBtn = document.getElementById('submit-btn');
   const nextBtn = document.getElementById('next-btn');
+  const questionPackSelect = document.getElementById('question-pack');
+  const rangeToInput = document.getElementById('range-to');
 
   let questions = []; // Domande pescate
   let currentQuestionIndex = 0;
   let selectedAnswer = null;
 
+  // Limiti per ogni question pack
+  const questionPackLimits = {
+    "diritto-amministrativo": 431,
+    "contabilita-di-stato": 200,
+    "diritto-costituzionale-e-pubblico": 295,
+    "diritto-penale": 291,
+    "diritto-penitenziario": 334,
+    "elementi-di-procedura-penale": 240,
+    "scienze-dell-organizzazione": 202,
+  };
+
   // Aggiungi il numero della domanda sopra il testo della domanda
   quizContainer.insertBefore(questionNumberElement, questionElement);
 
+  // Aggiorna il limite massimo del campo "To" in base al question pack selezionato
+  questionPackSelect.addEventListener('change', () => {
+    const selectedPack = questionPackSelect.value;
+    const maxQuestions = questionPackLimits[selectedPack];
+    rangeToInput.max = maxQuestions;
+    rangeToInput.placeholder = `Max: ${maxQuestions}`;
+  });
+
   startBtn.addEventListener('click', () => {
     const rangeFrom = parseInt(document.getElementById('range-from').value, 10);
-    const rangeTo = parseInt(document.getElementById('range-to').value, 10);
+    const rangeTo = parseInt(rangeToInput.value, 10);
+    const selectedPack = questionPackSelect.value;
 
-    if (rangeFrom && rangeTo) {
-      loadQuestions('./data/diritto_amministrativo.json', rangeFrom, rangeTo);
+    if (!selectedPack) {
+      alert('Seleziona un question pack.');
+      return;
+    }
+
+    if (rangeFrom && rangeTo && rangeFrom <= rangeTo) {
+      const filePath = `./data/${selectedPack}.json`;
+      loadQuestions(filePath, rangeFrom, rangeTo);
     } else {
       alert('Seleziona un intervallo valido.');
     }
@@ -36,6 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const buttons = answersContainer.querySelectorAll('button');
     buttons.forEach((button) => {
       const isCorrect = button.dataset.correct === 'true';
+      button.classList.remove('selected'); // Rimuovi la classe "selected"
       if (isCorrect) {
         button.classList.add('correct'); // Evidenzia la risposta corretta in verde
       }
@@ -75,15 +103,15 @@ document.addEventListener('DOMContentLoaded', () => {
             ...question,
             answers: shuffle(question.answers), // Mescola le risposte
           }));
-  
+
         // Mescola le domande
         questions = shuffle(questions);
-  
+
         if (questions.length === 0) {
           alert('Nessuna domanda trovata nell\'intervallo specificato.');
           return;
         }
-  
+
         currentQuestionIndex = 0;
         quizContainer.style.display = 'block';
         displayQuestion();

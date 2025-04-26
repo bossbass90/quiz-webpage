@@ -58,3 +58,15 @@ select, input {
   background-color: #d3d3d3; /* Grigio chiaro per evidenziare */
   border: 2px solid #000; /* Bordo nero per maggiore visibilità */
 }
+
+.answers-container button.selected.wrong {
+  background-color: #f44336; /* Rosso per la risposta sbagliata */
+  color: white;
+  border: 2px solid #000; /* Mantieni il bordo nero */
+}
+
+.answers-container button.selected.correct {
+  background-color: #4caf50; /* Verde per la risposta corretta */
+  color: white;
+  border: 2px solid #000; /* Mantieni il bordo nero */
+}

@@ -1,0 +1,16 @@
+{
+  "name": "quiz-webpage",
+  "version": "1.0.0",
+  "description": "A web application for hosting quizzes using questions from an Excel file.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'"
+  },
+  "dependencies": {
+    "xlsx": "^0.17.0",
+    "live-server": "^1.2.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}

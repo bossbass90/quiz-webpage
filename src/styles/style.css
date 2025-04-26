@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+}
+
+.container {
+  text-align: center;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+select, input {
+  margin: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.answers-container button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  width: 80%;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.answers-container button.correct {
+  background-color: #4caf50; /* Verde per la risposta corretta */
+  color: white;
+}
+
+.answers-container button.wrong {
+  background-color: #f44336; /* Rosso per la risposta sbagliata */
+  color: white;
+}
+
+.answers-container button.selected {
+  background-color: #d3d3d3; /* Grigio chiaro per evidenziare */
+  border: 2px solid #000; /* Bordo nero per maggiore visibilità */
+}

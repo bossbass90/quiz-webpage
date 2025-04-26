@@ -1,7 +1,10 @@
+import * as XLSX from 'xlsx';
+
 document.addEventListener('DOMContentLoaded', () => {
   const startBtn = document.getElementById('start-btn');
   const quizContainer = document.getElementById('quiz-container');
   const questionElement = document.getElementById('question');
+  const questionNumberElement = document.createElement('h3'); // Elemento per il numero della domanda
   const answersContainer = document.getElementById('answers');
   const submitBtn = document.getElementById('submit-btn');
   const nextBtn = document.getElementById('next-btn');
@@ -10,15 +13,17 @@ document.addEventListener('DOMContentLoaded', () => {
   let currentQuestionIndex = 0;
   let selectedAnswer = null;
 
+  // Aggiungi il numero della domanda sopra il testo della domanda
+  quizContainer.insertBefore(questionNumberElement, questionElement);
+
   startBtn.addEventListener('click', () => {
-    const pack = document.getElementById('question-pack').value;
     const rangeFrom = parseInt(document.getElementById('range-from').value, 10);
     const rangeTo = parseInt(document.getElementById('range-to').value, 10);
 
-    if (pack === 'diritto-amministrativo' && rangeFrom && rangeTo) {
-      loadQuestions(pack, rangeFrom, rangeTo);
+    if (rangeFrom && rangeTo) {
+      loadQuestions('./data/diritto_amministrativo.xlsx', rangeFrom, rangeTo);
     } else {
-      alert('Seleziona un pacchetto di domande valido e un intervallo.');
+      alert('Seleziona un intervallo valido.');
     }
   });
 
@@ -27,25 +32,20 @@ document.addEventListener('DOMContentLoaded', () => {
       alert('Seleziona una risposta prima di continuare.');
       return;
     }
-  
-    // Rimuovi la classe "selected" da tutti i pulsanti
-    const buttons = answersContainer.querySelectorAll('button');
-    buttons.forEach((button) => {
-      button.classList.remove('selected');
-    });
-  
+
     // Mostra se la risposta è corretta o sbagliata
+    const buttons = answersContainer.querySelectorAll('button');
     buttons.forEach((button) => {
       const isCorrect = button.dataset.correct === 'true';
       if (isCorrect) {
         button.classList.add('correct'); // Evidenzia la risposta corretta in verde
-      } 
+      }
       if (button === selectedAnswer && !isCorrect) {
         button.classList.add('wrong'); // Evidenzia la risposta sbagliata in rosso
       }
       button.disabled = true; // Disabilita tutti i pulsanti dopo la selezione
     });
-  
+
     submitBtn.style.display = 'none';
     nextBtn.style.display = 'inline-block';
   });
@@ -60,82 +60,87 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
-  const questionsData = {
-    "diritto-amministrativo": [
-      {
-        text: "Qual è il principio di legalità nel diritto amministrativo?",
-        answers: [
-          { text: "Garantisce che l'amministrazione agisca entro i limiti della legge.", correct: true },
-          { text: "Permette all'amministrazione di agire liberamente.", correct: false },
-          { text: "Limita l'amministrazione al diritto privato.", correct: false },
-          { text: "Abolisce i tribunali amministrativi.", correct: false },
-        ],
-      },
-      {
-        text: "Qual è il ruolo del TAR (Tribunale Amministrativo Regionale)?",
-        answers: [
-          { text: "Risolvere le controversie tra cittadini e amministrazione pubblica.", correct: true },
-          { text: "Legiferare sulle leggi amministrative.", correct: false },
-          { text: "Applicare il diritto penale.", correct: false },
-          { text: "Gestire le finanze pubbliche.", correct: false },
-        ],
-      },
-    ],
-  };
+  function loadQuestions(filePath, from, to) {
+    fetch(filePath)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`Errore nel caricamento del file: ${response.statusText}`);
+        }
+        return response.arrayBuffer();
+      })
+      .then((data) => {
+        const workbook = XLSX.read(data, { type: 'array' });
+        const sheetName = workbook.SheetNames[0];
+        const sheet = workbook.Sheets[sheetName];
+        const rows = XLSX.utils.sheet_to_json(sheet, { header: 1 });
 
-  function loadQuestions(pack, from, to) {
-    if (pack === 'diritto-amministrativo') {
-      const allQuestions = questionsData[pack];
-      if (!allQuestions) {
-        alert('Nessuna domanda disponibile per il pacchetto selezionato.');
-        return;
-      }
+        // Filtra le domande in base al range
+        questions = rows
+          .slice(1) // Salta l'intestazione
+          .filter((row) => row[0] >= from && row[0] <= to) // Filtra per range
+          .map((row) => ({
+            number: row[0], // Colonna A: Numero della domanda
+            text: row[1], // Colonna B: Testo della domanda
+            answers: shuffle([
+              { text: row[2], correct: true }, // Colonna C: Risposta corretta
+              { text: row[3], correct: false }, // Colonna D: Risposta sbagliata 1
+              { text: row[4], correct: false }, // Colonna E: Risposta sbagliata 2
+              { text: row[5], correct: false }, // Colonna F: Risposta sbagliata 3
+            ]),
+          }));
 
-      // Pesca le domande in ordine casuale
-      questions = allQuestions.slice(from - 1, to).sort(() => Math.random() - 0.5);
-      if (questions.length === 0) {
-        alert('Nessuna domanda trovata nell\'intervallo specificato.');
-        return;
-      }
+        // Mescola le domande
+        questions = shuffle(questions);
 
-      currentQuestionIndex = 0;
-      quizContainer.style.display = 'block';
-      displayQuestion();
-    } else {
-      alert('Il pacchetto di domande selezionato non è ancora disponibile.');
-    }
+        if (questions.length === 0) {
+          alert('Nessuna domanda trovata nell\'intervallo specificato.');
+          return;
+        }
+
+        currentQuestionIndex = 0;
+        quizContainer.style.display = 'block';
+        displayQuestion();
+      })
+      .catch((error) => {
+        console.error('Errore nel caricamento delle domande:', error);
+        alert('Errore nel caricamento delle domande. Controlla la console per maggiori dettagli.');
+      });
   }
 
   function displayQuestion() {
     const question = questions[currentQuestionIndex];
+    questionNumberElement.textContent = `Domanda n. ${question.number}`; // Mostra il numero della domanda
     questionElement.textContent = question.text;
     answersContainer.innerHTML = '';
     selectedAnswer = null;
-  
-    // Mescola le risposte
-    const shuffledAnswers = question.answers.sort(() => Math.random() - 0.5);
-    shuffledAnswers.forEach((answer) => {
+
+    // Mostra le risposte
+    question.answers.forEach((answer) => {
       const button = document.createElement('button');
       button.textContent = answer.text;
       button.dataset.correct = answer.correct;
-  
+
       // Aggiungi evento per selezionare la risposta
       button.onclick = () => {
         selectedAnswer = button;
-  
+
         // Rimuovi la classe "selected" da tutti i pulsanti
         answersContainer.querySelectorAll('button').forEach((btn) => {
           btn.classList.remove('selected');
         });
-  
+
         // Aggiungi la classe "selected" al pulsante cliccato
         button.classList.add('selected');
       };
-  
+
       answersContainer.appendChild(button);
     });
-  
+
     submitBtn.style.display = 'inline-block';
     nextBtn.style.display = 'none';
+  }
+
+  function shuffle(array) {
+    return array.sort(() => Math.random() - 0.5);
   }
 });

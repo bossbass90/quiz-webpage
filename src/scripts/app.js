@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const rangeTo = parseInt(document.getElementById('range-to').value, 10);
 
     if (rangeFrom && rangeTo) {
-      loadQuestions('./data/diritto_amministrativo.xlsx', rangeFrom, rangeTo);
+      loadQuestions('./data/diritto_amministrativo.json', rangeFrom, rangeTo);
     } else {
       alert('Seleziona un intervallo valido.');
     }
@@ -65,37 +65,25 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!response.ok) {
           throw new Error(`Errore nel caricamento del file: ${response.statusText}`);
         }
-        return response.arrayBuffer();
+        return response.json();
       })
       .then((data) => {
-        const workbook = XLSX.read(data, { type: 'array' });
-        const sheetName = workbook.SheetNames[0];
-        const sheet = workbook.Sheets[sheetName];
-        const rows = XLSX.utils.sheet_to_json(sheet, { header: 1 });
-
         // Filtra le domande in base al range
-        questions = rows
-          .slice(1) // Salta l'intestazione
-          .filter((row) => row[0] >= from && row[0] <= to) // Filtra per range
-          .map((row) => ({
-            number: row[0], // Colonna A: Numero della domanda
-            text: row[1], // Colonna B: Testo della domanda
-            answers: shuffle([
-              { text: row[2], correct: true }, // Colonna C: Risposta corretta
-              { text: row[3], correct: false }, // Colonna D: Risposta sbagliata 1
-              { text: row[4], correct: false }, // Colonna E: Risposta sbagliata 2
-              { text: row[5], correct: false }, // Colonna F: Risposta sbagliata 3
-            ]),
+        questions = data
+          .filter((question) => question.number >= from && question.number <= to) // Filtra per range
+          .map((question) => ({
+            ...question,
+            answers: shuffle(question.answers), // Mescola le risposte
           }));
-
+  
         // Mescola le domande
         questions = shuffle(questions);
-
+  
         if (questions.length === 0) {
           alert('Nessuna domanda trovata nell\'intervallo specificato.');
           return;
         }
-
+  
         currentQuestionIndex = 0;
         quizContainer.style.display = 'block';
         displayQuestion();

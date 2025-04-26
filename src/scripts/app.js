@@ -1,4 +1,3 @@
-import * as XLSX from 'xlsx';
 
 document.addEventListener('DOMContentLoaded', () => {
   const startBtn = document.getElementById('start-btn');

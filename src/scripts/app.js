@@ -15,13 +15,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Limiti per ogni question pack
   const questionPackLimits = {
-    "diritto-amministrativo": 431,
-    "contabilita-di-stato": 200,
-    "diritto-costituzionale-e-pubblico": 295,
-    "diritto-penale": 291,
-    "diritto-penitenziario": 334,
-    "elementi-di-procedura-penale": 240,
-    "scienze-dell-organizzazione": 202,
+    "diritto_amministrativo": 431,
+    "contabilita_di_stato": 200,
+    "diritto_costituzionale_e_pubblico": 295,
+    "diritto_penale": 291,
+    "diritto_penitenziario": 334,
+    "elementi_di_procedura_penale": 240,
+    "scienze_dell_organizzazione": 202,
   };
 
   // Aggiungi il numero della domanda sopra il testo della domanda

@@ -1,0 +1,5282 @@
+[
+  {
+    "number": 1,
+    "text": "Se il Sostituto Procuratore di turno, secondo il codice di procedura penale, ritiene insussistenti le condizioni che hanno portato\nall’accompagnamento in ufficio per l’identificazione:",
+    "answers": [
+      {
+        "text": "ordina l’immediato rilascio della persona\naccompagnata.",
+        "correct": true
+      },
+      {
+        "text": "iscrive gli agenti e gli ufficiali di polizia giudiziaria operanti nel registro degli indagati per sequestro di persona.",
+        "correct": false
+      },
+      {
+        "text": "si reca immediatamente sul posto per verificare il rispetto delle normative di legge.",
+        "correct": false
+      },
+      {
+        "text": "deferisce gli Ufficiali di Polizia Giudiziaria alla\ncommissione distrettuale di disciplina.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "text": "A norma del Codice di\nProcedura Penale, l’indagato ed i potenziali testimoni possono essere accompagnati negli uffici di Polizia per essere identificati?",
+    "answers": [
+      {
+        "text": "Sì, ma solo se rifiutano di farsi identificare o vi sono dubbi sulle generalità\nfornite.",
+        "correct": true
+      },
+      {
+        "text": "Sì, ma solo gli indagati.",
+        "correct": false
+      },
+      {
+        "text": "No.",
+        "correct": false
+      },
+      {
+        "text": "Sì, previa autorizzazione del Pubblico Ministero.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "text": "L’obbligo di dimora, secondo l'art. 283 c.p.p., è:",
+    "answers": [
+      {
+        "text": "un provvedimento del Giudice che dispone\nl’obbligo per l’imputato di non allontanarsi dal territorio del comune di\ndimora abituale ovvero\nl’obbligo di dimorare in un comune indicato dal\nGiudice.",
+        "correct": true
+      },
+      {
+        "text": "un provvedimento del Giudice che dispone\nesclusivamente l’obbligo di soggiornare per l’imputato nel territorio del comune di dimora abituale.",
+        "correct": false
+      },
+      {
+        "text": "un provvedimento del Giudice che dispone l’obbligo di dimora per\nl’imputato nel territorio di un qualsiasi comune della regione di appartenenza.",
+        "correct": false
+      },
+      {
+        "text": "un provvedimento del Giudice che dispone l’obbligo di fissare la residenza nel comune indicato dal Giudice.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "text": "In base all'art. 394 c.p.p., la persona offesa dal reato può presentare richiesta di incidente probatorio?",
+    "answers": [
+      {
+        "text": "No, ma può chiedere al Pubblico Ministero di promuoverla.",
+        "correct": true
+      },
+      {
+        "text": "Sì, sempre, direttamente al Giudice delle indagini preliminari.",
+        "correct": false
+      },
+      {
+        "text": "Sì, ma la richiesta deve essere presentata al Pubblico Ministero che deve poi notificarla al Giudice delle indagini preliminari.",
+        "correct": false
+      },
+      {
+        "text": "Sì, ma solo durante l’udienza preliminare.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "text": "Se l’imputato non ha commesso il fatto, il Giudice dell’udienza preliminare, ai sensi dell'art. 425 c.p.p.:",
+    "answers": [
+      {
+        "text": "pronuncia sentenza di non luogo a procedere.",
+        "correct": true
+      },
+      {
+        "text": "pronuncia sentenza di assoluzione.",
+        "correct": false
+      },
+      {
+        "text": "pronuncia sentenza di archiviazione.",
+        "correct": false
+      },
+      {
+        "text": "restituisce gli atti al Pubblico Ministero affinché proceda all’archiviazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "text": "Il Giudice, se ricorrono le condizioni per accogliere la\nrichiesta di applicazione della pena prevista dall’art. 444 c.p.p.:",
+    "answers": [
+      {
+        "text": "pronuncia immediatamente sentenza.",
+        "correct": true
+      },
+      {
+        "text": "pronuncia sentenza entro cinque giorni.",
+        "correct": false
+      },
+      {
+        "text": "pronuncia immediatamente ordinanza.",
+        "correct": false
+      },
+      {
+        "text": "pronuncia\nimmediatamente decreto di condanna.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "text": "Ai sensi dell'art. 431 c.p.p.,\ncompete formare il fascicolo per il dibattimento, dopo che è stato emanato il decreto che dispone il giudizio:",
+    "answers": [
+      {
+        "text": "al Giudice dell’udienza preliminare,\nimmediatamente dopo\nl’emissione del decreto che dispone il giudizio.",
+        "correct": true
+      },
+      {
+        "text": "al Pubblico Ministero.",
+        "correct": false
+      },
+      {
+        "text": "al Giudice delle indagini preliminari.",
+        "correct": false
+      },
+      {
+        "text": "al Giudice del\ndibattimento, almeno 15 giorni prima dell’udienza dibattimentale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "text": "Quali sono gli effetti dell’applicazione della pena su richiesta delle parti in base alle previsioni del codice di procedura penale?",
+    "answers": [
+      {
+        "text": "il reato è estinto, se nel termine di cinque anni, quando la sentenza concerne un delitto,\novvero di due anni, quando la sentenza concerne una contravvenzione,\nl’imputato non commette un delitto ovvero una contravvenzione della stessa indole.",
+        "correct": true
+      },
+      {
+        "text": "il reato è estinto, se nel\ntermine di due anni, quando la sentenza concerne un delitto o una\ncontravvenzione, l’imputato non commette un delitto ovvero una contravvenzione della stessa indole.",
+        "correct": false
+      },
+      {
+        "text": "il reato è estinto, se nel termine di tre anni, quando la sentenza concerne un delitto, ovvero di due anni, quando la sentenza concerne una\ncontravvenzione, l’imputato non commette un delitto ovvero una contravvenzione anche di\ndiversa indole.",
+        "correct": false
+      },
+      {
+        "text": "il reato è estinto, se nel termine di cinque anni, quando la sentenza concerne un delitto, ovvero di due anni, quando la sentenza concerne una\ncontravvenzione, l’imputato non commette un delitto ovvero una contravvenzione anche\ndi diversa indole.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "text": "Il Pubblico Ministero dispone, in virtù dell'art. 450 c.p.p., se\nritiene di procedere a giudizio direttissimo:",
+    "answers": [
+      {
+        "text": "di far condurre\ndirettamente all’udienza l’imputato arrestato in flagranza o in stato di custodia cautelare.",
+        "correct": true
+      },
+      {
+        "text": "chiede al Giudice per le indagini preliminari\nl’autorizzazione a condurre direttamente all’udienza l’imputato.",
+        "correct": false
+      },
+      {
+        "text": "chiede al Giudice del dibattimento\nl’autorizzazione a condurre direttamente all’udienza l’imputato.",
+        "correct": false
+      },
+      {
+        "text": "cita l’imputato a\ncomparire all’udienza anche se questi è\narrestato in flagranza o in stato di custodia cautelare.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "text": "L’informazione di garanzia, ex art. 369 c.p.p., deve contenere:",
+    "answers": [
+      {
+        "text": "l’indicazione delle norme di legge che si assumono violate, la data e il luogo del fatto e l’invito a\nnominare un difensore.",
+        "correct": true
+      },
+      {
+        "text": "tra, l’altro, la determinazione del Pubblico Ministero circa l’esercizio dell’azione penale.",
+        "correct": false
+      },
+      {
+        "text": "necessariamente l’invito a presentarsi dinanzi al Pubblico Ministero.",
+        "correct": false
+      },
+      {
+        "text": "necessariamente l’invito a presentarsi dinanzi alla Polizia Giudiziaria per rendere dichiarazioni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "text": "Secondo il codice di procedura penale, l’esecuzione del decreto penale di condanna pronunciato a carico di più persone imputate dello stesso reato:",
+    "answers": [
+      {
+        "text": "rimane sospesa nei confronti di coloro che non hanno proposto\nopposizione fino a quando il giudizio conseguente all’opposizione proposta da altri coimputati non sia\ndefinito con pronuncia\nirrevocabile.",
+        "correct": true
+      },
+      {
+        "text": "impedisce all’imputato\nopponente di chiedere il giudizio abbreviato e\nl’applicazione della pena a norma dell’art. 444 c.p.p.",
+        "correct": false
+      },
+      {
+        "text": "rimane sospesa nei confronti di coloro che non hanno proposto\nopposizione fino a quando il giudizio conseguente all’opposizione proposta da altri coimputati non sia definito con pronuncia\nanche non irrevocabile",
+        "correct": false
+      },
+      {
+        "text": "rimane sospesa solo nei confronti di coloro che hanno proposto\nopposizione e soltanto quando il giudizio conseguente\nall’opposizione sia\ndefinito con pronuncia irrevocabile.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "text": "Contro i provvedimenti del magistrato di sorveglianza concernenti le misure di\nsicurezza, in virtù dell'art. 680 c.p.p.:",
+    "answers": [
+      {
+        "text": "possono proporre appello al Tribunale di sorveglianza il Pubblico Ministero,\nl’interessato e il difensore.",
+        "correct": true
+      },
+      {
+        "text": "può proporre appello solo l’interessato o il suo difensore.",
+        "correct": false
+      },
+      {
+        "text": "può proporre appello solo il Pubblico Ministero.",
+        "correct": false
+      },
+      {
+        "text": "è ammesso solo il\nricorso per Cassazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "text": "Se più sentenze di condanna divenute irrevocabili sono state pronunciate contro la stessa persona per il medesimo fatto, il Giudice dell’esecuzione in base all'art. 669 c.p.p.:",
+    "answers": [
+      {
+        "text": "ordina l’esecuzione della sentenza con cui si\npronunciò la condanna\nmeno grave, revocando le altre.",
+        "correct": true
+      },
+      {
+        "text": "ordina l’esecuzione della sentenza con cui si pronunciò la condanna più grave, revocando le altre.",
+        "correct": false
+      },
+      {
+        "text": "ordina l’esecuzione della sentenza divenuta\nirrevocabile per ultima.",
+        "correct": false
+      },
+      {
+        "text": "ordina l’esecuzione della sentenza divenuta\nirrevocabile per prima.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "text": "Quando è stato proposto appello contro un provvedimento penale, in base all'art. 665 c.p.p., se il provvedimento è stato\nconfermato, il Giudice dell’esecuzione è:",
+    "answers": [
+      {
+        "text": "il Giudice di primo grado.",
+        "correct": true
+      },
+      {
+        "text": "il Giudice di appello.",
+        "correct": false
+      },
+      {
+        "text": "la Corte di Cassazione.",
+        "correct": false
+      },
+      {
+        "text": "il Pubblico Ministero presso il Giudice di appello.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "text": "Salvo che sia diversamente disposto, secondo le norme del codice di procedura penale, le sentenze penali hanno forza esecutiva:",
+    "answers": [
+      {
+        "text": "quando sono divenute irrevocabili.",
+        "correct": true
+      },
+      {
+        "text": "quando sono pronunciate dal Giudice dell’appello.",
+        "correct": false
+      },
+      {
+        "text": "quando contro di esse non è ammesso l’appello.",
+        "correct": false
+      },
+      {
+        "text": "quando vengono\ndepositate in cancelleria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "text": "Ai sensi dell'art. 353 c.p.p., quando vi è necessità di acquisire plichi sigillati o\naltrimenti chiusi, l'ufficiale di polizia giudiziaria:",
+    "answers": [
+      {
+        "text": "li trasmette intatti al\npubblico ministero per l'eventuale sequestro.",
+        "correct": true
+      },
+      {
+        "text": "li trasmette, dopo\nun'opportuna ispezione, al pubblico ministero per\nl'eventuale sequestro.",
+        "correct": false
+      },
+      {
+        "text": "li acquisisce disponendo il sequestro con decreto.",
+        "correct": false
+      },
+      {
+        "text": "li trasmette intatti al Prefetto territorialmente competente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "text": "Acquisita la notizia di reato, la Polizia Giudiziaria secondo l'art. 347 c.p.p., deve riferire senza\nritardo gli elementi essenziali del fatto e gli altri elementi raccolti:",
+    "answers": [
+      {
+        "text": "al Pubblico Ministero.",
+        "correct": true
+      },
+      {
+        "text": "al Giudice per le indagini preliminari.",
+        "correct": false
+      },
+      {
+        "text": "al Pubblico Ministero e, quando individuata, alla persona offesa dal reato.",
+        "correct": false
+      },
+      {
+        "text": "al Giudice per le indagini preliminari e, quando\nindividuata, alla persona offesa dal reato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "text": "Secondo le norme di del c.p.p., la richiesta di riesame del\nprovvedimento che ha disposto il sequestro è presentata, nella cancelleria del tribunale del capoluogo della provincia nella quale ha sede l’ufficio che ha emesso il provvedimento, entro:",
+    "answers": [
+      {
+        "text": "dieci giorni dalla data di esecuzione del\nprovvedimento che ha disposto il sequestro o dalla diversa data in cui l’interessato ha avuto\nconoscenza dell’avvenuto sequestro.",
+        "correct": true
+      },
+      {
+        "text": "trenta giorni dalla data di esecuzione del\nprovvedimento che ha disposto il sequestro o dalla diversa data in cui l’interessato ha avuto conoscenza dell’avvenuto sequestro.",
+        "correct": false
+      },
+      {
+        "text": "sessanta giorni dalla data di esecuzione del\nprovvedimento che ha disposto il sequestro o dalla diversa data in cui l’interessato ha avuto conoscenza dell’avvenuto sequestro.",
+        "correct": false
+      },
+      {
+        "text": "venti giorni dalla data di esecuzione del\nprovvedimento che ha disposto il sequestro o dalla diversa data in cui l’interessato ha avuto conoscenza dell’avvenuto sequestro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "text": "Dare consigli sulla scelta del difensore, ai sensi del c.p.p.:",
+    "answers": [
+      {
+        "text": "costituisce grave infrazione disciplinare per gli ufficiali e gli agenti di\nP.G. e per tutti i dipendenti dell’Amministrazione\npenitenziaria.",
+        "correct": true
+      },
+      {
+        "text": "comporta la nullità del processo.",
+        "correct": false
+      },
+      {
+        "text": "costituisce reato se avviene durante le udienze.",
+        "correct": false
+      },
+      {
+        "text": "costituisce infrazione disciplinare ma solo se il consiglio è dato a\ndetenuti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "text": "Il Giudice privo di competenza, secondo l'art. 27 c.p.p. può adottare una misura cautelare:",
+    "answers": [
+      {
+        "text": "contestualmente alla dichiarazione di\nincompetenza.",
+        "correct": true
+      },
+      {
+        "text": "ma la misura cautelare disposta ha un'efficacia provvisoria limitata a cinque giorni dall'ordinanza che dichiara l'incompetenza.",
+        "correct": false
+      },
+      {
+        "text": "ma la misura cautelare disposta ha un'efficacia provvisoria limitata a dieci giorni dall'ordinanza che dichiara l'incompetenza.",
+        "correct": false
+      },
+      {
+        "text": "soltanto per i casi tassativamente e\nnominativamente indicati dal c.p.p.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "text": "In base a quanto previsto dal c.p.p., quale dei seguenti non rappresenta un caso di\nconnessione dei procedimenti?",
+    "answers": [
+      {
+        "text": "Il caso in cui ci sono\nprocedimenti per reati commessi quando\nl’imputato era minorenne e procedimenti per reati\ncommessi quando era maggiorenne.",
+        "correct": true
+      },
+      {
+        "text": "Il caso in cui il reato per cui si procede è stato\ncommesso da più persone in concorso o cooperazione fra loro, o se più persone con condotte indipendenti hanno determinato l’evento.",
+        "correct": false
+      },
+      {
+        "text": "Il caso in cui se una persona è imputata di più reati commessi con una sola azione od omissione ovvero con più azioni od omissioni esecutive di un medesimo disegno\ncriminoso.",
+        "correct": false
+      },
+      {
+        "text": "Il caso in cui dei reati per cui si procede gli uni sono stati commessi per eseguire o per occultare gli altri.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "text": "Conformemente alle previsioni del c.p.p., si pronuncia\nannullamento con rinvio quando:",
+    "answers": [
+      {
+        "text": "sia necessario\n\"correggere\" il vizio di una sentenza.",
+        "correct": true
+      },
+      {
+        "text": "il fatto non è previsto dalla legge come reato.",
+        "correct": false
+      },
+      {
+        "text": "il reato è estinto.",
+        "correct": false
+      },
+      {
+        "text": "il reato non appartiene alla giurisdizione del\ngiudice ordinario.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "text": "Secondo quanto sancito dal c.p.p., l'imputato può togliere effetto all'atto compiuto dal proprio difensore?",
+    "answers": [
+      {
+        "text": "Si, con espressa\ndichiarazione contraria, prima che, in relazione all’atto stesso, sia intervenuto un\nprovvedimento del giudice.",
+        "correct": true
+      },
+      {
+        "text": "No, in nessun caso avendo con la nomina del proprio difensore di fiducia ratificato ab origine l'operato di questi.",
+        "correct": false
+      },
+      {
+        "text": "No, ad eccezione del caso in cui l'imputato abbia la qualità di avvocato e cioè le conoscenze tecniche idonee a giudicare l'atto compiuto dal proprio difensore.",
+        "correct": false
+      },
+      {
+        "text": "Si, senza alcuna\nformalità ed in ogni ordine e grado del procedimento a suo carico, revocando la\nnomina al difensore e nominandole un altro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "text": "Il giudice, a norma dell’articolo 132 c.p.p., può disporre\nl’accompagnamento coattivo dell’imputato assente o contumace, quando:",
+    "answers": [
+      {
+        "text": "la sua presenza è necessaria per l’assunzione di una prova diversa dall’esame.",
+        "correct": true
+      },
+      {
+        "text": "lo richieda espressamente il Pubblico ministero.",
+        "correct": false
+      },
+      {
+        "text": "lo richieda il difensore della parte offesa.",
+        "correct": false
+      },
+      {
+        "text": "sempre ed in ogni caso lo ritenga necessario per il prosieguo del processo penale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "text": "Secondo le norme dettate dal c.p.p., le parti che intendono chiedere l'esame di testimoni, periti consulenti tecnici o imputati in procedimenti connessi o collegati:",
+    "answers": [
+      {
+        "text": "hanno l'onere di depositare in cancelleria, almeno sette giorni prima della data fissata per il dibattimento, la lista contenente\nl'indicazione dei nominativi e delle circostanze su cui verterà l'esame, a pena di decadenza del diritto di\nprova diretta.",
+        "correct": true
+      },
+      {
+        "text": "hanno l'onere di depositare in cancelleria, almeno\nquindici giorni prima della data fissata per il\ndibattimento, la lista contenente l'indicazione dei nominativi e delle\ncircostanze su cui verterà l'esame, a pena di decadenza del diritto di\nprova diretta.",
+        "correct": false
+      },
+      {
+        "text": "possono farne richiesta prima dell'apertura del dibattimento, riservandosi di comunicare,\nall'apertura del\ndibattimento, le prove che verranno utilizzate.",
+        "correct": false
+      },
+      {
+        "text": "possono introdurre le prove che intendono utilizzare all’apertura del dibattimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "text": "Secondo il combinato disposto degli art. 428 e 585 c.p.p., il\ntermine per l'impugnazione della sentenza di non luogo a procedere corrisponde a:",
+    "answers": [
+      {
+        "text": "quindici giorni a decorrere dalla lettura del\nprovvedimento in udienza, quando è redatta anche la motivazione, altrimenti, se la motivazione non è\ncontestuale, il termine\ndecorre dalla notificazione o comunicazione\ndell'avviso di deposito del provvedimento.",
+        "correct": true
+      },
+      {
+        "text": "trenta giorni a decorrere dalla lettura del\nprovvedimento in udienza, quando è redatta anche la motivazione, altrimenti, se la motivazione non è contestuale, il termine\ndecorre dalla notificazione o comunicazione dell'avviso di deposito del provvedimento.",
+        "correct": false
+      },
+      {
+        "text": "dieci giorni a decorrere dalla lettura del\nprovvedimento in udienza, quando è redatta anche la motivazione, altrimenti, se la motivazione non è contestuale, il termine decorre dalla notificazione o comunicazione\ndell'avviso di deposito del provvedimento.",
+        "correct": false
+      },
+      {
+        "text": "quarantacinque giorni a decorrere dalla lettura del provvedimento in\nudienza, quando è redatta anche la\nmotivazione, altrimenti, se la motivazione non è contestuale, il termine decorre dalla\nnotificazione o comunicazione\ndell'avviso di deposito\ndel provvedimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "text": "Si ha rimessione del processo, ai sensi dell'art. 45 c.p.p., a tutela dell'imparzialità del giudice:",
+    "answers": [
+      {
+        "text": "quale organo, anziché quale persona fisica, in ogni fase e grado del\nprocedimento, e presuppone\nl'accertamento di situazioni ambientali che possono incidere sulla sfera volitiva delle persone che partecipano al\nprocesso.",
+        "correct": true
+      },
+      {
+        "text": "quale persona fisica e presuppone l'accertamento di situazioni ambientali che possono incidere sulla sfera volitiva delle persone che partecipano al processo.",
+        "correct": false
+      },
+      {
+        "text": "quale organo, anziché quale persona fisica, prima della fase di\napertura del dibattimento, e presuppone\nl'accertamento di\nsituazioni ambientali che possono incidere sulla sfera volitiva delle persone che partecipano\nal processo.",
+        "correct": false
+      },
+      {
+        "text": "quale persona fisica, prima dell'emissione\ndella sentenza definitoria del processo, e presuppone\nl'accertamento di\nsituazioni ambientali che possono incidere sulla sfera volitiva delle persone che partecipano\nal processo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "text": "In conformità alla disposizione dell'art. 449 c.p.p., nel caso in cui una persona è stata arrestata in flagranza di un reato, il\npubblico ministero ha l'obbligo di procedere con giudizio\ndirettissimo?",
+    "answers": [
+      {
+        "text": "No, l'instaurazione del giudizio direttissimo è sempre rimessa alla\nvalutazione del pubblico ministero.",
+        "correct": true
+      },
+      {
+        "text": "Sì, l'obbligo sussiste in ogni caso di flagranza di reato, come espressamente\nprevisto dall'art. 449 c.p.p.",
+        "correct": false
+      },
+      {
+        "text": "Sì, l'obbligo sussiste in ogni caso di flagranza di reato ad eccezione dei casi in cui il reato risulti connesso ad altri reati soggetti al rito ordinario.",
+        "correct": false
+      },
+      {
+        "text": "No, l'obbligo sussiste solo nel caso in cui il\nreato risulti connesso ad altri reati.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "text": "Come sancito dall'art. 348 c.p.p., la polizia giudiziaria quando, di propria iniziativa o a seguito di delega del pubblico ministero, compie atti od operazioni che\nrichiedono specifiche\ncompetenze tecniche, può avvalersi:",
+    "answers": [
+      {
+        "text": "di persone idonee le quali non possono rifiutare la\npropria opera.",
+        "correct": true
+      },
+      {
+        "text": "di persone idonee le quali possono rifiutare la propria opera.",
+        "correct": false
+      },
+      {
+        "text": "di persone idonee esclusivamente indicate dall'Autorità giudiziaria competente, senza\nobbligo di prestazione d'opera.",
+        "correct": false
+      },
+      {
+        "text": "di persone idonee le quali possono rifiutare la propria opera se\ncontraria a norme imperative, all'ordine pubblico o al buon costume.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "text": "A norma dell'art. 352 c.p.p., le perquisizioni su iniziativa di polizia giudiziaria possono essere eseguite:",
+    "answers": [
+      {
+        "text": "nei casi di flagranza del reato o nel caso di evasione.",
+        "correct": true
+      },
+      {
+        "text": "esclusivamente nel caso di flagranza del reato.",
+        "correct": false
+      },
+      {
+        "text": "esclusivamente nel caso di evasione.",
+        "correct": false
+      },
+      {
+        "text": "in nessun caso, è sempre necessaria l'autorizzazione del pubblico ministero.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "text": "Nel giudizio conseguente\nall’opposizione a decreto penale di condanna, l’imputato ai sensi dell'art. 464 c.p.p.:",
+    "answers": [
+      {
+        "text": "non può chiedere il giudizio abbreviato o\nl’applicazione della pena su richiesta, né presentare\ndomanda di oblazione.",
+        "correct": true
+      },
+      {
+        "text": "può chiedere il giudizio abbreviato o l’applicazione della pena su richiesta, e presentare domanda di\noblazione.",
+        "correct": false
+      },
+      {
+        "text": "può chiedere il giudizio abbreviato o l’applicazione della pena su richiesta, e presentare, nei termini previsti a pena di\ndecadenza, domanda di oblazione.",
+        "correct": false
+      },
+      {
+        "text": "può chiedere il giudizio abbreviato o l’applicazione della pena su richiesta, ma non può presentare domanda di oblazione, salve le eccezioni di legge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "text": "Secondo le norme del c.p.p., sulla richiesta di riesame del\nprovvedimento che ha disposto il sequestro, decide:",
+    "answers": [
+      {
+        "text": "in composizione collegiale, il tribunale del capoluogo della provincia nella quale ha sede l’ufficio che ha emesso il provvedimento, nel termine di dieci giorni dalla ricezione degli atti.",
+        "correct": true
+      },
+      {
+        "text": "in composizione\nmonocratica, il tribunale del capoluogo della provincia\nnella quale ha sede l’ufficio che ha emesso il\nprovvedimento, nel termine di dieci giorni dalla ricezione degli atti.",
+        "correct": false
+      },
+      {
+        "text": "il Pubblico ministero.",
+        "correct": false
+      },
+      {
+        "text": "il Giudice per le indagini preliminari.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "text": "A norma del c.p.p., l'istituto dell'avocazione si sostanzia nel potere:",
+    "answers": [
+      {
+        "text": "del Procuratore generale\npresso la Corte d'appello di sostituirsi al Pubblico\nministero in primo grado nei casi di mancato esercizio dell'azione\npenale.",
+        "correct": true
+      },
+      {
+        "text": "del Pubblico ministero di sostituirsi al Procuratore generale presso la Corte\nd'appello nei casi di mancato esercizio dell'azione penale.",
+        "correct": false
+      },
+      {
+        "text": "del Pubblico ministero di sostituirsi al Giudice\npenale nei casi di mancato esercizio dell'azione penale.",
+        "correct": false
+      },
+      {
+        "text": "del Procuratore generale presso la Corte d'appello di sostituirsi al Giudice penale nei casi di\nmancato esercizio dell'azione penale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "text": "Con riferimento all'art. 403 c.p.p., in tema di incidente probatorio, l'utilizzabilità in\ndibattimento delle prove assunte nell'incidente probatorio:",
+    "answers": [
+      {
+        "text": "è vietata nei confronti dell'imputato le prove assunte nell'incidente probatorio senza la\npartecipazione del suo\ndifensore e, quindi, senza la garanzia del\ncontraddittorio.",
+        "correct": true
+      },
+      {
+        "text": "non possono mai essere utilizzate.",
+        "correct": false
+      },
+      {
+        "text": "possono sempre essere utilizzate.",
+        "correct": false
+      },
+      {
+        "text": "è rimessa al consenso di imputato e parte civile ove costituita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "text": "In base alle norme del c.p.p., è possibile la riapertura delle\nindagini a seguito del\nprovvedimento di archiviazione:",
+    "answers": [
+      {
+        "text": "a seguito di richiesta del pubblico ministero\nmotivata dall'esigenza di nuove investigazioni e con decreto motivato del\ngiudice che autorizza la riapertura.",
+        "correct": true
+      },
+      {
+        "text": "a seguito di richiesta di riesame al Tribunale del riesame.",
+        "correct": false
+      },
+      {
+        "text": "a richiesta della persona offesa con istanza\nmotivata e pedissequo decreto di autorizzazione del giudice competente.",
+        "correct": false
+      },
+      {
+        "text": "soltanto nel caso in cui, sopravvenute nuove\nulteriori circostanze, il giudice non inviti il Pubblico ministero a proseguire le indagini.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "text": "Il Pubblico ministero deve richiedere al giudice per le\nindagini preliminari la convalida dell'arresto, in base alle disposizioni del c.p.p.",
+    "answers": [
+      {
+        "text": "entro 48 ore dall'arresto.",
+        "correct": true
+      },
+      {
+        "text": "entro 36 ore dall'arresto.",
+        "correct": false
+      },
+      {
+        "text": "entro 12 ore dall'arresto.",
+        "correct": false
+      },
+      {
+        "text": "Immediatamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 37,
+    "text": "Con riguardo ai casi in cui il\ngiudice ha l'obbligo di astenersi (art. 36 c.p.p.), quale delle seguenti affermazioni è errata?",
+    "answers": [
+      {
+        "text": "Se un prossimo congiunto di lui o del coniuge è offeso o danneggiato dal reato, eccezione fatta per il caso in cui sia intervenuto l’annullamento, lo\nscioglimento o la\ncessazione degli effetti civili del matrimonio.",
+        "correct": true
+      },
+      {
+        "text": "Se ha dato consigli o manifestato il suo parere sull’oggetto del procedimento fuori\ndell’esercizio delle funzioni giudiziarie.",
+        "correct": false
+      },
+      {
+        "text": "Se un prossimo congiunto di lui o del coniuge svolge o ha svolto funzioni di pubblico ministero.",
+        "correct": false
+      },
+      {
+        "text": "Se vi è inimicizia grave\nfra lui o un suo prossimo congiunto e una delle parti private.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "text": "Per quanto concerne l'immediata apertura di plichi da parte dell'ufficiale di polizia giudiziaria autorizzato dal pubblico\nministero, contenenti notizie utili alla ricerca e all'assicurazione di fonti di prova che potrebbero andare disperse a causa del\nritardo, viste le disposizioni di cui al c.p.p., il difensore della\npersona nei cui confronti\nvengono svolte le indagini:",
+    "answers": [
+      {
+        "text": "ha facoltà di assistere, senza diritto di essere\npreventivamente avvisato.",
+        "correct": true
+      },
+      {
+        "text": "è obbligato ad assistere, senza diritto di essere preventivamente avvisato dalla polizia giudiziaria.",
+        "correct": false
+      },
+      {
+        "text": "deve essere\npreventivamente avvisato in quanto obbligato ad assistere.",
+        "correct": false
+      },
+      {
+        "text": "non ha alcuna facoltà di assistere.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "text": "Ai sensi dell'art. 355 c.p.p., dal pubblico ministero, se ne\nricorrono i presupposti, viene convalidato il sequestro\nattraverso:",
+    "answers": [
+      {
+        "text": "decreto motivato.",
+        "correct": true
+      },
+      {
+        "text": "ordinanza.",
+        "correct": false
+      },
+      {
+        "text": "decreto non motivato.",
+        "correct": false
+      },
+      {
+        "text": "ordinanza\nobbligatoriamente motivata.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "text": "Fra le seguenti cause, non importa, in virtù delle previsioni dell'art. 429 c.p., la nullità del\ndecreto che dispone il giudizio la mancata:",
+    "answers": [
+      {
+        "text": "indicazione della persona offesa dal reato.",
+        "correct": true
+      },
+      {
+        "text": "identificazione in modo certo dell'imputato.",
+        "correct": false
+      },
+      {
+        "text": "insufficiente enunciazione, in modo chiaro e preciso, del fatto, delle circostanze aggravanti e di quelle che possono comportare\nl'applicazione di misure di sicurezza, con\nl'indicazione dei relativi\narticoli di legge.",
+        "correct": false
+      },
+      {
+        "text": "o insufficiente\nindicazione del luogo, del giorno e dell'ora della\ncomparizione, con l'avvertimento\nall'imputato che non comparendo sarà\ngiudicato in contumacia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 41,
+    "text": "Secondo quanto previsto dal c.p.p., il giudice può ammettere prove d'ufficio?",
+    "answers": [
+      {
+        "text": "Sì, ma solo in casi eccezionali previsti dalla legge.",
+        "correct": true
+      },
+      {
+        "text": "Sì, sempre.",
+        "correct": false
+      },
+      {
+        "text": "No, mai.",
+        "correct": false
+      },
+      {
+        "text": "No, senza il consenso delle parti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 42,
+    "text": "Secondo quanto stabilito nelle norme del c.p.p., sono oggetto di prova i fatti inerenti alla responsabilità civile derivante  dal reato?",
+    "answers": [
+      {
+        "text": "Sì, per espressa previsione contenuta al comma 3\ndell'art. 187 c.p.p.",
+        "correct": true
+      },
+      {
+        "text": "No, sono oggetto di prova, in virtù del principio della separazione delle funzioni, esclusivamente i fatti che si\nriferiscono all’imputazione.",
+        "correct": false
+      },
+      {
+        "text": "No, sono oggetto di prova, in virtù del principio della separazione delle funzioni, esclusivamente i fatti che si riferiscono all’imputazione ed i fatti dai quali dipende l’applicazione di norme\nprocessuali.",
+        "correct": false
+      },
+      {
+        "text": "Sì, per espressa\nprevisione contenuta al comma 1 dell'art. 87 c.p.p..",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 43,
+    "text": "In materia processuale penale, in conformità alle norme del c.p.p. cosa s'intende per \"restituzione nel termine\"?",
+    "answers": [
+      {
+        "text": "È uno strumento di carattere eccezionale,\ndestinato a riassegnare alle parti la possibilità di esercitare un potere che si era estinto per l'inutile\ndecorso di un termine previsto a pena di\ndecadenza.",
+        "correct": true
+      },
+      {
+        "text": "È uno strumento di carattere generale, con il quale il\nGiudice riassegnare agli avvocati un termine ulteriore per l'esercizio del diritto di difesa delle parti che\nrappresentano.",
+        "correct": false
+      },
+      {
+        "text": "È uno strumento di\ncarattere generale, a cui ricorrere per la proroga dei termini, esclusivamente nel caso in cui è stata pronunciata sentenza contumaciale.",
+        "correct": false
+      },
+      {
+        "text": "È uno strumento di carattere eccezionale, destinato a concedere alle parti il\nprolungamento dei\ntermini di comparizione e può essere concessa più di una volta per ciascuna parte in ciascun grado\ndel procedimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 44,
+    "text": "Se alcuni dei processi pendono davanti al tribunale collegiale ed altri davanti al tribunale\nmonocratico, ai sensi dell'art. 17 c.p.p.:",
+    "answers": [
+      {
+        "text": "la riunione è disposta davanti al tribunale in\ncomposizione collegiale.",
+        "correct": true
+      },
+      {
+        "text": "la riunione è disposta davanti al tribunale monocratico.",
+        "correct": false
+      },
+      {
+        "text": "è vietata la riunione dei procedimenti.",
+        "correct": false
+      },
+      {
+        "text": "la riunione dei procedimenti può effettuarsi solo nelle\nipotesi tassativamente individuate dalla legge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 45,
+    "text": "Cosa è la \"relata di notifica\" prevista dal c.p.p. in caso di impossibilità ad effettuare la notificazione con modalità\ntelematiche?",
+    "answers": [
+      {
+        "text": "È la relazione che l'ufficiale giudiziario scrive in calce all'originale e alla copia notificata ed in cui sono\nindicate l'autorità o la parte privata richiedente, le ricerche effettuate, le\ngeneralità della persona alla quale è stata consegnata la copia, i suoi rapporti con il destinatario, le funzioni o le mansioni da essa svolte, il luogo e la\ndata della consegna della copia, apponendo la\npropria sottoscrizione.",
+        "correct": true
+      },
+      {
+        "text": "È la relazione che l'ufficiale giudiziario scrive in calce all’originale notificato ed in cui sono indicate le\ngeneralità della persona alla quale è stata consegnata la copia e la data della consegna della copia,\nfacendo apporre\nsottoscrizione autografa dal destinatario.",
+        "correct": false
+      },
+      {
+        "text": "È la \"cartolina\" consegnata dal\nportalettere per l'avviso di giacenza di atti giudiziali presso l'ufficio postale.",
+        "correct": false
+      },
+      {
+        "text": "È l'atto con il quale\nl'ausiliario del giudice descrive quanto è avvenuto in sua presenza nel corso dell'udienza penale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "text": "Secondo quanto previsto dal c.p.p., quando il testimone si\nriferisce, per la conoscenza dei fatti, ad altre persone:",
+    "answers": [
+      {
+        "text": "il giudice, a richiesta di parte o anche d'ufficio,\ndispone che queste siano chiamate a deporre.",
+        "correct": true
+      },
+      {
+        "text": "il giudice, esclusivamente a richiesta di parte, dispone che queste siano chiamate a deporre.",
+        "correct": false
+      },
+      {
+        "text": "il giudice invita il\ntestimone a riferirsi ai soli fatti di cui abbia conoscenza diretta, non potendo in nessun caso utilizzare le testimonianze indirette rese.",
+        "correct": false
+      },
+      {
+        "text": "il giudice considera sempre e comunque valide le testimonianze indirette rese fino ad eventuale querela di\nfalso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 47,
+    "text": "Ai sensi dell’art. 454 c.p.p., entro quale termine e con quale procedura il Pubblico Ministero formula la richiesta di giudizio immediato?",
+    "answers": [
+      {
+        "text": "Trasmettendola, entro novanta giorni\ndall’iscrizione della notizia di reato nel registro, alla cancelleria del GIP.",
+        "correct": true
+      },
+      {
+        "text": "Trasmettendola, entro sessanta giorni\ndall’iscrizione della notizia di reato nel registro, alla cancelleria del GIP.",
+        "correct": false
+      },
+      {
+        "text": "Trasmettendola, entro novanta giorni\ndall’iscrizione della notizia di reato nel registro, al difensore dell’indagato.",
+        "correct": false
+      },
+      {
+        "text": "Trasmettendola, entro novanta giorni dal fatto di reato, alla cancelleria del GIP.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 48,
+    "text": "Quale dei seguenti atti di polizia giudiziaria, secondo le norme del c.p.p., è di esclusiva competenza degli ufficiali di polizia\ngiudiziaria?",
+    "answers": [
+      {
+        "text": "Accertamenti delle tracce, nel caso in cui vi sia\npericolo di modifica e il pubblico ministero non possa intervenire\ntempestivamente.",
+        "correct": true
+      },
+      {
+        "text": "Arresto di chiunque è colto in flagranza di un delitto di rapina previsto dal codice penale, non colposo, consumato o tentato.",
+        "correct": false
+      },
+      {
+        "text": "Arresto di chiunque è colto in flagranza di un delitto di estorsione previsto dal codice penale, non colposo, consumato o tentato.",
+        "correct": false
+      },
+      {
+        "text": "Arresto di chiunque è colto in flagranza di delitti di illegale\nfabbricazione,\nintroduzione nello Stato, messa in vendita, cessione, detenzione e porto in luogo pubblico o aperto al pubblico di\narmi da guerra o tipo\nguerra o parti di esse, di esplosivi, di armi clandestine nonché di più armi comuni da sparo, non colposi,\nconsumati o tentati.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 49,
+    "text": "È riconosciuta dal c.p.p. la\nfacoltà di non rispondere in virtù del segreto professionale?",
+    "answers": [
+      {
+        "text": "Sì, vengono\nspecificatamente indicati i professionisti c.d.\nqualificati che non possono essere obbligati a deporre su quanto hanno\nconosciuto per ragione del proprio ministero, ufficio o professione.",
+        "correct": true
+      },
+      {
+        "text": "Sì, è specificato che tutti i professionisti, qualificati e non, sono vincolati al\nsegreto professionale e,\nquindi, non possono essere obbligati a deporre su quanto hanno conosciuto per ragione del proprio\nministero, ufficio o\nprofessione.",
+        "correct": false
+      },
+      {
+        "text": "No, tutti gli individui hanno l’obbligo di deporre su\ninvito dell'autorità giudiziaria.",
+        "correct": false
+      },
+      {
+        "text": "No, infatti i professionisti sono d'ufficio indicati\ncome testi nei procedimenti penali in quanto \"persone\ninformate dei fatti\".",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 50,
+    "text": "Il verbale di sequestro, secondo quanto disposto nel c.p.p., deve essere inviato dalla P.G. al P.M.:",
+    "answers": [
+      {
+        "text": "entro quarantotto ore.",
+        "correct": true
+      },
+      {
+        "text": "entro ventiquattro ore.",
+        "correct": false
+      },
+      {
+        "text": "entro dodici ore.",
+        "correct": false
+      },
+      {
+        "text": "entro trentasei ore.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 51,
+    "text": "La decisione del giudice penale che risolve incidentalmente una questione civile, amministrativa o penale:",
+    "answers": [
+      {
+        "text": "non ha efficacia vincolante in nessun altro processo.",
+        "correct": true
+      },
+      {
+        "text": "ha efficacia vincolante in qualsiasi altro processo penale.",
+        "correct": false
+      },
+      {
+        "text": "è immediatamente esecutiva.",
+        "correct": false
+      },
+      {
+        "text": "avvia d'ufficio l'apertura del nuovo procedimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 52,
+    "text": "Contro il decreto di sequestro emesso dal giudice, secondo le previsioni del c.p.p.:",
+    "answers": [
+      {
+        "text": "l’imputato e il suo\ndifensore, la persona alla quale le cose sono state sequestrate e quella che avrebbe diritto alla loro restituzione possono\nproporre richiesta di riesame, anche nel merito; tuttavia, la richiesta di riesame non sospende l’esecuzione del\nprovvedimento.",
+        "correct": true
+      },
+      {
+        "text": "l’imputato e il suo difensore, la persona alla quale le cose sono state sequestrate e quella che avrebbe diritto alla loro restituzione  possono proporre richiesta di riesame, anche nel merito, e la richiesta di riesame sospende l’esecuzione del provvedimento.",
+        "correct": false
+      },
+      {
+        "text": "solo l’imputato per il\ntramite del suo difensore può proporre richiesta di\nriesame, anche nel merito; tuttavia, la richiesta di\nriesame non sospende l’esecuzione del\nprovvedimento.",
+        "correct": false
+      },
+      {
+        "text": "solo l’imputato per il\ntramite del suo difensore può proporre richiesta di riesame, anche nel\nmerito, e la richiesta di riesame sospende l’esecuzione del\nprovvedimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 53,
+    "text": "Quale è la durata massima, ai sensi dell’art. 308 c.p.p., delle misure interdittive?",
+    "answers": [
+      {
+        "text": "Non superiore a dodici mesi dall’inizio della loro esecuzione.",
+        "correct": true
+      },
+      {
+        "text": "Non superiore a tre mesi non rinnovabili dalla pronuncia che le ha disposte.",
+        "correct": false
+      },
+      {
+        "text": "Non superiore a quattro mesi rinnovabili per altri quattro dall’inizio della loro esecuzione.",
+        "correct": false
+      },
+      {
+        "text": "per tutto il periodo di durata dell’indagine preliminare.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 54,
+    "text": "Quali effetti ha sulla misura cautelare disposta l'omesso o ritardato interrogatorio, in\nconformità alle norme del c.p.p.?",
+    "answers": [
+      {
+        "text": "Le misure cautelari\ncoercitive e interdittive\nperdono immediatamente efficacia se il giudice non procede all'interrogatorio entro il termine di cinque giorni, in caso di custodia\nin carcere, o di dieci giorni, in caso di altre misure\ncoercitive o interdittive.",
+        "correct": true
+      },
+      {
+        "text": "Le misure cautelari coercitive e interdittive\nperdono immediatamente efficacia se il giudice non procede all'interrogatorio entro il termine di dieci\ngiorni, in caso di custodia in carcere, o di cinque giorni, in caso di altre misure\ncoercitive o interdittive.",
+        "correct": false
+      },
+      {
+        "text": "Nessun effetto, se il giudice provvede a comunicare preventivamente al\ndifensore della persona posta in stato di custodia cautelare le ragioni\ndell'omesso o ritardato interrogatorio.",
+        "correct": false
+      },
+      {
+        "text": "Nessun effetto, il termine posto dalla legge è\nordinatorio e non perentorio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "text": "L'interrogatorio della persona in stato di custodia cautelare da parte del pubblico ministero può precedere l'interrogatorio del\ngiudice, in base alle disposizioni del c.p.p.?",
+    "answers": [
+      {
+        "text": "No, mai.",
+        "correct": true
+      },
+      {
+        "text": "Si, è espressamente previsto",
+        "correct": false
+      },
+      {
+        "text": "Si, se il difensore della persona posta in stato di custodia cautelare\nautorizza l'interrogatorio.",
+        "correct": false
+      },
+      {
+        "text": "No, a meno che il giudice non fornisca apposita autorizzazione previo\nparere del difensore della persona posta in stato di custodia cautelare.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 56,
+    "text": "Con riferimento alla figura del\ntestimone nel processo penale, in conformità al c.p.p. quale delle seguenti affermazioni risulta essere errata?",
+    "answers": [
+      {
+        "text": "Il testimone non ha\nl'obbligo, ma bensì la facoltà, di presentarsi al giudice.",
+        "correct": true
+      },
+      {
+        "text": "Il testimone ha l’obbligo di presentarsi al giudice.",
+        "correct": false
+      },
+      {
+        "text": "Il testimone ha l'obbligo di attenersi alle prescrizioni date dal giudice per le esigenze processuali.",
+        "correct": false
+      },
+      {
+        "text": "Il testimone non può essere obbligato a\ndeporre su fatti dai quali potrebbe emergere una sua responsabilità\npenale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 57,
+    "text": "Quale dei seguenti in base alle norme del c.p.p. non è un caso di annullamento senza rinvio?",
+    "answers": [
+      {
+        "text": "Quando è necessario\n\"correggere\" il vizio di una sentenza.",
+        "correct": true
+      },
+      {
+        "text": "Quando il fatto non è previsto dalla legge come reato.",
+        "correct": false
+      },
+      {
+        "text": "Quando il reato è estinto.",
+        "correct": false
+      },
+      {
+        "text": "Quando il reato non appartiene alla\ngiurisdizione del giudice ordinario.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 58,
+    "text": "Quale dei seguenti non rientra\ntra i casi previsti dal c.p.p. in cui la corte d'appello pronuncia\ncomunque una sentenza contraria all'estradizione?",
+    "answers": [
+      {
+        "text": "Quando non esiste una convenzione, pur sussistendo gravi indizi di colpevolezza ovvero se esiste una sentenza irrevocabile di condanna.",
+        "correct": true
+      },
+      {
+        "text": "Quando, per il reato per il quale l’estradizione è stata domandata, la persona è\nstata o sarà sottoposta a un procedimento che non assicura il rispetto dei diritti fondamentali.",
+        "correct": false
+      },
+      {
+        "text": "Se la sentenza per la cui esecuzione è stata\ndomandata l’estradizione contiene disposizioni contrarie ai principi fondamentali\ndell’ordinamento giuridico dello Stato.",
+        "correct": false
+      },
+      {
+        "text": "Se vi è motivo di ritenere che la persona verrà sottoposta ad atti persecutori o\ndiscriminatori ovvero a pene o trattamenti crudeli, disumani o degradanti o comunque ad atti che configurano violazione di uno dei\ndiritti fondamentali della\npersona.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 59,
+    "text": "È possibile rinnovare in appello l'istruzione dibattimentale?",
+    "answers": [
+      {
+        "text": "Sì, eccezionalmente se una parte ne abbia fatto richiesta nell'atto di\nappello o nei motivi\naggiuntivi ovvero d'ufficio se il giudice la ritiene\nassolutamente necessaria.",
+        "correct": true
+      },
+      {
+        "text": "Assolutamente no.",
+        "correct": false
+      },
+      {
+        "text": "Sì, sempre.",
+        "correct": false
+      },
+      {
+        "text": "No, ad eccezione del\nsolo caso in cui il giudice la ritenga assolutamente necessaria e quindi vi provveda d'ufficio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 60,
+    "text": "Quale delle seguenti\naffermazioni, con riferimento alle norme stabilite dal c.p.p., in\nmateria di disponibilità della P.G., è falsa?",
+    "answers": [
+      {
+        "text": "Ogni procura della Repubblica dispone di\ntutte le sezioni di polizia giudiziaria istituite nel\ndistretto.",
+        "correct": true
+      },
+      {
+        "text": "Ogni procura generale presso la Corte di appello dispone di tutte le sezioni istituite nel distretto.",
+        "correct": false
+      },
+      {
+        "text": "Ogni procura della\nRepubblica dispone della rispettiva sezione di\npolizia giudiziaria.",
+        "correct": false
+      },
+      {
+        "text": "Le attività di polizia\ngiudiziaria per i giudici del distretto sono svolte dalla sezione istituita presso la corrispondente procura della\nRepubblica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 61,
+    "text": "Cosa si intende per \"altri ufficiali e agenti di polizia giudiziaria\" ex art. 57, comma 3, c.p.p.?",
+    "answers": [
+      {
+        "text": "Tutti quei soggetti ai quali le leggi e i regolamenti\nattribuiscono le funzioni di polizia giudiziaria con\ncompetenza limitata a determinati reati.",
+        "correct": true
+      },
+      {
+        "text": "Tutti quei soggetti ai quali le leggi e i regolamenti\nattribuiscono le funzioni di polizia giudiziaria con\ncompetenza generale.",
+        "correct": false
+      },
+      {
+        "text": "Tutti quei soggetti ai quali essenzialmente i\nregolamenti attribuiscono le funzioni di polizia\ngiudiziaria con\ncompetenza limitata a determinati reati.",
+        "correct": false
+      },
+      {
+        "text": "Tutti quei soggetti ai quali le leggi e i\nregolamenti\nattribuiscono le funzioni di polizia di sicurezza con competenza limitata a determinati reati.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 62,
+    "text": "A norma dell'art. 55 c.p.p., la polizia giudiziaria svolge ogni indagine e attività disposta o delegata:",
+    "answers": [
+      {
+        "text": "dall'Autorità giudiziaria.",
+        "correct": true
+      },
+      {
+        "text": "dal Ministro della Difesa.",
+        "correct": false
+      },
+      {
+        "text": "dal Prefetto\nterritorialmente competente.",
+        "correct": false
+      },
+      {
+        "text": "dal Comandante territorialmente competente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 63,
+    "text": "Viste le disposizioni di cui all'art. 59 c.p.p., l'ufficiale preposto ai servizi di polizia giudiziaria è responsabile verso:",
+    "answers": [
+      {
+        "text": "il procuratore della Repubblica presso il\ntribunale dove ha sede il servizio dell'attività di\npolizia giudiziaria svolta da lui stesso e dal personale dipendente.",
+        "correct": true
+      },
+      {
+        "text": "il procuratore generale presso la Corte d'appello dove ha sede il servizio dell'attività di polizia\ngiudiziaria svolta da lui stesso e dal personale dipendente.",
+        "correct": false
+      },
+      {
+        "text": "il procuratore generale presso la Corte Suprema di Cassazione.",
+        "correct": false
+      },
+      {
+        "text": "il magistrato di\nsorveglianza presso il\ntribunale dove ha sede il servizio dell'attività di\npolizia giudiziaria svolta da lui stesso e dal personale dipendente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 64,
+    "text": "Cosa è l'appello incidentale, in base agli articoli del c.p.p.?",
+    "answers": [
+      {
+        "text": "È quello proposto dalla\nparte non appellante, ma che era legittimata ad impugnare in via\nprincipale, entro 15 giorni decorrenti dalla comunicazione o\nnotificazione dell'appello principale, proposto da\naltra parte.",
+        "correct": true
+      },
+      {
+        "text": "È quello proposto dalla parte non appellante, perché non legittimata ad impugnare in via principale, entro 15\ngiorni decorrenti dalla comunicazione o\nnotificazione dell'appello\nprincipale, proposto da altra parte.",
+        "correct": false
+      },
+      {
+        "text": "È quello proposto dalla parte non appellante, perché non legittimata ad impugnare in via\nprincipale, entro 7 giorni decorrenti dalla\ncomunicazione o\nnotificazione dell'appello principale, proposto da altra parte.",
+        "correct": false
+      },
+      {
+        "text": "È quello proposto dalla parte non appellante, ma che era legittimata ad impugnare in via\nprincipale, entro 7 giorni decorrenti dalla\ncomunicazione o\nnotificazione dell'appello principale, proposto da altra parte.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 65,
+    "text": "Chi tra i seguenti soggetti, secondo le disposizioni del c.p.p., assume la qualità di imputato?",
+    "answers": [
+      {
+        "text": "La persona alla quale è attribuito il reato nella richiesta di rinvio a\ngiudizio del Pubblico Ministero.",
+        "correct": true
+      },
+      {
+        "text": "La persona nei cui confronti la Polizia Giudiziaria invia al Pubblico Ministero una\nnotizia di reato.",
+        "correct": false
+      },
+      {
+        "text": "La persona che assiste al compimento di un reato.",
+        "correct": false
+      },
+      {
+        "text": "La persona nei cui\nconfronti è stata emessa una sentenza definitiva di condanna, notificata.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 66,
+    "text": "Viste le disposizioni del c.p.p. in materia di mezzi di ricerca della prova, entro quale termine,\nsuccessivamente alla\ntrasmissione del verbale di polizia giudiziaria, il pubblico ministero, se ne ricorrono i presupposti, convalida la\nperquisizione?",
+    "answers": [
+      {
+        "text": "Quarantotto ore.",
+        "correct": true
+      },
+      {
+        "text": "Novantasei ore.",
+        "correct": false
+      },
+      {
+        "text": "Ventiquattro ore.",
+        "correct": false
+      },
+      {
+        "text": "Settantadue ore.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 67,
+    "text": "Quale dei seguenti non rappresenta un caso di inammissibilità\ndell'impugnazione?",
+    "answers": [
+      {
+        "text": "L’impugnazione è\ninammissibile quando è proposta dal pubblico ministero.",
+        "correct": true
+      },
+      {
+        "text": "L’impugnazione è\ninammissibile quando vi è rinuncia all’impugnazione.",
+        "correct": false
+      },
+      {
+        "text": "L’impugnazione è\ninammissibile quando il provvedimento non è impugnabile.",
+        "correct": false
+      },
+      {
+        "text": "L’impugnazione è\ninammissibile quando è proposta da chi non è legittimato o non ha interesse.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 68,
+    "text": "La rinuncia all'impugnazione è causa di inammissibilità\ndell'impugnazione stessa?",
+    "answers": [
+      {
+        "text": "Si, lo prevede\nespressamente l'art. 591 del c.p.p.",
+        "correct": true
+      },
+      {
+        "text": "No, il diritto all'impugnazione è inderogabile, pertanto\nl'eventuale rinuncia è sempre revocabile.",
+        "correct": false
+      },
+      {
+        "text": "Si, ad eccezione del caso in cui la rinuncia incida su libertà fondamentali\ncostituzionalmente garantite.",
+        "correct": false
+      },
+      {
+        "text": "No, lo prevede\nespressamente l'art. 591 del c.p.p..",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 69,
+    "text": "Viste le disposizioni del c.p.p., come viene definito il\ndocumento ove la P.G. annota, secondo le modalità ritenute idonee ai fini delle indagini, anche sommariamente, tutte le attività svolte, comprese quelle dirette all'individuazione delle\nfonti di prova?",
+    "answers": [
+      {
+        "text": "Verbale.",
+        "correct": true
+      },
+      {
+        "text": "Relazione.",
+        "correct": false
+      },
+      {
+        "text": "Rapporto.",
+        "correct": false
+      },
+      {
+        "text": "Istanza.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 70,
+    "text": "Per quanto concerne le attività di accertamento urgente sui luoghi, sulle cose e sulle persone da parte degli ufficiali e agenti di\npolizia giudiziaria, viste le disposizioni del c.p.p., il difensore della persona nei cui confronti vengono svolte le\nindagini:",
+    "answers": [
+      {
+        "text": "ha facoltà di assistere, senza diritto di essere\npreventivamente avvisato.",
+        "correct": true
+      },
+      {
+        "text": "deve essere\npreventivamente avvisato in quanto obbligato ad\nassistere.",
+        "correct": false
+      },
+      {
+        "text": "è obbligato ad assistere, senza diritto di essere preventivamente avvisato dalla polizia giudiziaria.",
+        "correct": false
+      },
+      {
+        "text": "non ha alcuna facoltà di assistere.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 71,
+    "text": "A norma delle disposizioni del\nc.p.p. relative alle attività a\niniziativa della polizia giudiziaria, entro quale termine, questa, deve trasmettere al pubblico ministero del luogo dove la perquisizione è stata eseguita il verbale delle operazioni\ncompiute?",
+    "answers": [
+      {
+        "text": "Quarantotto ore.",
+        "correct": true
+      },
+      {
+        "text": "Ventiquattro ore.",
+        "correct": false
+      },
+      {
+        "text": "Novantasei ore.",
+        "correct": false
+      },
+      {
+        "text": "Settantadue ore.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 72,
+    "text": "Viste le disposizioni del c.p.p. in materia di attività a iniziativa della polizia giudiziaria, le\nsommarie informazioni dalla persona nei cui confronti vengono svolte le indagini sono assunte:",
+    "answers": [
+      {
+        "text": "con la necessaria assistenza del difensore, al quale la polizia giudiziaria dà tempestivo avviso.",
+        "correct": true
+      },
+      {
+        "text": "senza la necessaria assistenza del difensore.",
+        "correct": false
+      },
+      {
+        "text": "con la necessaria assistenza di un perito.",
+        "correct": false
+      },
+      {
+        "text": "con la necessaria assistenza di un difensore d'ufficio, al quale la polizia\ngiudiziaria dà tempestivo avviso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 73,
+    "text": "Ai sensi dell'art. 348 c.p.p., la polizia giudiziaria svolge un'attività di iniziativa in senso stretto (o autonoma) che consiste nel:",
+    "answers": [
+      {
+        "text": "tutte le altre risposte sono esatte.",
+        "correct": true
+      },
+      {
+        "text": "raccogliere ogni elemento utile alla ricostruzione del\nfatto e alla individuazione del colpevole.",
+        "correct": false
+      },
+      {
+        "text": "ricercare le persone in grado di riferire su\ncircostanze rilevanti per la ricostruzione dei fatti.",
+        "correct": false
+      },
+      {
+        "text": "ricerca delle cose e delle tracce pertinenti al reato nonché alla conservazione di esse e dello stato dei luoghi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 74,
+    "text": "Viste le disposizioni del c.p.p. in merito alle attività a iniziativa della polizia giudiziaria, una volta ricevuta una notizia di reato, per la polizia giudiziaria:",
+    "answers": [
+      {
+        "text": "scatta l'obbligo di\ninformativa per il pubblico ministero.",
+        "correct": true
+      },
+      {
+        "text": "scatta l'obbligo di informativa per il magistrato di\nsorveglianza.",
+        "correct": false
+      },
+      {
+        "text": "scatta l'obbligo di informare l'Ufficiale competente.",
+        "correct": false
+      },
+      {
+        "text": "scatta l'obbligo di informare il Prefetto territorialmente\ncompetente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 75,
+    "text": "È ammesso l'arresto ad opera di un privato?",
+    "answers": [
+      {
+        "text": "Sì, l'arresto in flagranza può essere effettuato da\nogni persona se il delitto è procedibile d'ufficio e sono presenti i requisiti\ndell'arresto obbligatorio per la polizia.",
+        "correct": true
+      },
+      {
+        "text": "Sì, sempre, anche nel caso in cui tenuto conto delle circostanze del fatto, appare che questo è stato compiuto nell'adempimento di un dovere o nell'esercizio di una facoltà legittima.",
+        "correct": false
+      },
+      {
+        "text": "No, in nessun caso,\nl'arresto è effettuabile dai soli corpi di polizia.",
+        "correct": false
+      },
+      {
+        "text": "No, ad eccezione del caso in cui le cose costituenti il corpo del reato non siano di\nproprietà del privato che effettua l'arresto in\nflagranza.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 76,
+    "text": "Il privato che ha avuto notizia di un reato perseguibile d’ufficio ha l'obbligo di denunciarlo?",
+    "answers": [
+      {
+        "text": "Né ha facoltà, salvo i casi in cui, per legge, la denuncia è obbligatoria.",
+        "correct": true
+      },
+      {
+        "text": "Deve farne denuncia in ogni caso e senza ritardo.",
+        "correct": false
+      },
+      {
+        "text": "La denuncia è sempre e solo facoltativa essendo rimessa al dovere civico della singola persona.",
+        "correct": false
+      },
+      {
+        "text": "Sì, sempre, ad eccezione del caso in cui si tratti del soggetto passivo del reato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 77,
+    "text": "La parte che non ha proposto impugnazione può proporre, in conformità all'art. 595 c.p.p., appello incidentale entro:",
+    "answers": [
+      {
+        "text": "quindici giorni da quello in cui ha ricevuto la comunicazione o la\nnotificazione.",
+        "correct": true
+      },
+      {
+        "text": "dieci giorni da quello in cui ha ricevuto la\ncomunicazione o la notificazione.",
+        "correct": false
+      },
+      {
+        "text": "trenta giorni da quello in cui ha ricevuto la\ncomunicazione o la notificazione.",
+        "correct": false
+      },
+      {
+        "text": "venti giorni da quello in cui ha ricevuto la\ncomunicazione o la notificazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 78,
+    "text": "Quale delle seguenti\naffermazioni, viste le disposizioni concernenti l'obbligo di riferire la notizia di reato di cui al c.p.p., è vera?",
+    "answers": [
+      {
+        "text": "Acquisita la notizia di reato, la polizia giudiziaria, senza ritardo, riferisce al\npubblico ministero, per iscritto, gli elementi essenziali del fatto e gli\naltri elementi sino ad allora raccolti.",
+        "correct": true
+      },
+      {
+        "text": "Acquisita la notizia di reato, la polizia giudiziaria, senza ritardo, riferisce al pubblico ministero, anche oralmente, gli elementi essenziali del\nfatto e gli altri elementi sino ad allora raccolti.",
+        "correct": false
+      },
+      {
+        "text": "Acquisita la notizia di reato, la polizia giudiziaria, entro dodici ore, riferisce al pubblico ministero, per iscritto, gli elementi\nessenziali del fatto e gli altri elementi sino ad allora raccolti.",
+        "correct": false
+      },
+      {
+        "text": "Acquisita la notizia di reato, la polizia\ngiudiziaria, senza ritardo, riferisce al magistrato di sorveglianza, per iscritto, gli elementi essenziali del fatto e gli altri elementi sino ad allora\nraccolti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 79,
+    "text": "Agli agenti di polizia municipale la qualifica di agente di polizia\ngiudiziaria, secondo le norme del c.p.p., viene assegnata da:",
+    "answers": [
+      {
+        "text": "dalla norma prevista dall'art. 57 c.p.p.",
+        "correct": true
+      },
+      {
+        "text": "dal Sindaco.",
+        "correct": false
+      },
+      {
+        "text": "dal Prefetto.",
+        "correct": false
+      },
+      {
+        "text": "dal Questore.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 80,
+    "text": "Il verbale di perquisizione che la polizia giudiziaria ha eseguito\nd'iniziativa, ai sensi del c.p.p., è trasmesso:",
+    "answers": [
+      {
+        "text": "al p.m. del luogo dove la perquisizione è stata eseguita.",
+        "correct": true
+      },
+      {
+        "text": "al p.m. competente\nterritorialmente per il reato cui s'indaga.",
+        "correct": false
+      },
+      {
+        "text": "al p.m. da cui dipende la sezione di p.r. operante.",
+        "correct": false
+      },
+      {
+        "text": "al Procuratore Generale del distretto in cui la\npolizia giudiziaria ha operato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 81,
+    "text": "Quale dei seguenti atti, in base all'art. 380 c.p.p., può essere\ncompiuto dagli ufficiali ed agenti di polizia giudiziaria di propria\niniziativa?",
+    "answers": [
+      {
+        "text": "Arresto di chiunque è colto in flagranza di un delitto non colposo tentato per il quale la legge stabilisce\nl'ergastolo.",
+        "correct": true
+      },
+      {
+        "text": "Interrogatori.",
+        "correct": false
+      },
+      {
+        "text": "Decreto di sequestro presso banche.",
+        "correct": false
+      },
+      {
+        "text": "Estrazione di copia degli atti e dei documenti sequestrati, in possesso dell'autorità giudiziaria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 82,
+    "text": "A norma del Codice di\nProcedura Penale, quali sono i soggetti abilitati a ricevere la denuncia di un reato\nperseguibile d’ufficio?",
+    "answers": [
+      {
+        "text": "Il Pubblico Ministero e gli Ufficiali di Polizia\nGiudiziaria.",
+        "correct": true
+      },
+      {
+        "text": "Solo gli Agenti e gli Ufficiali di Polizia Giudiziaria.",
+        "correct": false
+      },
+      {
+        "text": "Solo il Pubblico Ministero.",
+        "correct": false
+      },
+      {
+        "text": "Il Pubblico Ministero in ogni caso, se la denuncia proviene da un Pubblico Ufficiale, od anche un Ufficiale di Polizia\nGiudiziaria, se la denuncia è fatta da privati.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 83,
+    "text": "La c. d. informativa di reato è la notizia di reato che la Polizia\ngiudiziaria ha l'obbligo, sanzionato penalmente, di\ninviare al pubblico ministero:",
+    "answers": [
+      {
+        "text": "tempestivamente.",
+        "correct": true
+      },
+      {
+        "text": "entro 48 ore.",
+        "correct": false
+      },
+      {
+        "text": "entro 72 ore.",
+        "correct": false
+      },
+      {
+        "text": "entro 24 ore.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 84,
+    "text": "L’indagato in custodia cautelare ha il diritto, secondo il c.p.p., di conferire con il difensore:",
+    "answers": [
+      {
+        "text": "fin dall’inizio\ndell’esecuzione della\nmisura, purché non ricorra il caso della dilazione per un tempo non superiore a giorni cinque, disposta dal giudice per le indagini\npreliminari.",
+        "correct": true
+      },
+      {
+        "text": "fin dall’inizio dell’esecuzione della misura, sempre.",
+        "correct": false
+      },
+      {
+        "text": "fin dall’inizio dell’esecuzione della misura se non trattasi di reati di stampo mafioso.",
+        "correct": false
+      },
+      {
+        "text": "non prima di dieci giorni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 85,
+    "text": "In cosa consiste, secondo l'art. 282 c.p.p., l’obbligo di presentazione alla Polizia\nGiudiziaria?",
+    "answers": [
+      {
+        "text": "L’obbligo per l’imputato di presentarsi presso un\ndeterminato ufficio di Polizia Giudiziaria alle scadenze prestabilite.",
+        "correct": true
+      },
+      {
+        "text": "L’obbligo per l’imputato di presentarsi due volte al\ngiorno presso un qualunque ufficio di Polizia Giudiziaria.",
+        "correct": false
+      },
+      {
+        "text": "L’obbligo per l’imputato di presentarsi ogni giorno presso un qualunque ufficio di Polizia\nGiudiziaria.",
+        "correct": false
+      },
+      {
+        "text": "L’obbligo per l’imputato di presentarsi ogni sera presso un determinato ufficio di Polizia\nGiudiziaria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 86,
+    "text": "Il verbale di vane ricerche, in conformità all'art- 295 c.p.p., consiste:",
+    "answers": [
+      {
+        "text": "nel verbale redatto in caso di mancato rintraccio del destinatario della custodia cautelare.",
+        "correct": true
+      },
+      {
+        "text": "nel verbale redatto dal cancelliere in caso di\nsmarrimento di documenti.",
+        "correct": false
+      },
+      {
+        "text": "nel verbale con cui il P.M. chiude le indagini preliminari risultate infruttuose.",
+        "correct": false
+      },
+      {
+        "text": "nel verbale con cui la\nP.G. dichiara di non aver rinvenuto il corpo del reato a seguito di\nperquisizione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 87,
+    "text": "Gli ufficiali e gli agenti di polizia giudiziaria possono deporre, in base all'art. 195 c.p.p., sul contenuto delle dichiarazioni rese loro dai testimoni:",
+    "answers": [
+      {
+        "text": "ma solo nei casi indicati espressamente.",
+        "correct": true
+      },
+      {
+        "text": "senza limitazioni.",
+        "correct": false
+      },
+      {
+        "text": "ma solo in sede di confronto di teste.",
+        "correct": false
+      },
+      {
+        "text": "ma solo nell'incidente probatorio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 88,
+    "text": "Il pubblico ministero modifica l’imputazione e procede alla relativa contestazione, in relazione alle norme del c.p.p.:",
+    "answers": [
+      {
+        "text": "se nel corso dell’istruzione dibattimentale il fatto risulta diverso da come è descritto nel decreto che dispone il giudizio, e non appartiene alla\ncompetenza di un giudice superiore.",
+        "correct": true
+      },
+      {
+        "text": "se nel corso dell’istruzione dibattimentale il fatto risulta diverso da come è descritto nel decreto che dispone il\ngiudizio, anche se\nappartiene alla competenza di un giudice superiore.",
+        "correct": false
+      },
+      {
+        "text": "su istanza della parte offesa.",
+        "correct": false
+      },
+      {
+        "text": "su istanza dell'imputato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 89,
+    "text": "La polizia giudiziaria può\nacquisire sommarie informazioni dalla persona sottoposta alle\nindagini che non si trovi in stato di arresto o di fermo. La\npresenza del difensore, ai fini dell'espletamento dell'atto in base alle norme del c.p.p., è:",
+    "answers": [
+      {
+        "text": "necessaria.",
+        "correct": true
+      },
+      {
+        "text": "consentita.",
+        "correct": false
+      },
+      {
+        "text": "vietata.",
+        "correct": false
+      },
+      {
+        "text": "obbligatoria, salvo che il pubblico ministero escluda per gravi motivi, con decreto motivato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 90,
+    "text": "L'organo titolare dell’accusa\nnell’ambito del processo penale, secondo le disposizioni del c.p.p., è:",
+    "answers": [
+      {
+        "text": "il Pubblico Ministero.",
+        "correct": true
+      },
+      {
+        "text": "la Polizia Giudiziaria.",
+        "correct": false
+      },
+      {
+        "text": "il Giudice delle indagini preliminari.",
+        "correct": false
+      },
+      {
+        "text": "il Pubblico Ministero ed il Giudice delle indagini preliminari.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 91,
+    "text": "I documenti anonimi, in\nconformità alle norme del c.p.p., possono essere acquisiti o utilizzati nel processo penale?",
+    "answers": [
+      {
+        "text": "No, tranne se costituiscono corpo di reato o\nprovengano dall’imputato.",
+        "correct": true
+      },
+      {
+        "text": "Sì, ma solo se ammessi dal Giudice.",
+        "correct": false
+      },
+      {
+        "text": "No, in nessun caso.",
+        "correct": false
+      },
+      {
+        "text": "Sì, salvo le eccezioni previste dalla legge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 92,
+    "text": "I Pubblici Ufficiali che hanno notizia di un reato, secondo le disposizioni del c.p.p., sono sempre tenuti a fare denuncia:",
+    "answers": [
+      {
+        "text": "ma solo per reati\nperseguibili d’ufficio.",
+        "correct": true
+      },
+      {
+        "text": "sempre, tranne che sia ignota la persona che ha commesso il reato.",
+        "correct": false
+      },
+      {
+        "text": "ma solo quelli appartenenti alla Polizia Giudiziaria.",
+        "correct": false
+      },
+      {
+        "text": "sempre, senza eccezioni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 93,
+    "text": "Nel processo penale, l'onere della prova in senso formale previsto dal c.p.p. impone:",
+    "answers": [
+      {
+        "text": "alle parti il dovere di chiedere al giudice\nl'ammissione del mezzo di prova.",
+        "correct": true
+      },
+      {
+        "text": "alle parti l'onere di convincere il giudice dell'esistenza del fatto affermato.",
+        "correct": false
+      },
+      {
+        "text": "alla sola parte civile e all'imputato il dovere di chiedere al giudice\nl'ammissione del mezzo di prova, in quanto quelle del PM vengono\nautomaticamente assunte al fascicolo del\ndibattimento.",
+        "correct": false
+      },
+      {
+        "text": "alle parti l'onere di convincere il giudice dell'esistenza del fatto affermato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 94,
+    "text": "La Polizia Giudiziaria, nella\nflagranza di reato perseguibile a querela di parte, secondo le disposizioni del c.p.p.:",
+    "answers": [
+      {
+        "text": "procede solo se viene\nproposta la querela, anche oralmente.",
+        "correct": true
+      },
+      {
+        "text": "non può procedere in nessun caso.",
+        "correct": false
+      },
+      {
+        "text": "procede solo fino a quando la vittima del reato non sia in grado di\nintendere e di volere.",
+        "correct": false
+      },
+      {
+        "text": "può procedere solo dopo che la querela è stata\nverbalizzata.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 95,
+    "text": "La Polizia Giudiziaria, in base alle norme del c.p.p., può procedere alle sommarie informazioni assunte dall’indagato?",
+    "answers": [
+      {
+        "text": "sì, se l’indagato non si\ntrova in stato di fermo o arresto.",
+        "correct": true
+      },
+      {
+        "text": "sì, ma solo previa\nautorizzazione del Pubblico Ministero.",
+        "correct": false
+      },
+      {
+        "text": "sì, in ogni caso.",
+        "correct": false
+      },
+      {
+        "text": "no, in ogni caso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 96,
+    "text": "Ai sensi delle disposizioni del c.p.p., la Polizia Giudiziaria\ntrasmette al Pubblico Ministero il verbale di una perquisizione\neffettuata d’iniziativa;",
+    "answers": [
+      {
+        "text": "non oltre le 48 ore.",
+        "correct": true
+      },
+      {
+        "text": "entro 24 ore.",
+        "correct": false
+      },
+      {
+        "text": "immediatamente.",
+        "correct": false
+      },
+      {
+        "text": "entro 5 giorni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 97,
+    "text": "Il Codice di Procedura Penale per identificare le tracce del reato nel luogo in cui esso è avvenuto prevede:",
+    "answers": [
+      {
+        "text": "l'ispezione.",
+        "correct": true
+      },
+      {
+        "text": "la perquisizione.",
+        "correct": false
+      },
+      {
+        "text": "il sopralluogo.",
+        "correct": false
+      },
+      {
+        "text": "la perizia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 98,
+    "text": "Il fermo di Polizia Giudiziaria, previsto dal c.p.p., è soggetto a convalida:",
+    "answers": [
+      {
+        "text": "sempre, da parte del Giudice delle indagini preliminari.",
+        "correct": true
+      },
+      {
+        "text": "da parte del Pubblico\nMinistero, salvo che si tratti di fermo in flagranza di reato.",
+        "correct": false
+      },
+      {
+        "text": "ma solo al momento in cui il fermo viene trasformato in arresto.",
+        "correct": false
+      },
+      {
+        "text": "da parte del Giudice delle indagini preliminari, salvo che si tratti di\nfermo in flagranza di reato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 99,
+    "text": "A norma del Codice di\nProcedura Penale, è necessaria la presenza del difensore per assumere sommarie\ninformazioni dall’indagato?",
+    "answers": [
+      {
+        "text": "Sì, in ogni caso.",
+        "correct": true
+      },
+      {
+        "text": "Il difensore ha diritto al preavviso, ma la presenza non è necessaria.",
+        "correct": false
+      },
+      {
+        "text": "No, il difensore non ha\ndiritto di assistere, tranne i casi espressamente\nprevisti dalla legge.",
+        "correct": false
+      },
+      {
+        "text": "È necessaria solo se\nl’indagato si trovi in stato di arresto o di fermo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 100,
+    "text": "Ai sensi del c.p.p., viene disposto il sequestro preventivo:",
+    "answers": [
+      {
+        "text": "quando vi sia il pericolo che la libera disponibilità della cosa pertinente al reato possa aggravarne le conseguenze.",
+        "correct": true
+      },
+      {
+        "text": "quando vi sia la necessità di assicurare le fonti di prova di un reato.",
+        "correct": false
+      },
+      {
+        "text": "quando lo ritiene\nopportuno l’Autorità Provinciale di Pubblica sicurezza per prevenire pericoli per l’ordine pubblico.",
+        "correct": false
+      },
+      {
+        "text": "quando, non essendo presente un Ufficiale di Polizia Giudiziaria, gli Agenti preferiscono\nconservare elementi che provino il compimento di un reato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 101,
+    "text": "Quali sono le funzioni della Polizia Giudiziaria, secondo le norme del c.p.p.?",
+    "answers": [
+      {
+        "text": "Prendere notizia dei reati anche di iniziativa,\nimpedire che vengano portati a conseguenze ulteriori, ricercare gli\nautori dei reati, assicurare le fonti di prova.",
+        "correct": true
+      },
+      {
+        "text": "Svolgere esclusivamente l’attività delegata dal giudice del dibattimento.",
+        "correct": false
+      },
+      {
+        "text": "Svolgere esclusivamente indagini per l’accertamento delle\nviolazioni amministrative.",
+        "correct": false
+      },
+      {
+        "text": "Esclusivamente prendere notizia dei reati e riferirne con immediatezza al\ngiudice del dibattimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 102,
+    "text": "Dopo aver trasmesso la\ncomunicazione di una notizia di reato, ai sensi dell'art. 348 c.p.p., la Polizia Giudiziaria:",
+    "answers": [
+      {
+        "text": "svolge attività anche\nd’iniziativa informandone prontamente il Pubblico Ministero.",
+        "correct": true
+      },
+      {
+        "text": "può svolgere esclusivamente attività delegata dal Pubblico Ministero.",
+        "correct": false
+      },
+      {
+        "text": "deve attendere le disposizioni del Prefetto.",
+        "correct": false
+      },
+      {
+        "text": "procede a redigere gli atti di sequestro alla\nbase della notizia di reato ai fini della loro\nconvalida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 103,
+    "text": "Quale, tra i seguenti, è presupposto necessario per il sequestro penale probatorio d’iniziativa della Polizia\nGiudiziaria?",
+    "answers": [
+      {
+        "text": "Il pericolo che le cose o le tracce pertinenti al reato si alterino o si modifichino o si disperdano.",
+        "correct": true
+      },
+      {
+        "text": "Che vi sia la flagranza del reato.",
+        "correct": false
+      },
+      {
+        "text": "Che vi sia la presenza del difensore.",
+        "correct": false
+      },
+      {
+        "text": "Il pericolo che le cose o le tracce pertinenti al reato si alterino o si\nmodifichino o si disperdano e che vi sia la presenza del difensore.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 104,
+    "text": "A norma del c.p.p., è necessaria la presenza del difensore per\neffettuare un sequestro probatorio d’iniziativa della Polizia Giudiziaria?",
+    "answers": [
+      {
+        "text": "No, è sempre facoltativa.",
+        "correct": true
+      },
+      {
+        "text": "Sì, è sempre obbligatoria.",
+        "correct": false
+      },
+      {
+        "text": "No, è vietata.",
+        "correct": false
+      },
+      {
+        "text": "È obbligatoria solo nei casi espressamente previsti dalla legge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 105,
+    "text": "L’azione penale, in base alle disposizioni contenute nel c.p.p., può esercitarsi con:",
+    "answers": [
+      {
+        "text": "presentazione\ndell’imputato per il giudizio direttissimo.",
+        "correct": true
+      },
+      {
+        "text": "richiesta di misura cautelare.",
+        "correct": false
+      },
+      {
+        "text": "richiesta di proroga del termine delle indagini preliminari.",
+        "correct": false
+      },
+      {
+        "text": "richiesta d'archiviazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 106,
+    "text": "La perquisizione domiciliare\noperata d’iniziativa della Polizia Giudiziaria, ai sensi dell'art. 251 c.p.p., può essere effettuata anche di notte?",
+    "answers": [
+      {
+        "text": "Sì, quando il ritardo\npotrebbe pregiudicarne l’esito.",
+        "correct": true
+      },
+      {
+        "text": "No, in nessun caso.",
+        "correct": false
+      },
+      {
+        "text": "Sì, in ogni caso.",
+        "correct": false
+      },
+      {
+        "text": "Sì, ma solo previa autorizzazione del Pubblico Ministero.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 107,
+    "text": "A norma del Codice di\nProcedura Penale, la Polizia Giudiziaria può procedere ad accertamenti e rilievi sulle persone?",
+    "answers": [
+      {
+        "text": "Sì, anche di propria iniziativa, purché diversi\ndall’ispezione personale e nei casi previsti dalla\nlegge.",
+        "correct": true
+      },
+      {
+        "text": "Sì, può procedere a tutti gli accertamenti e rilievi sulle persone, ma solo su delega del Pubblico Ministero.",
+        "correct": false
+      },
+      {
+        "text": "Sì, solo su delega del Pubblico Ministero, purché diversi\ndall’ispezione personale.",
+        "correct": false
+      },
+      {
+        "text": "Sì, anche di propria\niniziativa, ad eccezione delle ispezioni personali e locali o sulle cose, per le quali è sempre\nnecessaria la preventiva autorizzazione del Pubblico Ministero.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 108,
+    "text": "La persona colpita da ordinanza di custodia cautelare in carcere deve essere interrogata dal\ngiudice secondo le norme del c.p.p.",
+    "answers": [
+      {
+        "text": "immediatamente o in ogni modo non oltre cinque\ngiorni dall’inizio\ndell’esecuzione della custodia, salvo il caso in cui essa sia assolutamente impedita.",
+        "correct": true
+      },
+      {
+        "text": "entro 96 ore dall’inizio dell’esecuzione della custodia.",
+        "correct": false
+      },
+      {
+        "text": "entro 48 ore dall’inizio dell’esecuzione della custodia, salvi i casi d'assoluto impedimento.",
+        "correct": false
+      },
+      {
+        "text": "non oltre i cinque giorni dall’inizio della custodia, salvo il caso in cui il difensore sia impedito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 109,
+    "text": "Nel giudizio direttissimo, ai sensi delle norme del c.p.p., l'imputato può chiedere un termine per preparare la difesa non\nsuperiore:",
+    "answers": [
+      {
+        "text": "10 giorni.",
+        "correct": true
+      },
+      {
+        "text": "7 giorni.",
+        "correct": false
+      },
+      {
+        "text": "8 giorni.",
+        "correct": false
+      },
+      {
+        "text": "12 giorni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 110,
+    "text": "All'udienza di convalida dell'arresto occorre\nnecessariamente che partecipino:",
+    "answers": [
+      {
+        "text": "il difensore dell’arrestato, mentre il p.m. ha facoltà di partecipare.",
+        "correct": true
+      },
+      {
+        "text": "il p.m., il difensore dell’arrestato, l’arrestato stesso il quale non può rinunciare.",
+        "correct": false
+      },
+      {
+        "text": "sia il p.m., che il difensore dell’arrestato.",
+        "correct": false
+      },
+      {
+        "text": "il solo p.m. e l’arrestato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 111,
+    "text": "A norma del c.p.p., il verbale del sequestro operato d’iniziativa della Polizia Giudiziaria deve essere trasmesso:",
+    "answers": [
+      {
+        "text": "entro 48 ore al Pubblico Ministero per la convalida.",
+        "correct": true
+      },
+      {
+        "text": "entro 48 ore al Giudice delle indagini preliminari per la convalida.",
+        "correct": false
+      },
+      {
+        "text": "entro 24 ore al Pubblico Ministero, ma non\nnecessita di convalida.",
+        "correct": false
+      },
+      {
+        "text": "entro 24 ore al Pubblico Ministero per la\nconvalida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 112,
+    "text": "Nel diritto processuale penale, il principio di correlazione tra accusa e sentenza assume, ai sensi dell'art. 521 c.p.p., la seguente connotazione:",
+    "answers": [
+      {
+        "text": "un soggetto può essere giudicato solo sul fatto oggetto di una specifica imputazione e non su un fatto diverso.",
+        "correct": true
+      },
+      {
+        "text": "un soggetto può essere\ngiudicato non solo sul fatto oggetto della specifica imputazione ma anche su tutte le altre circostanze allo stesso connesse emerse\ndurante l'istruzione dibattimentale.",
+        "correct": false
+      },
+      {
+        "text": "un soggetto può essere\ngiudicato sul fatto oggetto della specifica\nimputazione e su tutti i reati strettamente legati a quello per cui si procede.",
+        "correct": false
+      },
+      {
+        "text": "un soggetto può essere giudicato sul fatto\noggetto della specifica imputazione e su tutti i reati proseguibili d'ufficio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 113,
+    "text": "Il referto, previsto dall'art. 334 c.p.p., è:",
+    "answers": [
+      {
+        "text": "un mezzo tipico di notizia di reato,",
+        "correct": true
+      },
+      {
+        "text": "la risultanza d'ogni indagine della polizia giudiziaria.",
+        "correct": false
+      },
+      {
+        "text": "la conclusione cui perviene il perito.",
+        "correct": false
+      },
+      {
+        "text": "il corpo di reato presentato al P.M.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 114,
+    "text": "Il termine delle intercettazioni autorizzate dal giudice per le\nindagini preliminari, previsto dal c.p.p., può essere prorogato?",
+    "answers": [
+      {
+        "text": "Sì, può essere prorogato\nper periodi successivi di 15 giorni.",
+        "correct": true
+      },
+      {
+        "text": "No, mai.",
+        "correct": false
+      },
+      {
+        "text": "Sì, può essere prorogato per non più di una volta.",
+        "correct": false
+      },
+      {
+        "text": "può essere prorogato ma solo per reati di stampo mafioso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 115,
+    "text": "La P.G., quando sono stati compiuti atti per i quali è prevista l’assistenza del\ndifensore della persona nei cui confronti vengono svolte le\nindagini, entro quanto dà\ncomunicazione secondo il c.p.p. al P.M. della notizia di reato?",
+    "answers": [
+      {
+        "text": "Al più tardi entro 48 ore dal compimento degli atti.",
+        "correct": true
+      },
+      {
+        "text": "Entro 96 ore.",
+        "correct": false
+      },
+      {
+        "text": "Immediatamente dopo il compimento degli atti.",
+        "correct": false
+      },
+      {
+        "text": "Al più tardi entro 24 ore dalla redazione\ndell’informativa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 116,
+    "text": "Ai sensi del c.p.p., il pubblico ministero può delegare alla P.G.:",
+    "answers": [
+      {
+        "text": "tutte le attività d’indagine, tranne alcuni atti a lui riservati.",
+        "correct": true
+      },
+      {
+        "text": "solo atti non urgenti.",
+        "correct": false
+      },
+      {
+        "text": "qualsiasi attività d’indagine.",
+        "correct": false
+      },
+      {
+        "text": "atti che siano di\ncompetenza degli ufficiali di P.G.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 117,
+    "text": "Il reato permanente è considerato ancora in stato di flagranza, ai sensi dell'art. 382 c.p.p.:",
+    "answers": [
+      {
+        "text": "fino a quando non è cessata la permanenza.",
+        "correct": true
+      },
+      {
+        "text": "fino a quando dura la condotta.",
+        "correct": false
+      },
+      {
+        "text": "solo al momento in cui inizia l’evento.",
+        "correct": false
+      },
+      {
+        "text": "fino a 10 giorni dall’inizio della condotta",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 118,
+    "text": "Nella fase del dibattimento la disciplina dell'udienza compete, secondo le norme del c.p.p.:",
+    "answers": [
+      {
+        "text": "al presidente e, in sua assenza, al P.M.",
+        "correct": true
+      },
+      {
+        "text": "solo alla polizia giudiziaria presente in aula.",
+        "correct": false
+      },
+      {
+        "text": "al presidente e, in sua assenza alla polizia\ngiudiziaria.",
+        "correct": false
+      },
+      {
+        "text": "al p.m. o per sua delega, ad ufficiali di polizia\ngiudiziaria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 119,
+    "text": "L’arrestato o il fermato per errore di persona può essere posto in libertà, secondo il c.p.p.:",
+    "answers": [
+      {
+        "text": "dall’ufficiale di p.r. prima dell’intervento del p.m.",
+        "correct": true
+      },
+      {
+        "text": "dal G.I.P..",
+        "correct": false
+      },
+      {
+        "text": "solo dal p.m. o dal Procuratore Generale.",
+        "correct": false
+      },
+      {
+        "text": "dalla polizia giudiziaria in genere.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 120,
+    "text": "Il divieto o l'obbligo di dimora, ai sensi delle norme dell'art. 283 c.p.p., costituisce:",
+    "answers": [
+      {
+        "text": "una misura cautelare personale coercitiva.",
+        "correct": true
+      },
+      {
+        "text": "una misura di sicurezza.",
+        "correct": false
+      },
+      {
+        "text": "una pena accessoria.",
+        "correct": false
+      },
+      {
+        "text": "una pena principale per i condannati senza fissa dimora.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 121,
+    "text": "In caso di arresto o di fermo,\nl'avviso ai familiari dell'arrestato o del fermato:",
+    "answers": [
+      {
+        "text": "è eseguito dalla p.r. previo consenso dell’arrestato o del fermato.",
+        "correct": true
+      },
+      {
+        "text": "è eseguito dal pubblico ministero.",
+        "correct": false
+      },
+      {
+        "text": "non è consentito.",
+        "correct": false
+      },
+      {
+        "text": "è sempre eseguito immediatamente dal Direttore della casa circondariale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 122,
+    "text": "In quali casi le parti di un processo penale possono chiedere l'applicazione della\npena ai sensi dell'art. 444 c.p.p.?",
+    "answers": [
+      {
+        "text": "Quando, tenuto conto delle circostanze e diminuita fino ad un terzo, la pena\ndetentiva non supera i due anni di reclusione o di arresto, soli o congiunti a pena pecuniaria.",
+        "correct": true
+      },
+      {
+        "text": "quando la pena edittale prevista per il reato\ncommesso non supera i due anni di reclusione o di\narresto, soli o congiunti a pena pecuniaria.",
+        "correct": false
+      },
+      {
+        "text": "Quando, tenuto conto delle circostanze e diminuita fino ad un terzo, la pena detentiva non\nsupera i due anni di reclusione o i tre di\narresto, soli o congiunti a pena pecuniaria.",
+        "correct": false
+      },
+      {
+        "text": "Quando, diminuita fino ad un terzo la pena edittale, la pena\ndetentiva che ne consegue non supera i tre anni, se da sola, o\nnon supera i due anni se congiunta a pena\npecuniaria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 123,
+    "text": "Deputato, secondo le norme del c.p.p., a pronunciare il\nriconoscimento ai fini dell’esecuzione di una sentenza straniera è:",
+    "answers": [
+      {
+        "text": "la Corte di appello.",
+        "correct": true
+      },
+      {
+        "text": "il Ministro della Giustizia.",
+        "correct": false
+      },
+      {
+        "text": "il Giudice di pace penale.",
+        "correct": false
+      },
+      {
+        "text": "il Tribunale monocratico del capoluogo di regione competente per\nterritorio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 124,
+    "text": "Nei confronti di quali soggetti è possibile esercitare, nel processo penale secondo le norme del c.p.p., l'azione civile per la restituzione o il\nrisarcimento del danno?",
+    "answers": [
+      {
+        "text": "nei confronti dell'imputato e del responsabile civile.",
+        "correct": true
+      },
+      {
+        "text": "nei soli confronti dell'imputato.",
+        "correct": false
+      },
+      {
+        "text": "nei confronti dell'imputato o dei suoi successori universali.",
+        "correct": false
+      },
+      {
+        "text": "nei confronti dell'imputato, del\nresponsabile civile e dei rispettivi successori universali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 125,
+    "text": "L'azione civile in sede penale, secondo le previsioni del c.p.p., può essere esercitata dal P.M.?",
+    "answers": [
+      {
+        "text": "In caso di assoluta\nurgenza, l’azione civile nell’interesse del\ndanneggiato incapace per infermità di mente o per età minore può essere esercitata dal Pubblico Ministero finché non\nsubentri colui al quale\nspetta la rappresentanza o\nl'assistenza o il curatore speciale.",
+        "correct": true
+      },
+      {
+        "text": "No, assolutamente.",
+        "correct": false
+      },
+      {
+        "text": "Sì, ma solo su espressa istanza del danneggiato dal reato che, per\nlegittimo impedimento, si trovi nell'impossibilità di costituirsi parte civile entro i termini fissati dalla legge.",
+        "correct": false
+      },
+      {
+        "text": "Sì, in ogni caso il Pubblico Ministero può esercitare l'azione civile nell'interesse del danneggiato che sia\ninfermo di mente o di minore età.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 126,
+    "text": "Ai sensi del c.p.p., è ammessa la ricusazione del P.M.?",
+    "answers": [
+      {
+        "text": "No.",
+        "correct": true
+      },
+      {
+        "text": "Sì, per gravi ragioni di convenienza.",
+        "correct": false
+      },
+      {
+        "text": "Sì, ma solo se il\nmagistrato esercita le funzioni requirenti in dibattimento.",
+        "correct": false
+      },
+      {
+        "text": "Sì, sempre che\nsussistano i presupposti della rimessione del processo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 127,
+    "text": "Alla persona sottoposta alle indagini si estendono:",
+    "answers": [
+      {
+        "text": "tanto i diritti quanto le situazioni passive di cui è titolare l'imputato, salvo che non sia diversamente disposto.",
+        "correct": true
+      },
+      {
+        "text": "i diritti riconosciuti\nall'imputato, con esclusione di ogni situazione soggettiva passiva.",
+        "correct": false
+      },
+      {
+        "text": "solo le situazioni passive di cui è titolare l'imputato, in quanto non possono\nriconoscersi diritti finché non si acquisti la qualità formale di imputato.",
+        "correct": false
+      },
+      {
+        "text": "tutti i diritti dell'imputato, ad eccezione del diritto di non rispondere.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 128,
+    "text": "La parte civile è, in base alle norme del c.p.p.:",
+    "answers": [
+      {
+        "text": "colui il quale, avendo subìto un danno dal reato, esercita l'azione civile nel processo penale allo scopo di chiederne il\nrisarcimento.",
+        "correct": true
+      },
+      {
+        "text": "la persona offesa dal reato in quanto tale.",
+        "correct": false
+      },
+      {
+        "text": "colui che è obbligato al pagamento della pena pecuniaria, in luogo\ndell'imputato, nell'ipotesi di sua insolvenza.",
+        "correct": false
+      },
+      {
+        "text": "l'ente rappresentativo degli interessi lesi dal reato che intervenga nel corso delle indagini preliminari.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 129,
+    "text": "Chi intende costituirsi parte civile, con riferimento al c.p.p., può farlo:",
+    "answers": [
+      {
+        "text": "per l'udienza preliminare e fino all'accertamento della costituzione delle parti nel dibattimento di primo\ngrado.",
+        "correct": true
+      },
+      {
+        "text": "nel procedimento per decreto, e sempre che l'imputato non abbia proposto opposizione.",
+        "correct": false
+      },
+      {
+        "text": "non prima\ndell'accertamento della costituzione delle parti nel giudizio di Cassazione.",
+        "correct": false
+      },
+      {
+        "text": "nel procedimento di ricusazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 130,
+    "text": "Nell'ambito delle norme del c.p.p., se vi è dubbio\nsull’esistenza della prova che il fatto è stato commesso in presenza di una causa di\ngiustificazione o di una causa personale di non punibilità:",
+    "answers": [
+      {
+        "text": "il giudice pronuncia sentenza di assoluzione.",
+        "correct": true
+      },
+      {
+        "text": "il giudice pronuncia sentenza di condanna, salvo ricorso su istanza di parte.",
+        "correct": false
+      },
+      {
+        "text": "il giudice dichiara\nl'improcedibilità del processo.",
+        "correct": false
+      },
+      {
+        "text": "il giudice sospende il processo ed avvia le indagini volte alla definizione della\nfattispecie.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 131,
+    "text": "I termini perentori, previsti dal c.p.p., sono quelli:",
+    "answers": [
+      {
+        "text": "stabiliti a pena di decadenza.",
+        "correct": true
+      },
+      {
+        "text": "stabiliti a pena di inutilizzabilità.",
+        "correct": false
+      },
+      {
+        "text": "stabiliti a pena di nullità.",
+        "correct": false
+      },
+      {
+        "text": "la cui violazione non comporta alcuna conseguenza processuale\napprezzabile, al di là della mera irregolarità dell'atto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 132,
+    "text": "Le nullità assolute, in base alle norme del c.p.p., si\ncaratterizzano perché:",
+    "answers": [
+      {
+        "text": "sono rilevabili anche\nd'ufficio in ogni stato e\ngrado del procedimento.",
+        "correct": true
+      },
+      {
+        "text": "sono rilevabili anche d'ufficio ma entro determinati limiti di tempo.",
+        "correct": false
+      },
+      {
+        "text": "riguardano violazioni di diritti che la Costituzione\nriconosce come inviolabili.",
+        "correct": false
+      },
+      {
+        "text": "sono rilevabili dal pubblico ministero e dal difensore dell'imputato, con esclusione dai difensori delle altre parti private.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 133,
+    "text": "L'informazione di garanzia, secondo quanto disposto dalle disposizioni del c.p.p., viene\ninviata:",
+    "answers": [
+      {
+        "text": "quando deve compiersi un atto al quale il difensore ha il diritto di assistere.",
+        "correct": true
+      },
+      {
+        "text": "al momento dell'iscrizione del nome della persona sottoposta alle indagini nel registro delle notizie di reato.",
+        "correct": false
+      },
+      {
+        "text": "non prima della formulazione dell'imputazione.",
+        "correct": false
+      },
+      {
+        "text": "quando il pubblico ministero chiede al\ngiudice per le indagini preliminari di essere autorizzato a compiere atti di intercettazione\ntelefonica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 134,
+    "text": "La richiesta di incidente probatorio può essere presentata, ai sensi del c.p.p.:",
+    "answers": [
+      {
+        "text": "dal pubblico ministero e dalla persona sottoposta alle indagini.",
+        "correct": true
+      },
+      {
+        "text": "dalle parti private diverse dall'imputato.",
+        "correct": false
+      },
+      {
+        "text": "solo dal pubblico ministero",
+        "correct": false
+      },
+      {
+        "text": "dalle parti private e dalla persona offesa dal reato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 135,
+    "text": "La richiesta di archiviazione per infondatezza della notizia di reato è proponibile, con riguardo alle norme del c.p.p., se:",
+    "answers": [
+      {
+        "text": "il PM ritiene, sulla base\ndegli elementi acquisiti, di non essere in grado di sostenere l'accusa in\ngiudizio.",
+        "correct": true
+      },
+      {
+        "text": "il PM ritiene di non poter ottenere in giudizio una sentenza di condanna a pena detentiva.",
+        "correct": false
+      },
+      {
+        "text": "il PM ha acquisito la prova della assoluta estraneità ai fatti della persona sottoposta alle indagini.",
+        "correct": false
+      },
+      {
+        "text": "il PM ritiene che il reato è estinto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 136,
+    "text": "All'udienza preliminare, secondo le previsioni del c.p.p. la\npartecipazione del pubblico ministero e del difensore è:",
+    "answers": [
+      {
+        "text": "necessaria.",
+        "correct": true
+      },
+      {
+        "text": "facoltativa.",
+        "correct": false
+      },
+      {
+        "text": "facoltativa per il pubblico ministero, necessaria per il difensore.",
+        "correct": false
+      },
+      {
+        "text": "facoltativa, salvo che si proceda per taluno dei delitti indicati nell'art. 51, comma 3bis, c. p. p.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 137,
+    "text": "In ambito processuale penale, se le prove acquisite non consentono la liquidazione del danno, in conformità all'art. 529\nc.p.p. il giudice:",
+    "answers": [
+      {
+        "text": "pronuncia condanna\ngenerica e rimette le parti davanti al giudice civile.",
+        "correct": true
+      },
+      {
+        "text": "pronuncia condanna al pagamento di una somma pari alla liquidazione del danno secondo equità.",
+        "correct": false
+      },
+      {
+        "text": "nomina un CTU.",
+        "correct": false
+      },
+      {
+        "text": "pronuncia condanna senza pagamento essendo indeterminato l'ammontare del danno.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 138,
+    "text": "Se il fatto non sussiste,\nl'imputato non lo ha commesso, il fatto non costituisce reato o il soggetto non è imputabile o non è punibile per altra causa, il\ngiudice dell'udienza preliminare in base alle norme del c.p.p.:",
+    "answers": [
+      {
+        "text": "pronuncia sentenza di non luogo a procedere.",
+        "correct": true
+      },
+      {
+        "text": "lo assolve con formula piena.",
+        "correct": false
+      },
+      {
+        "text": "pronuncia sentenza di non luogo a procedere,\nsempre che tali conclusioni siano sorrette dal requisito dell'evidenza.",
+        "correct": false
+      },
+      {
+        "text": "su richiesta dell'imputato pronuncia ugualmente decreto che dispone il\ngiudizio, onde consentire all'imputato stesso una assoluzione\ndibattimentale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 139,
+    "text": "Al termine dell'udienza\npreliminare, qualora questa si sia conclusa con l'emissione del decreto che dispone il giudizio, ai sensi delle norme del c.p.p., il fascicolo per il dibattimento è\nformato:",
+    "answers": [
+      {
+        "text": "dal giudice dell'udienza preliminare, in udienza dopo il rinvio a giudizio.",
+        "correct": true
+      },
+      {
+        "text": "dal pubblico ministero.",
+        "correct": false
+      },
+      {
+        "text": "dalla cancelleria del giudice dell'udienza\npreliminare, secondo le prescrizioni del giudice medesimo.",
+        "correct": false
+      },
+      {
+        "text": "dal giudice del\ndibattimento, almeno venti giorni prima dell'udienza\ndibattimentale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 140,
+    "text": "Nel fascicolo degli atti destinati al dibattimento, in conformità alle previsioni del c.p.p., vanno inserite le dichiarazioni non più ripetibili rese al P.M. o alla P.G.?",
+    "answers": [
+      {
+        "text": "Sì, trattandosi di atti irripetibili.",
+        "correct": true
+      },
+      {
+        "text": "Sì, se lo ha chiesto la parte.",
+        "correct": false
+      },
+      {
+        "text": "Dipende dalla circostanza se sia stata o meno accertata l'irripetibilità.",
+        "correct": false
+      },
+      {
+        "text": "Sì, se lo ha chiesto il P.M.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 141,
+    "text": "Nel caso di conversione del giudizio direttissimo in\nabbreviato, richiesto ai sensi del c.p.p., il giudice:",
+    "answers": [
+      {
+        "text": "è tenuto a decidere allo stato degli atti, salvo che l'imputato non abbia condizionato la richiesta\nall'acquisizione di ulteriori prove.",
+        "correct": true
+      },
+      {
+        "text": "può, col consenso delle parti, acquisire nuovi elementi di prove.",
+        "correct": false
+      },
+      {
+        "text": "può disporre d'ufficio l'assunzione di nuovi mezzi di prova.",
+        "correct": false
+      },
+      {
+        "text": "può indicare alle parti\ntemi nuovi o incompleti su cui è necessario assumere ulteriori\ninformazioni ai fini della decisione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 142,
+    "text": "In base al c.p.p., il giudizio abbreviato c.d. tipico si svolge:",
+    "answers": [
+      {
+        "text": "in sede di udienza preliminare.",
+        "correct": true
+      },
+      {
+        "text": "in dibattimento.",
+        "correct": false
+      },
+      {
+        "text": "nel corso delle indagini preliminari.",
+        "correct": false
+      },
+      {
+        "text": "nel corso del\ndibattimento di primo grado o di appello, eccettuato il giudizio di cassazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 143,
+    "text": "In virtù delle previsioni del c.p.p., la richiesta di giudizio abbreviato è proposta:",
+    "answers": [
+      {
+        "text": "dall'imputato,\npersonalmente o a mezzo di procuratore speciale.",
+        "correct": true
+      },
+      {
+        "text": "dal difensore.",
+        "correct": false
+      },
+      {
+        "text": "dalla persona sottoposta alle indagini o dal suo difensore.",
+        "correct": false
+      },
+      {
+        "text": "dall'imputato o dal pubblico ministero.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 144,
+    "text": "Il consenso del P.M. rispetto alla richiesta di giudizio abbreviato dell'imputato, previsto dal c.p.p.:",
+    "answers": [
+      {
+        "text": "non è necessario.",
+        "correct": true
+      },
+      {
+        "text": "è necessario, ma non deve essere motivato.",
+        "correct": false
+      },
+      {
+        "text": "è necessario, ma non può essere motivato.",
+        "correct": false
+      },
+      {
+        "text": "è necessario sia il consenso del P.M. che quello della persona\noffesa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 145,
+    "text": "Il giudizio immediato, secondo quanto previsto dal c.p.p., si celebra:",
+    "answers": [
+      {
+        "text": "in dibattimento.",
+        "correct": true
+      },
+      {
+        "text": "nel corso dell'udienza preliminare.",
+        "correct": false
+      },
+      {
+        "text": "nel corso di un'udienza in camere di consiglio, fissata dal giudice su\nrichiesta del pubblico ministero.",
+        "correct": false
+      },
+      {
+        "text": "in sede di atti preliminari al dibattimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 146,
+    "text": "La sentenza che applica la pena su richiesta delle parti ex art.\n444 c.p.p.:",
+    "answers": [
+      {
+        "text": "deve essere motivata, pur in rapporto alle peculiarità del meccanismo del\npatteggiamento.",
+        "correct": true
+      },
+      {
+        "text": "deve essere\ndettagliatamente motivata.",
+        "correct": false
+      },
+      {
+        "text": "non deve essere motivata, essendo sufficiente il\nriferimento agli artt. 444\nss. c.p.p.",
+        "correct": false
+      },
+      {
+        "text": "deve essere motivata solo il giudice si discosti dal quantum di pena\nrichiesto dalle parti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 147,
+    "text": "Nel corso delle indagini preliminari, il \"patteggiamento\" previsto dall'art. 444 c.p.p. è:",
+    "answers": [
+      {
+        "text": "ammissibile, e la richiesta deve essere redatta per iscritto e depositata nella cancelleria del GIP.",
+        "correct": true
+      },
+      {
+        "text": "inammissibile, potendo la relativa essere avanzata dopo l'esercizio dell'azione penale.",
+        "correct": false
+      },
+      {
+        "text": "di norma ammissibile, salvo che non si proceda per delitti di criminalità\norganizzata.",
+        "correct": false
+      },
+      {
+        "text": "ammissibile solo se la persona offesa dal reato sia già stata individuata.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 148,
+    "text": "La sentenza con cui il giudice applica una pena patteggiata è, in virtù delle norme del c.p.p.:",
+    "answers": [
+      {
+        "text": "ricorribile per cassazione.",
+        "correct": true
+      },
+      {
+        "text": "ordinariamente appellabile.",
+        "correct": false
+      },
+      {
+        "text": "inoppugnabile.",
+        "correct": false
+      },
+      {
+        "text": "reclamabile avanti al c. d. tribunale della libertà.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 149,
+    "text": "Per accertare la presenza, sulla persona o nei luoghi, del corpo del reato, il c.p.p. prevede che si proceda a:",
+    "answers": [
+      {
+        "text": "perquisizione.",
+        "correct": true
+      },
+      {
+        "text": "perizia.",
+        "correct": false
+      },
+      {
+        "text": "sopralluogo.",
+        "correct": false
+      },
+      {
+        "text": "ispezione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 150,
+    "text": "Nel caso di giudizio immediato a richiesta dell'imputato, ai sensi dell'art. 455 c.p.p. il giudice:",
+    "answers": [
+      {
+        "text": "è tenuto a disporre il giudizio immediato.",
+        "correct": true
+      },
+      {
+        "text": "accoglie la richiesta se la prova appare evidente.",
+        "correct": false
+      },
+      {
+        "text": "accoglie la richiesta se vi è il consenso del pubblico ministero.",
+        "correct": false
+      },
+      {
+        "text": "dispone il giudizio immediato dopo\nl'interrogatorio dell'imputato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 151,
+    "text": "Il provvedimento con cui il G.I.P. dispone, su richiesta del P.M. ai sensi del c.p.p., il giudizio immediato è",
+    "answers": [
+      {
+        "text": "inoppugnabile.",
+        "correct": true
+      },
+      {
+        "text": "appellabile dall'imputato.",
+        "correct": false
+      },
+      {
+        "text": "ricorribile per cassazione per violazione di legge.",
+        "correct": false
+      },
+      {
+        "text": "reclamabile al tribunale del riesame.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 152,
+    "text": "La sentenza di c.d.\nproscioglimento anticipato (ossia prima del dibattimento), prevista dagli articoli del c.p.p., è:",
+    "answers": [
+      {
+        "text": "inappellabile.",
+        "correct": true
+      },
+      {
+        "text": "inoppugnabile.",
+        "correct": false
+      },
+      {
+        "text": "appellabile solo per ragioni di diritto.",
+        "correct": false
+      },
+      {
+        "text": "appellabile solo dal pubblico ministero.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 153,
+    "text": "Cosa accade, secondo le norme del c.p.p., se il giudice\nerroneamente nega il privilegio contro l'autoincriminazione e costringe il teste a rispondere?",
+    "answers": [
+      {
+        "text": "Le dichiarazioni rese dal teste sono inutilizzabili\nperché il giudice ha violato un divieto probatorio.",
+        "correct": true
+      },
+      {
+        "text": "Il giudice deve\nimmediatamente invitare il teste a nominare un difensore di fiducia per le dichiarazioni rese.",
+        "correct": false
+      },
+      {
+        "text": "Il giudice deve\nimmediatamente disporre l'avvio delle indagini per le dichiarazioni rese dal\nteste.",
+        "correct": false
+      },
+      {
+        "text": "Le dichiarazioni rese dal teste sono utilizzate nel processo ed acquisite come valide ai fini istruttori dello stesso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 154,
+    "text": "La testimonianza di soggetto minorenne ai sensi dell'art. 499 c.p.p.:",
+    "answers": [
+      {
+        "text": "è di regola acquisita\nmediante domande poste direttamente dal\npresidente anche su\nsollecitazione delle parti.",
+        "correct": true
+      },
+      {
+        "text": "è vietata in quanto inattendibile.",
+        "correct": false
+      },
+      {
+        "text": "è acquisita alla stregua di qualunque altra\ntestimonianza.",
+        "correct": false
+      },
+      {
+        "text": "è sempre acquisita a porte chiuse,\nnell'interesse del minore.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 155,
+    "text": "Il controesame è condotto, secondo le norme del c.p.p.",
+    "answers": [
+      {
+        "text": "Dalle parti che non hanno chiesto l'esame.",
+        "correct": true
+      },
+      {
+        "text": "Dal presidente del collegio.",
+        "correct": false
+      },
+      {
+        "text": "Dalla parte civile.",
+        "correct": false
+      },
+      {
+        "text": "Dal pubblico ministero.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 156,
+    "text": "Le domande suggestive, ex art. 499 c.p.p., sono:",
+    "answers": [
+      {
+        "text": "quelle che tendono a suggerire le risposte.",
+        "correct": true
+      },
+      {
+        "text": "quelle che attengono a fatti della vita privata del teste, come tali irrilevanti ai fini del processo.",
+        "correct": false
+      },
+      {
+        "text": "quelle formulate in modo eccessivamente ricercato, sì da risultare non\nfacilmente comprensibili.",
+        "correct": false
+      },
+      {
+        "text": "quelle che contengono una velata minaccia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 157,
+    "text": "Ai fini delle contestazioni nel corso dell'esame, in conformità alle previsioni del c.p.p., possono utilizzarsi:",
+    "answers": [
+      {
+        "text": "le dichiarazioni\nprecedentemente rese dallo stesso soggetto, purché sui fatti e sulle\ncircostanze da contestare il teste abbia già deposto.",
+        "correct": true
+      },
+      {
+        "text": "le dichiarazioni rese da altro soggetto nel corso\ndell’incidente probatorio.",
+        "correct": false
+      },
+      {
+        "text": "ogni dichiarazione, da chiunque precedentemente resa, purché sui fatti e sulle\ncircostanze da contestare il testimone abbia già deposto.",
+        "correct": false
+      },
+      {
+        "text": "solo gli atti contenuti nel fascicolo per il\ndibattimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 158,
+    "text": "l'esame della parte civile è consentito, ex art. 208 c.p.p.:",
+    "answers": [
+      {
+        "text": "se la parte civile non deve essere sentita come teste.",
+        "correct": true
+      },
+      {
+        "text": "se l'imputato e il pubblico ministero li consentono.",
+        "correct": false
+      },
+      {
+        "text": "se il giudice li ritiene\nassolutamente necessario.",
+        "correct": false
+      },
+      {
+        "text": "se è stato citato il responsabile civile.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 159,
+    "text": "Con riferimento alle disposizioni del c.p.p. in materia di polizia\ngiudiziaria, si intende per\n\"Sezioni di polizia giudiziaria\":",
+    "answers": [
+      {
+        "text": "gli organi costituiti presso gli uffici del pubblico\nministero di primo grado, composti da ufficiali ed agenti che svolgono in via esclusiva le funzioni di\npolizia giudiziaria.",
+        "correct": true
+      },
+      {
+        "text": "gli organi costituiti presso gli uffici del magistrato di\nsorveglianza, composti da ufficiali ed agenti che\nsvolgono in via esclusiva le funzioni di polizia giudiziaria.",
+        "correct": false
+      },
+      {
+        "text": "gli organi costituiti presso gli uffici del procuratore generale della\nRepubblica, composti da ufficiali ed agenti che svolgono in via esclusiva le funzioni di polizia\ngiudiziaria.",
+        "correct": false
+      },
+      {
+        "text": "gli organi costituiti presso gli uffici del pubblico ministero di primo grado,\nesclusivamente composti da agenti che svolgono in via esclusiva le\nfunzioni di polizia\ngiudiziaria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 160,
+    "text": "Il Giudice può disporre d'ufficio nuovi mezzi di prova:",
+    "answers": [
+      {
+        "text": "al termine dell'istruzione probatoria, se risulti\nassolutamente necessario.",
+        "correct": true
+      },
+      {
+        "text": "in sede di atti preliminari al dibattimento, se ritiene insufficienti le prove richieste dalle parti.",
+        "correct": false
+      },
+      {
+        "text": "nel corso del\ndibattimento, se risulta utile ai fini\ndell'accertamento del fatto.",
+        "correct": false
+      },
+      {
+        "text": "al termine dell'assunzione delle prove a carico, se ritiene meritevoli di\napprofondimento temi di prova non\nadeguatamente esplorati.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 161,
+    "text": "Alla chiusura dell'istruzione dibattimentale segue:",
+    "answers": [
+      {
+        "text": "la discussione finale.",
+        "correct": true
+      },
+      {
+        "text": "la deliberazione della sentenza.",
+        "correct": false
+      },
+      {
+        "text": "l'esame delle parti private.",
+        "correct": false
+      },
+      {
+        "text": "le letture in dibattimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 162,
+    "text": "La motivazione della sentenza è prescritta:",
+    "answers": [
+      {
+        "text": "sempre.",
+        "correct": true
+      },
+      {
+        "text": "se si tratta di sentenza assoluzione.",
+        "correct": false
+      },
+      {
+        "text": "sempre, salvo che si tratti di sentenza di\nproscioglimento perché il fatto non è previsto dalla legge come reato.",
+        "correct": false
+      },
+      {
+        "text": "in particolar modo se\nl'imputato sia contumace.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 163,
+    "text": "Nel nostro ordinamento processuale, il pretore:",
+    "answers": [
+      {
+        "text": "è stato soppresso.",
+        "correct": true
+      },
+      {
+        "text": "è giudice di primo grado.",
+        "correct": false
+      },
+      {
+        "text": "è l'unico giudice di primo grado, essendo stato abolito il Tribunale.",
+        "correct": false
+      },
+      {
+        "text": "è stato soppresso nel processo civile, ma mantenuto nel processo penale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 164,
+    "text": "Sulla richiesta di patteggiamento avanzata dalle parti durante il\nrito minorile, il G.U.P:",
+    "answers": [
+      {
+        "text": "dichiara inammissibile la richiesta, in quanto il\npatteggiamento non è ammesso nel processo minorile.",
+        "correct": true
+      },
+      {
+        "text": "respinge la richiesta, qualora i componenti non togati\ndall'organo collegiale abbiano espresso parere sfavorevole.",
+        "correct": false
+      },
+      {
+        "text": "provvede a norma degli artt., 444 ss. c. p.p.",
+        "correct": false
+      },
+      {
+        "text": "pur dichiarando\ninaccoglibile la richiesta si riserva di concedere la diminuzione di pena a carico del reo, nella\nmisura stabilita dall'art. 444 c.p.p.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 165,
+    "text": "Il procedimento per decreto, in ambito minorile:",
+    "answers": [
+      {
+        "text": "non è fruibile in nessun caso.",
+        "correct": true
+      },
+      {
+        "text": "è sempre utilizzabile.",
+        "correct": false
+      },
+      {
+        "text": "può essere adottato dal giudice, ma soltanto previo assenso\ndell'imputato, richiesto, a differenza di quanto\ncomunemente previsto per tale rito, in ragione della sua minore età.",
+        "correct": false
+      },
+      {
+        "text": "può essere applicato, soltanto dopo che i\ncomponenti non togati del collegio giudicante abbiano espresso parere favorevole.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 166,
+    "text": "Secondo il principio di tassatività delle impugnazioni:",
+    "answers": [
+      {
+        "text": "possono impugnare solo i soggetti legittimati dalla legge, avverso i\nprovvedimenti dichiarati impugnabili e con il mezzo espressamente previsto.",
+        "correct": true
+      },
+      {
+        "text": "il difensore dell'imputato non può proporre impugnazione se non munito di mandato speciale.",
+        "correct": false
+      },
+      {
+        "text": "legittimati ad impugnare sono soltanto l'imputato e il pubblico ministero.",
+        "correct": false
+      },
+      {
+        "text": "sono impugnabili solo le sentenze espressamente previste dalla legge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 167,
+    "text": "Nel caso in cui vi sia\nconnessione tra i procedimenti per i quali è prevista la citazione diretta e quelli per i quali deve\nfarsi luogo ad udienza preliminare, il P.M. ai sensi dell'art. 551 c.p.p.:",
+    "answers": [
+      {
+        "text": "presenta per tutti la richiesta di rinvio a giudizio.",
+        "correct": true
+      },
+      {
+        "text": "deve procedere nelle forme specifiche previste per i singoli procedimenti, nulla\nrilevando la connessione tra gli stessi.",
+        "correct": false
+      },
+      {
+        "text": "ha facoltà di procedere nelle forme specifiche previste per i singoli procedimenti, tenendo in debito conto la\nconnessione tra gli stessi.",
+        "correct": false
+      },
+      {
+        "text": "ha facoltà di presentare per tutti la richiesta di\nrinvio a giudizio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 168,
+    "text": "L'interesse ad impugnare, secondo le norme del c.p.p., deriva:",
+    "answers": [
+      {
+        "text": "dalla situazione di\nsvantaggio derivante dal provvedimento che si impugna.",
+        "correct": true
+      },
+      {
+        "text": "dalla espressa previsione della legge.",
+        "correct": false
+      },
+      {
+        "text": "dai motivi presentati a sostegno\ndell'impugnazione.",
+        "correct": false
+      },
+      {
+        "text": "dall'ordinanza con cui il giudice\ndell'impugnazione decide sull'ammissibilità della stessa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 169,
+    "text": "La persona offesa per reati di ingiuria e di diffamazione, se\ncostituita parte civile, in base alle norme del c.p.p. può proporre impugnazione:",
+    "answers": [
+      {
+        "text": "anche per gli effetti penali.",
+        "correct": true
+      },
+      {
+        "text": "limitatamente agli effetti civili.",
+        "correct": false
+      },
+      {
+        "text": "sempre che sia stata pronunciata sentenza di condanna a pena condizionalmente sospesa.",
+        "correct": false
+      },
+      {
+        "text": "non può proporre impugnazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 170,
+    "text": "L'appello incidentale è\nproponibile, con riferimento alle norme del c.p.p.:",
+    "answers": [
+      {
+        "text": "dalle parti che non abbiano proposto l'appello\nprincipale.",
+        "correct": true
+      },
+      {
+        "text": "dall'imputato.",
+        "correct": false
+      },
+      {
+        "text": "dal pubblico ministero.",
+        "correct": false
+      },
+      {
+        "text": "dal pubblico ministero e dall'imputato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 171,
+    "text": "Ai sensi delle disposizioni del c.p.p., il divieto della reformatio in peius vige:",
+    "answers": [
+      {
+        "text": "nell'ipotesi di appello del solo imputato.",
+        "correct": true
+      },
+      {
+        "text": "in ogni caso di appello.",
+        "correct": false
+      },
+      {
+        "text": "se si tratti di contravvenzioni.",
+        "correct": false
+      },
+      {
+        "text": "qualora il pubblico\nministero ne abbia fatto apposita istanza.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 172,
+    "text": "In sede di appello penale,\nl'acquisizione di nuove prove disciplinata dall'art. 603 c.p.p.:",
+    "answers": [
+      {
+        "text": "è consentita solo nelle ipotesi di rinnovazione dell'istruzione\ndibattimentale stabilite dalla legge.",
+        "correct": true
+      },
+      {
+        "text": "è ordinariamente consentita, dato che nel giudizio di appello deve svolgersi una nuova istruzione probatoria, per la quale valgono le\nordinarie regole di ammissione della prova\nstabilite per il procedimento\ndi primo grado.",
+        "correct": false
+      },
+      {
+        "text": "è impossibile, perché per tale via si estenderebbe il tema del giudizio.",
+        "correct": false
+      },
+      {
+        "text": "è consentita su accordo delle parti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 173,
+    "text": "La Corte di cassazione, ai sensi della disciplina prevista dal c.p.p., pronuncia annullamento con rinvio:",
+    "answers": [
+      {
+        "text": "quando si rende necessario, a seguito\ndell'accoglienza (anche parziale) del ricorso, un nuovo esame di merito.",
+        "correct": true
+      },
+      {
+        "text": "nei casi tassativamente elencati dalla legge.",
+        "correct": false
+      },
+      {
+        "text": "quando ne faccia richiesta il ricorrente.",
+        "correct": false
+      },
+      {
+        "text": "se la sentenza annullata sia stata emessa da un giudice di secondo\ngrado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 174,
+    "text": "Il giudizio di revisione regolato dal c.p.p. è ammissibile:",
+    "answers": [
+      {
+        "text": "nei confronti delle\nsentenze di condanna già passate in giudicato e dei decreti penali di condanna divenuti irrevocabili.",
+        "correct": true
+      },
+      {
+        "text": "in ordine alle sentenze, di condanna o di assoluzione, già passate in giudicato.",
+        "correct": false
+      },
+      {
+        "text": "nei confronti delle sentenze di assoluzione o di non luogo a procedere avverso le quali non è più proponibile alcuna impugnazione ordinaria.",
+        "correct": false
+      },
+      {
+        "text": "nei confronti delle sentenze di condanna, sempre che la pena sia già stata interamente eseguita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 175,
+    "text": "L'impugnazione proposta fuori dai termini previsti dal c.p.p. è:",
+    "answers": [
+      {
+        "text": "inammissibile.",
+        "correct": true
+      },
+      {
+        "text": "improcedibile.",
+        "correct": false
+      },
+      {
+        "text": "nulla.",
+        "correct": false
+      },
+      {
+        "text": "inutilizzabile.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 176,
+    "text": "È legittimato, secondo le previsioni del c.p.p., ad esercitare l'azione civile nel\nprocesso penale il soggetto:",
+    "answers": [
+      {
+        "text": "al quale il reato ha recato danno, ovvero i suoi\nsuccessori universali; colui che sia stato civilmente\ndanneggiato,\nindipendentemente dalla circostanza che questi sia anche persona offesa dal\nreato.",
+        "correct": true
+      },
+      {
+        "text": "al quale il reato ha recato danno, ovvero i suoi\nsuccessori universali; colui che sia stato civilmente danneggiato, esclusivamente nel caso in cui questi sia anche persona offesa dal reato.",
+        "correct": false
+      },
+      {
+        "text": "esclusivamente il soggetto che sia persona offesa dal reato, ovvero i suoi\nsuccessori universali.",
+        "correct": false
+      },
+      {
+        "text": "esclusivamente il\nsoggetto che sia persona offesa dal reato, e mai i suoi successori universali, trattandosi di un diritto non trasferibile morti causa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 177,
+    "text": "L'effetto sospensivo fuori termine, collegato alle\nimpugnazioni previste dal c.p.p., fa in modo che:",
+    "answers": [
+      {
+        "text": "gli effetti del\nprovvedimento impugnato sono sospesi di diritto durante i termini per\nproporre impugnazione e per tutta la durata del\ngiudizio di impugnazione.",
+        "correct": true
+      },
+      {
+        "text": "l'impugnante può chiedere al giudice a quo che, valutato il fumus boni iuris\ndell'impugnazione, sospenda gli effetti del provvedimento impugnato.",
+        "correct": false
+      },
+      {
+        "text": "gli effetti della sentenza impugnata possono essere sospesi con apposito provvedimento del giudice ad quem.",
+        "correct": false
+      },
+      {
+        "text": "il deposito dell'atto di impugnazione sospende la validità del\nprovvedimento impugnato, salva\nl'eventuale pronuncia contraria del giudice ad quem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 178,
+    "text": "Nell'udienza preliminare prevista dall'art. 419 c.p.p.:",
+    "answers": [
+      {
+        "text": "si decide l’archiviazione o il rinvio a giudizio.",
+        "correct": true
+      },
+      {
+        "text": "si esercita l’azione penale.",
+        "correct": false
+      },
+      {
+        "text": "si decide esclusivamente sulla richiesta di\narchiviazione.",
+        "correct": false
+      },
+      {
+        "text": "si decide sulla richiesta di archiviazione, sul\nrinvio a giudizio o\nsull’incidente probatorio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 179,
+    "text": "Quale dei seguenti atti può essere compiuto dagli ufficiali ed agenti di polizia giudiziaria di propria iniziativa?",
+    "answers": [
+      {
+        "text": "Compiere gli atti necessari per assicurare le fonti di\nprova.",
+        "correct": true
+      },
+      {
+        "text": "Rimozione e riapposizione dei sigilli.",
+        "correct": false
+      },
+      {
+        "text": "Notificazione di atti.",
+        "correct": false
+      },
+      {
+        "text": "Interrogatori.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 180,
+    "text": "Quale dei seguenti atti è di esclusiva competenza\ndell'autorità giudiziaria?",
+    "answers": [
+      {
+        "text": "Decreto di sequestro presso banche.",
+        "correct": true
+      },
+      {
+        "text": "Arresto obbligatorio in flagranza.",
+        "correct": false
+      },
+      {
+        "text": "Prendere notizia dei reati.",
+        "correct": false
+      },
+      {
+        "text": "Arresto di chiunque è colto in flagranza di un delitto non colposo consumato o tentato per il quale la legge\nstabilisce l'ergastolo o la reclusione non inferiore nel minimo a cinque anni e nel massimo a venti\nanni.).",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 181,
+    "text": "Il codice di procedura penale stabilisce che, fra la data del\ndeposito della richiesta di rinvio a giudizio e la data dell’udienza in camera di consiglio, non devono intercorrere più di:",
+    "answers": [
+      {
+        "text": "30 giorni.",
+        "correct": true
+      },
+      {
+        "text": "10 giorni.",
+        "correct": false
+      },
+      {
+        "text": "45 giorni.",
+        "correct": false
+      },
+      {
+        "text": "15 giorni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 182,
+    "text": "L'art. 382 c.p.p. stabilisce i casi di flagranza di reato. Quale delle seguenti affermazione\ncorrisponde ai casi previsti dal suddetto articolo?",
+    "answers": [
+      {
+        "text": "É in stato di flagranza di reato chi subito dopo il reato, è sorpreso con cose dalle quali appaia che egli abbia commesso il reato immediatamente prima.",
+        "correct": true
+      },
+      {
+        "text": "É in stato di flagranza di reato chi entro trenta minuti dal reato si trova nelle immediate vicinanze del luogo ove il reato è stato consumato.",
+        "correct": false
+      },
+      {
+        "text": "É in stato di flagranza di reato chi è sorpreso, entro 24 ore dal reato, con cose dal cui esame non possa escludersi l'esistenza di una relazione con il reato stesso.",
+        "correct": false
+      },
+      {
+        "text": "É in stato di flagranza di reato chi è sorpreso entro 12 ore dal reato, con cose o tracce dalle quali appaia che egli abbia commesso il reato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 183,
+    "text": "In ambito processuale penale, il principio di tassatività previsto dall'art. 568 c.p.p. afferma che:",
+    "answers": [
+      {
+        "text": "un provvedimento del giudice è impugnabile\nsoltanto quando la legge lo consente e con il mezzo\ndalla stessa determinato.",
+        "correct": true
+      },
+      {
+        "text": "un provvedimento del giudice è sempre impugnabile.",
+        "correct": false
+      },
+      {
+        "text": "un provvedimento del giudice non è mai impugnabile.",
+        "correct": false
+      },
+      {
+        "text": "non sono mai soggetti a ricorso per cassazione i provvedimenti con i quali il giudice decide sulla libertà personale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 184,
+    "text": "Il principio di adeguatezza, quale criterio di scelta della misura da adottare nel caso concreto ai sensi del c.p.p., comporta che:",
+    "answers": [
+      {
+        "text": "la misura deve essere individuata con riguardo alla propria specifica idoneità in relazione alla natura e al grado delle esigenze cautelari da\nsoddisfare nel caso concreto.",
+        "correct": true
+      },
+      {
+        "text": "la misura deve essere adeguata alla gravità degli indizi di colpevolezza\nraccolti.",
+        "correct": false
+      },
+      {
+        "text": "la misura deve essere adeguata alla gravità del reato per il quale si procede.",
+        "correct": false
+      },
+      {
+        "text": "la misura deve essere adeguata alla personalità criminale del soggetto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 185,
+    "text": "La competenza a disporre le misure cautelari, previste dal c.p.p., è attribuita:",
+    "answers": [
+      {
+        "text": "al giudice, su richiesta del pubblico ministero.",
+        "correct": true
+      },
+      {
+        "text": "al giudice, il quale può applicarla d'ufficio.",
+        "correct": false
+      },
+      {
+        "text": "al pubblico ministero.",
+        "correct": false
+      },
+      {
+        "text": "al magistrato di sorveglianza.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 186,
+    "text": "Il giudice per le indagini preliminari, in conformità alle norme del c.p.p.:",
+    "answers": [
+      {
+        "text": "interviene nei casi previsti dalla legge, su richiesta del pubblico ministero, della\npersona sottoposta alle indagini, del difensore e della persona offesa dal reato.",
+        "correct": true
+      },
+      {
+        "text": "acquisisce le prove a carico su richiesta del pubblico ministero.",
+        "correct": false
+      },
+      {
+        "text": "verifica i presupposti di legge al fine di disporre l'interrogatorio della persona sottoposta alle indagini.",
+        "correct": false
+      },
+      {
+        "text": "autorizza il pubblico\nministero, su richiesta di questi, al compimento di ciascun atto di indagine.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 187,
+    "text": "Nel corso delle indagini preliminari, secondo le norme del c.p.p. la misura cautelare è disposta:",
+    "answers": [
+      {
+        "text": "dal giudice per le indagini preliminari, sempre su richiesta del pubblico\nministero.",
+        "correct": true
+      },
+      {
+        "text": "dal giudice per le indagini preliminari, anche d'ufficio.",
+        "correct": false
+      },
+      {
+        "text": "dal giudice dell'udienza preliminare, su richiesta del pubblico ministero.",
+        "correct": false
+      },
+      {
+        "text": "dal pubblico ministero.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "text": "L'estinzione della custodia cautelare, stabilita in base alle norme del c.p.p., per omesso interrogatorio si verifica quando:",
+    "answers": [
+      {
+        "text": "il giudice per le indagini preliminari non abbia\nproceduto\nall'interrogatorio nei cinque giorni successivi all'inizio dell'esecuzione della custodia.",
+        "correct": true
+      },
+      {
+        "text": "la persona sottoposta a custodia si sia avvalsa, nel corso dell'interrogatorio, del diritto di non rispondere.",
+        "correct": false
+      },
+      {
+        "text": "il pubblico ministero non ha interrogato la persona nei confronti è stata disposta la custodia.",
+        "correct": false
+      },
+      {
+        "text": "la persona sottoposta alle indagini si sia resa irreperibile e non sia, pertanto, stato possibile precedere\nall'interrogatorio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "text": "La richiesta di riesame, secondo le disposizioni del c.p.p., è proponibile dall'imputato avverso:",
+    "answers": [
+      {
+        "text": "le ordinanze che\ndispongono una misura coercitiva.",
+        "correct": true
+      },
+      {
+        "text": "le ordinanze che dispongono una misura cautelare\npersonale.",
+        "correct": false
+      },
+      {
+        "text": "le ordinanze che dispongono una misura interdittiva.",
+        "correct": false
+      },
+      {
+        "text": "le ordinanze pronunciate dal c. d. tribunale della libertà.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 190,
+    "text": "Avverso provvedimenti pronunciati in prima istanza dal giudice in materia di libertà personale, il pubblico ministero può proporre:",
+    "answers": [
+      {
+        "text": "appello.",
+        "correct": true
+      },
+      {
+        "text": "richiesta di riesame.",
+        "correct": false
+      },
+      {
+        "text": "ricorre per cassazione omisso medio.",
+        "correct": false
+      },
+      {
+        "text": "opposizione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 191,
+    "text": "Il sequestro conservativo, in conformità alle disposizioni del c.p.p., giova:",
+    "answers": [
+      {
+        "text": "al pubblico ministero e alla parte civile.",
+        "correct": true
+      },
+      {
+        "text": "al responsabile civile.",
+        "correct": false
+      },
+      {
+        "text": "all'imputato.",
+        "correct": false
+      },
+      {
+        "text": "al civilmente obbligato per la multa o\nl'ammenda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 192,
+    "text": "Il sequestro preventivo è ordinariamente disposto:",
+    "answers": [
+      {
+        "text": "dal giudice, su richiesta del pubblico ministero.",
+        "correct": true
+      },
+      {
+        "text": "dal pubblico ministero.",
+        "correct": false
+      },
+      {
+        "text": "dal giudice, su richiesta della persona offesa dal reato.",
+        "correct": false
+      },
+      {
+        "text": "dal giudice, su richiesta della persona sottoposta alle indagini che abbia la disponibilità del bene.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 193,
+    "text": "La Corte di appello, quando pronuncia il riconoscimento ai fini dell’esecuzione di una sentenza straniera, in base\nall'art. 735 c.p.p. provvede:",
+    "answers": [
+      {
+        "text": "a sostituire la pena\noriginariamente inflitta con la corrispondente sanzione prevista, per lo stesso fatto, dalla legislazione\nitaliana.",
+        "correct": true
+      },
+      {
+        "text": "a riconoscere, così come inflitta, la sanzione inflitta dalla sentenza straniera.",
+        "correct": false
+      },
+      {
+        "text": "ad applicare il massimo della pena prevista dalla legislazione italiana per lo stesso fatto.",
+        "correct": false
+      },
+      {
+        "text": "ad applicare il minimo della pena prevista dalla legislazione italiana per lo stesso fatto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 194,
+    "text": "Avverso il decreto di sequestro è possibile, secondo il c.p.p., proporre:",
+    "answers": [
+      {
+        "text": "richiesta di riesame.",
+        "correct": true
+      },
+      {
+        "text": "ricorso immediato per cassazione.",
+        "correct": false
+      },
+      {
+        "text": "opposizione.",
+        "correct": false
+      },
+      {
+        "text": "istanza di revisione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 195,
+    "text": "I risultati delle intercettazioni, in conformità alle previsioni del c.p.p., possono essere utilizzati in altri procedimenti:",
+    "answers": [
+      {
+        "text": "se i risultati delle intercettazioni siano indispensabili per\nl'accertamento di delitti per i quali è obbligatorio l'arresto in flagranza.",
+        "correct": true
+      },
+      {
+        "text": "se il giudice lo ritiene\nassolutamente necessario.",
+        "correct": false
+      },
+      {
+        "text": "se l'utilizzazione sia autorizzata dal\nProcuratore Nazionale Antimafia.",
+        "correct": false
+      },
+      {
+        "text": "se il procedimento nel corso del quale si è disposta l'intercettazione si è già concluso con sentenza irrevocabile.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 196,
+    "text": "L'art. 274 c.p.p. fissa le esigenze che legittimano l'emissione di una misura cautelare, le quali:",
+    "answers": [
+      {
+        "text": "sono alternative, sicché è sufficiente l'esistenza di una sola di esse per consentire l'emissione del provvedimento cautelare.",
+        "correct": true
+      },
+      {
+        "text": "devono\ncontemporaneamente coesistere, altrimenti la misura non può essere disposta.",
+        "correct": false
+      },
+      {
+        "text": "devono di regola coesistere, salvo che il reato ipotizzato sia particolarmente grave.",
+        "correct": false
+      },
+      {
+        "text": "almeno due devono coesistere.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 197,
+    "text": "L'art. 273 c. p. p. stabilisce che nessuno può essere sottoposto a misure cautelari se a suo\ncarico non sussistono gravi indizi di colpevolezza. Ciò significa:",
+    "answers": [
+      {
+        "text": "che sono necessari elementi che inducano fondamentalmente a ritenere che il reato accertato sia attribuibile all'imputato.",
+        "correct": true
+      },
+      {
+        "text": "che è sufficiente il semplice sospetto che l'imputato (o la persona sottoposta alle\nindagini) possa aver commesso il fatto.",
+        "correct": false
+      },
+      {
+        "text": "che occorre che si provata, al di là di ogni dubbio ragionevole, la responsabilità penale del soggetto.",
+        "correct": false
+      },
+      {
+        "text": "che è indispensabile la sussistenza di almeno una prova di carattere reale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 198,
+    "text": "In materia processuale penale, cosa s'intende per \"inutilizzabilità patologica\" prevista dall'art. 191 c.p.p.?",
+    "answers": [
+      {
+        "text": "Il vizio che colpisce le\nprove assunte in violazione dei divieti stabiliti dalla\nlegge processuale.",
+        "correct": true
+      },
+      {
+        "text": "Il vizio che colpisce le prove acquisite prima del\ndibattimento.",
+        "correct": false
+      },
+      {
+        "text": "La sentenza pronunciata contro un imputato\ntotalmente incapace perché coperto da immunità.",
+        "correct": false
+      },
+      {
+        "text": "La sentenza emessa in carenza di potere\ngiurisdizionale del Giudice.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 199,
+    "text": "Nell'ipotesi di testimonianza indiretta prevista dal c.p.p.\n(quando, cioè, un teste riferisce di avere appreso un fatto, dato o circostanza, non direttamente, ma da un altro soggetto), il\ngiudice:",
+    "answers": [
+      {
+        "text": "deve, su richiesta di parte, disporre che il c.d. teste de relato (ossia l'altro\nsoggetto) sia chiamato a deporre.",
+        "correct": true
+      },
+      {
+        "text": "può valutare la dichiarazione indiretta solo se esistono\naltri elementi di riscontro.",
+        "correct": false
+      },
+      {
+        "text": "disporre la cancellazione della dichiarazione\nindiretta dal verbale di\nudienza, attestandone la inutilizzabilità.",
+        "correct": false
+      },
+      {
+        "text": "può utilizzare la\ndichiarazione indiretta solo se si procede per reati di criminalità\norganizzata.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 200,
+    "text": "Competente, secondo il c.p.p., a confermare il segreto di stato è:",
+    "answers": [
+      {
+        "text": "il Presidente del Consiglio dei Ministri.",
+        "correct": true
+      },
+      {
+        "text": "il Ministero dell'Interno.",
+        "correct": false
+      },
+      {
+        "text": "la Corte costituzionale.",
+        "correct": false
+      },
+      {
+        "text": "il Presidente della Repubblica, sentiti i Presidenti delle due Camere.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 201,
+    "text": "Il confronto, in base alle norme del c.p.p., può essere disposto quando:",
+    "answers": [
+      {
+        "text": "sussiste disaccordo, tra persone già esaminate o interrogate, su fatti e circostanze importanti.",
+        "correct": true
+      },
+      {
+        "text": "il giudice ritiene che due o più testimoni, di cui le parti abbiano chiesto e ottenuto l'ammissione, verosimilmente offriranno versioni diverse degli stessi fatti sui quali saranno esaminati.",
+        "correct": false
+      },
+      {
+        "text": "il giudice non ritiene accettabili le conclusioni del perito o del\nconsulente tecnico.",
+        "correct": false
+      },
+      {
+        "text": "il pubblico ministero e il difensore dell'imputato o di altra parte privata non concordino\nsull'ammissione di una prova documentale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 202,
+    "text": "L'esperimento giudiziale,\nprevisto dal c.p.p., può essere disposto:",
+    "answers": [
+      {
+        "text": "se occorre verificare le dinamiche di un fatto rilevante a fini di prova.",
+        "correct": true
+      },
+      {
+        "text": "se si versi in tema di\nindagine scientifica, tecnica e artistica, e sempre con\nl'ausilio di un esperto.",
+        "correct": false
+      },
+      {
+        "text": "se il perito o il consulente tecnico ne fanno richiesta, e sempre che il giudice li consideri assolutamente\nnecessario.",
+        "correct": false
+      },
+      {
+        "text": "se si procede con\ngiudizio direttissimo e il pubblico ministero non abbia disposto precedenti accertamenti tecnici.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 203,
+    "text": "Le prove non disciplinate dalla legge, secondo le previsioni del c.p.p.:",
+    "answers": [
+      {
+        "text": "sono ammesse, a condizione che siano idonee ad assicurare\nl'accertamento dei fatti e non pregiudichino la\nlibertà morale della persona.",
+        "correct": true
+      },
+      {
+        "text": "sono vietate.",
+        "correct": false
+      },
+      {
+        "text": "possono essere ammesse dal giudice qualora le\nparti siano decadute dal diritto di chiedere\nl'ammissione delle prove\nc.d. tipiche e risultino assolutamente necessarie.",
+        "correct": false
+      },
+      {
+        "text": "sono ammesse solo nel corso dell'incidente probatorio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 204,
+    "text": "Gli indizi possono provare\nl'esistenza di un fatto di reato, agli effetti delle disposizioni del c.p.p.:",
+    "answers": [
+      {
+        "text": "esclusivamente nel caso in cui siano gravi, precisi e concordanti.",
+        "correct": true
+      },
+      {
+        "text": "sempre, essendo acquisiti in dibattimento.",
+        "correct": false
+      },
+      {
+        "text": "solo se non contestati.",
+        "correct": false
+      },
+      {
+        "text": "esclusivamente se siano molteplici ed analoghi a quelli indicati in massime giurisprudenziali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 205,
+    "text": "Ai sensi dell'art. 199 c.p.p., i prossimi congiunti dell'imputato hanno obbligo di deporre:",
+    "answers": [
+      {
+        "text": "quando hanno presentato denuncia, querela o istanza ovvero essi o un loro\nprossimo congiunto sono offesi dal reato.",
+        "correct": true
+      },
+      {
+        "text": "sempre.",
+        "correct": false
+      },
+      {
+        "text": "quando vengono citati come testimoni dal P.M. ma non in caso di\ncitazione da parte della P.O.",
+        "correct": false
+      },
+      {
+        "text": "quando la loro deposizione risulti indispensabile ai fini della definizione del giudizio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 206,
+    "text": "A norma dell'art. 655 c.p.p., ha il compito di curare d'ufficio\nl'esecuzione dei provvedimenti del giudice presso il quale\nopera:",
+    "answers": [
+      {
+        "text": "il pubblico ministero.",
+        "correct": true
+      },
+      {
+        "text": "il giudice onorario all'uopo designato.",
+        "correct": false
+      },
+      {
+        "text": "il presidente di cancelleria.",
+        "correct": false
+      },
+      {
+        "text": "la segreteria della cancelleria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 207,
+    "text": "La polizia giudiziaria, secondo quanto stabilito dal c.p.p., può porre domande all'indagato\nsenza la presenza del difensore?",
+    "answers": [
+      {
+        "text": "Soltanto ufficiali di polizia possono rivolgere\ndomande all'indagato,\nlibero o arrestato, anche in assenza del difensore,\npurché sul luogo o\nnell'immediatezza del fatto di reato.",
+        "correct": true
+      },
+      {
+        "text": "No, ad eccezione del caso in cui il difensore non è stato reperito o non è comparso.",
+        "correct": false
+      },
+      {
+        "text": "Si, in ogni momento ed in ogni luogo.",
+        "correct": false
+      },
+      {
+        "text": "No, in nessun caso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 208,
+    "text": "Il cittadino ha l'obbligo di denunciare i reati perseguibili d'ufficio, in base al dettato dell'art. 333 c.p.p., dei quali\nviene a conoscenza?",
+    "answers": [
+      {
+        "text": "Né ha facoltà, salvo i casi in cui, per legge, la denuncia è obbligatoria.",
+        "correct": true
+      },
+      {
+        "text": "Sì, sempre, pena\nl'applicazione a suo carico di sanzioni penali.",
+        "correct": false
+      },
+      {
+        "text": "La denuncia è sempre e solo facoltativa essendo rimessa al dovere civico della singola persona.",
+        "correct": false
+      },
+      {
+        "text": "Sì, sempre, ad eccezione del caso in cui il reato sia stato commesso da un suo prossimo congiunto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 209,
+    "text": "Possono essere presentati nella cancelleria del giudice della impugnazione motivi nuovi, ai sensi dell'art. 585 c.p.p.:",
+    "answers": [
+      {
+        "text": "fino a quindici giorni prima.",
+        "correct": true
+      },
+      {
+        "text": "fino a sette giorni liberi prima.",
+        "correct": false
+      },
+      {
+        "text": "fino a dieci giorni prima.",
+        "correct": false
+      },
+      {
+        "text": "fino a dieci giorni liberi prima.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 210,
+    "text": "Ai sensi dell'art. 353 c.p.p., quando vi è necessità di acquisire plichi sigillati o\naltrimenti chiusi, l'ufficiale di polizia giudiziaria:",
+    "answers": [
+      {
+        "text": "li trasmette intatti al\npubblico ministero per l'eventuale sequestro.",
+        "correct": true
+      },
+      {
+        "text": "li trasmette, dopo\nun'opportuna ispezione, al pubblico ministero per\nl'eventuale sequestro.",
+        "correct": false
+      },
+      {
+        "text": "li acquisisce disponendo il sequestro con decreto.",
+        "correct": false
+      },
+      {
+        "text": "li trasmette intatti al Prefetto territorialmente competente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 211,
+    "text": "La querela, sulla base delle\nstatuizioni contenute nel c.p.p. è:",
+    "answers": [
+      {
+        "text": "una dichiarazione nella\nquale, personalmente o a mezzo di procuratore\nspeciale, si manifesta la volontà che si proceda in ordine a un fatto previsto dalla legge come reato.",
+        "correct": true
+      },
+      {
+        "text": "una condizione di procedibilità ed un presupposto necessario del procedimento di applicazione della pena su richiesta delle parti.",
+        "correct": false
+      },
+      {
+        "text": "una condizione di procedibilità ed un presupposto necessario per i riti cc.dd. alternativi.",
+        "correct": false
+      },
+      {
+        "text": "una dichiarazione contenente\nun’informativa di reato per il quale si debba procedere con uno qualsiasi dei procedimenti speciali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 212,
+    "text": "Ex art. 349 c.p.p., in quale dei seguenti casi, ai fini\ndell'identificazione del soggetto nei cui confronti vengono svolge le indagini, è necessaria una previa autorizzazione scritta\noppure resa oralmente e\nconfermata per iscritto da parte del P.M.?",
+    "answers": [
+      {
+        "text": "Nelle ipotesi in cui gli accertamenti richiedono il prelievo coattivo di\nmateriale biologico, ovvero capelli o saliva.",
+        "correct": true
+      },
+      {
+        "text": "Nelle ipotesi in cui gli accertamenti richiedono rilievi dattiloscopici,\nfotografici e antropometrici.",
+        "correct": false
+      },
+      {
+        "text": "Nelle ipotesi in cui gli accertamenti richiedono il prelievo, anche non\ncoattivo, di materiale\nbiologico, ovvero capelli o saliva.",
+        "correct": false
+      },
+      {
+        "text": "Nelle ipotesi in cui gli accertamenti richiedono essenzialmente dei rilievi fotografici.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 213,
+    "text": "Quale delle seguenti casistiche non rappresenta una delle\nipotesi contemplate dal l'art. 723 c.p.p., in cui il Ministro della\ngiustizia non dà corso alla rogatoria?",
+    "answers": [
+      {
+        "text": "Il caso in cui la rogatoria non sia stata\npreventivamente\nsottoposta per conoscenza alla Corte di appello del luogo in cui deve\nprocedersi agli atti richiesti.",
+        "correct": true
+      },
+      {
+        "text": "Il caso in cui risulta evidente che gli atti richiesti sono espressamente vietati dalla legge o sono contrari ai\nprincipi fondamentali dell’ordinamento giuridico italiano.",
+        "correct": false
+      },
+      {
+        "text": "Il caso in cui vi sono fondate ragioni per ritenere che\nconsiderazioni relative alla razza, alla religione, al sesso, alla nazionalità, alla lingua, alle opinioni\npolitiche o alle condizioni personali o sociali possano influire\nnegativamente sullo svolgimento o sull’esito\ndel processo, a meno che non vi sia il consenso, liberamente espresso,\ndell'interessato.",
+        "correct": false
+      },
+      {
+        "text": "Il caso in cui la rogatoria ha ad oggetto la\ncitazione di un testimone, davanti all’autorità\ngiudiziaria straniera e lo Stato richiedente non\noffre idonea garanzia in ordine all’immunità della persona citata.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 214,
+    "text": "Ai sensi dell'art. 294 c.p.p., deve procedere all'interrogatorio di\ngaranzia:",
+    "answers": [
+      {
+        "text": "il giudice che ha deciso in ordine all’applicazione\ndella misura cautelare.",
+        "correct": true
+      },
+      {
+        "text": "il Presidente del collegio o uno dei componenti dallo stesso delegato.",
+        "correct": false
+      },
+      {
+        "text": "il giudice per le indagini preliminari.",
+        "correct": false
+      },
+      {
+        "text": "il Presidente del\nTribunale territorialmente competente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 215,
+    "text": "In riferimento alle norme del c.p.p., il c.d. privilegio contro l'autoincriminazione è:",
+    "answers": [
+      {
+        "text": "la facoltà riconosciuta al testimone di non\nrispondere su fatti dai quali potrebbe emergere una\npropria responsabilità penale.",
+        "correct": true
+      },
+      {
+        "text": "il privilegio, riconosciuto all'imputato, di non\nrispondere su fatti dai quali potrebbe emergere una propria ulteriore responsabilità penale.",
+        "correct": false
+      },
+      {
+        "text": "la facoltà, riconosciuta al testimone, di non presentarsi al giudice nel caso in cui dal\ndibattimento possano emergere fatti idonei ad implicare una propria responsabilità penale.",
+        "correct": false
+      },
+      {
+        "text": "il privilegio, riconosciuto all'imputato, di avvalersi nel corso del processo della facoltà di non\nrispondere.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 216,
+    "text": "Secondo il c.p.p., i prossimi congiunti dell'imputato:",
+    "answers": [
+      {
+        "text": "non sono obbligati a deporre.",
+        "correct": true
+      },
+      {
+        "text": "devono deporre\nobbligatoriamente.",
+        "correct": false
+      },
+      {
+        "text": "non possono mai essere considerati compatibili come testimoni.",
+        "correct": false
+      },
+      {
+        "text": "in caso di dichiarazioni mendaci sono punibili per falsa testimonianza, anche nel caso in cui il giudice abbia omesso di rivolgere loro\nl'avvertimento circa la facoltà di non\nrispondere.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 217,
+    "text": "In ambito processuale penale, ai sensi dell'art. 20 c.p.p., il difetto di giurisdizione è rilevato:",
+    "answers": [
+      {
+        "text": "anche di ufficio, in ogni stato e grado del\nprocedimento.",
+        "correct": true
+      },
+      {
+        "text": "esclusivamente di ufficio, in ogni stato e grado del procedimento.",
+        "correct": false
+      },
+      {
+        "text": "anche di ufficio, ma esclusivamente nel corso delle indagini preliminari.",
+        "correct": false
+      },
+      {
+        "text": "esclusivamente di ufficio dopo la fase di ammissione dei mezzi di prova.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 218,
+    "text": "È contemplato nel c.p.p. l'istituto della revisione a favore dei condannati:",
+    "answers": [
+      {
+        "text": "in ogni tempo, nei casi\ndeterminati dalla legge, la revisione delle sentenze di condanna o delle sentenze di patteggiamento, o dei\ndecreti penali di condanna, quando sono divenuti irrevocabili, anche se la\npena è già stata eseguita o\nè estinta.",
+        "correct": true
+      },
+      {
+        "text": "in ogni tempo, nei casi determinati dalla legge, la\nrevisione delle sentenze di condanna o delle sentenze di patteggiamento, o dei decreti penali di condanna, ma solo se la pena non è già stata eseguita o non è\nestinta.",
+        "correct": false
+      },
+      {
+        "text": "in ogni tempo, nei casi determinati dalla legge, la\nrevisione delle sentenze di condanna o delle sentenze di\npatteggiamento, o dei decreti penali di condanna, solo se non sono divenuti irrevocabili.",
+        "correct": false
+      },
+      {
+        "text": "in ogni tempo, la\nrevisione delle sentenze di condanna o delle sentenze di\npatteggiamento, o dei decreti penali di condanna, anche se la pena è già stata eseguita o è estinta.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 219,
+    "text": "Chi aggiorna, durante le indagini preliminari, secondo le previsioni dell'art. 335 c.p.p., le iscrizioni\nnel registro delle notizie di reato, qualora il fatto risulti diversamente circostanziato?",
+    "answers": [
+      {
+        "text": "Il Pubblico Ministero.",
+        "correct": true
+      },
+      {
+        "text": "Il Giudice per le indagini preliminari.",
+        "correct": false
+      },
+      {
+        "text": "L'addetto di cancelleria del Giudice per le indagini preliminari.",
+        "correct": false
+      },
+      {
+        "text": "Il Presidente del\nTribunale territorialmente competente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 220,
+    "text": "In caso di connessione, ai sensi dell'art. 33 quater c.p.p., se alcuni procedimenti connessi appartengono alla cognizione del tribunale in composizione collegiale ed altri a quella del\ntribunale in composizione monocratica:",
+    "answers": [
+      {
+        "text": "i procedimenti sono tutti attribuiti alla cognizione del tribunale collegiale.",
+        "correct": true
+      },
+      {
+        "text": "i procedimenti sono tutti attribuiti alla cognizione del tribunale in composizione monocratica.",
+        "correct": false
+      },
+      {
+        "text": "i procedimenti sono tutti attribuiti alla cognizione della Corte d'assise.",
+        "correct": false
+      },
+      {
+        "text": "I procedimenti sono tutti attribuiti alla cognizione della Corte d'assise\nd'appello.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 221,
+    "text": "Giusta previsione contenuta nel c.p.p., l'incompetenza per\nterritorio è:",
+    "answers": [
+      {
+        "text": "eccepibile dalle parti ed è rilevabile dal giudice, a\npena di decadenza, fino alla chiusura della\ndiscussione finale\nnell'udienza preliminare o, se questa manchi, nel corso delle questioni\npreliminari in dibattimento.",
+        "correct": true
+      },
+      {
+        "text": "eccepibile dalle parti ed è\nrilevabile dal giudice, in ogni fase del giudizio.",
+        "correct": false
+      },
+      {
+        "text": "rilevabile esclusivamente d'ufficio.",
+        "correct": false
+      },
+      {
+        "text": "eccepibile esclusivamente su istanza di parte.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 222,
+    "text": "Le indagini preliminari, in virtù della norma dell'art. 326 c.p.p., sono finalizzate:",
+    "answers": [
+      {
+        "text": "alle determinazioni inerenti all’esercizio dell’azione\npenale.",
+        "correct": true
+      },
+      {
+        "text": "all’acquisizione delle prove anche a favore dell’indagato.",
+        "correct": false
+      },
+      {
+        "text": "all'accertamento della responsabilità penale dell’imputato.",
+        "correct": false
+      },
+      {
+        "text": "all’acquisizione esclusivamente delle prove a carico delle persone indagate.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 223,
+    "text": "Come sancito dall'art. 355 c.p.p., la proposizione della richiesta di riesame contro il decreto di convalida del sequestro può sospendere l'esecuzione del provvedimento?",
+    "answers": [
+      {
+        "text": "No.",
+        "correct": true
+      },
+      {
+        "text": "Sì, sempre.",
+        "correct": false
+      },
+      {
+        "text": "Sì, purché venga presentata nel termine di dieci giorni.",
+        "correct": false
+      },
+      {
+        "text": "No, salve le ipotesi in cui vi sia un pregiudizio\ngrave ed irreparabile.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 224,
+    "text": "A norma dell'art. 574 c.p.p., l’impugnazione dell’imputato contro la pronuncia di condanna penale o di assoluzione:",
+    "answers": [
+      {
+        "text": "estende i suoi effetti alla\npronuncia di condanna alle restituzioni, al risarcimento dei danni e alla rifusione\ndelle spese processuali, se questa pronuncia dipende dal capo o dal punto impugnato.",
+        "correct": true
+      },
+      {
+        "text": "estende i suoi effetti alla pronuncia di condanna alle restituzioni, al risarcimento dei danni, se questa pronuncia dipende dal capo o dal punto impugnato, ma mai alla rifusione delle spese processuali.",
+        "correct": false
+      },
+      {
+        "text": "può essere effettuata limitatamente alla sola rifusione delle spese processuali.",
+        "correct": false
+      },
+      {
+        "text": "non può mai essere\neffettuata con riferimento alla rifusione delle spese processuali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 225,
+    "text": "A norma dell'art. 596 c.p.p., sull’appello proposto contro le sentenze pronunciate dal\ntribunale decide:",
+    "answers": [
+      {
+        "text": "la Corte di appello.",
+        "correct": true
+      },
+      {
+        "text": "il Tribunale in composizione collegiale.",
+        "correct": false
+      },
+      {
+        "text": "la Corte di assise di appello.",
+        "correct": false
+      },
+      {
+        "text": "il Tribunale monocratico del capoluogo di regione competente per\nterritorio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 226,
+    "text": "Secondo le previsioni del c.p.p., assume la qualità di imputato:",
+    "answers": [
+      {
+        "text": "la persona alla quale è attribuito il reato al\nmomento dell'esercizio dell'azione penale.",
+        "correct": true
+      },
+      {
+        "text": "la persona sottoposta alle indagini preliminari.",
+        "correct": false
+      },
+      {
+        "text": "la persona a cui viene notificato l'avviso di\ngaranzia.",
+        "correct": false
+      },
+      {
+        "text": "a persona condannata di un reato penale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 227,
+    "text": "Il riconoscimento delle sentenze penali straniere a norma di accordi internazionali spetta ai sensi del c.p.p.:",
+    "answers": [
+      {
+        "text": "al Ministro della giustizia",
+        "correct": true
+      },
+      {
+        "text": "al Ministro degli affari esteri e della cooperazione\ninternazionale.",
+        "correct": false
+      },
+      {
+        "text": "al procuratore generale della Repubblica.",
+        "correct": false
+      },
+      {
+        "text": "al Presidente della Corte d'appello di Roma.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 228,
+    "text": "Nel caso in cui la sentenza penale straniera venga\nriconosciuta a norma dell'art. 731 c.p.p., per lo stesso fatto in Italia il condannato:",
+    "answers": [
+      {
+        "text": "non può essere sottoposto a nuovo procedimento\npenale, neppure nel caso in cui il fatto venga\ndiversamente considerato per titolo, grado o\ncircostanze.",
+        "correct": true
+      },
+      {
+        "text": "non può essere sottoposto a nuovo procedimento penale, ad eccezione del caso in cui il fatto venga diversamente considerato per titolo, grado o circostanze.",
+        "correct": false
+      },
+      {
+        "text": "può essere sottoposto a nuovo procedimento\npenale, a meno che non si tratti dell'esecuzione della confisca.",
+        "correct": false
+      },
+      {
+        "text": "può essere sottoposto a nuovo procedimento penale se vi sono ancora i termini per l'esercizio dell'azione penale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 229,
+    "text": "Secondo quanto previsto dal c.p.p., può l'imputato rinunciare all'assistenza del difensore?",
+    "answers": [
+      {
+        "text": "No, l'imputato non può esercitare un'autodifesa, infatti nel caso in cui non abbia nominato un\ndifensore di fiducia o ne sia rimasto privo è assistito da un difensore di ufficio.",
+        "correct": true
+      },
+      {
+        "text": "Si, è un suo diritto previsto espressamente dal c.p.p.",
+        "correct": false
+      },
+      {
+        "text": "No, ad eccezione del caso in cui l'imputato abbia nominato un difensore di fiducia ma\nsuccessivamente ne sia rimasto privo.",
+        "correct": false
+      },
+      {
+        "text": "Si, esclusivamente nel caso in cui l'imputato abbia la qualità di avvocato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 230,
+    "text": "È possibile concedere, sulla base dell'art. 284 c.p.p., gli arresti domiciliari a chi ha compiuto reati di omicidio:",
+    "answers": [
+      {
+        "text": "a meno che l’imputato non sia stato condannato per reato di evasione nei\ncinque anni precedenti al fatto per il quale si\nprocede.",
+        "correct": true
+      },
+      {
+        "text": "a meno che l’imputato non si sia reso colpevole di altri reati nei cinque anni precedenti al fatto per il quale si procede.",
+        "correct": false
+      },
+      {
+        "text": "a meno che l’imputato non si sia reso colpevole di altri reati della stessa indole nei cinque anni precedenti al fatto per il quale si procede.",
+        "correct": false
+      },
+      {
+        "text": "a meno che l’imputato si sia reso colpevole di reati di criminalità organizzata.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 231,
+    "text": "Le misure interdittive, con\nriferimento alle disposizioni del c.p.p., si applicano:",
+    "answers": [
+      {
+        "text": "solo quando si procede in ordine a delitti per i quali è prevista come pena\nl’ergastolo o la reclusione superiore nel massimo a tre anni.",
+        "correct": true
+      },
+      {
+        "text": "solo per i delitti\nespressamente indicati dal c.p.p.",
+        "correct": false
+      },
+      {
+        "text": "solo quando si procede in ordine a delitti per i quali è prevista come pena l’ergastolo.",
+        "correct": false
+      },
+      {
+        "text": "solo quando si procede in ordine a delitti per i quali è prevista la reclusione superiore nel massimo a cinque anni o l’ergastolo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 232,
+    "text": "L’esecuzione di una misura cautelare può essere sospesa, secondo le disposizioni del c.p.p., se:",
+    "answers": [
+      {
+        "text": "vi è un ordine con cui si\ndispone la carcerazione nei confronti di un imputato al quale è stata applicata una misura cautelare personale per un altro reato, salvo che gli effetti della misura disposta siano compatibili\ncon l’espiazione della pena.",
+        "correct": true
+      },
+      {
+        "text": "vi è un ordine con cui si dispone la carcerazione nei confronti di un imputato al quale è stata applicata una misura cautelare personale per un altro reato, anche se gli effetti della misura disposta siano incompatibili\ncon l’espiazione della pena.",
+        "correct": false
+      },
+      {
+        "text": "solo se si dispone la\ncarcerazione per un reato che preveda l’ergastolo come pena.",
+        "correct": false
+      },
+      {
+        "text": "vi è un ordine con cui si dispone una nuova misura cautelare.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 233,
+    "text": "A norma dell'art. 305 c.p.p., il Pubblico Ministero può chiedere la proroga della custodia cautelare:",
+    "answers": [
+      {
+        "text": "se sussistono gravi esigenze cautelari in\nrapporto ad accertamenti particolarmente complessi o a nuove indagini.",
+        "correct": true
+      },
+      {
+        "text": "solo se la richiesta di proroga è fatta durante il dibattimento.",
+        "correct": false
+      },
+      {
+        "text": "se l’imputato acconsente.",
+        "correct": false
+      },
+      {
+        "text": "solo prima dell’udienza preliminare.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 234,
+    "text": "Il Giudice può disporre altre misure cautelari per l’imputato scarcerato per decorrenza dei termini, ai sensi dell'art. 307 c.p.p.:",
+    "answers": [
+      {
+        "text": "qualora ricorrano i presupposti, solo se\nsussistono le ragioni che avevano determinato la custodia cautelare.",
+        "correct": true
+      },
+      {
+        "text": "ma solo per determinati delitti.",
+        "correct": false
+      },
+      {
+        "text": "qualora sussistano si tratti di misure cautelari interdittive.",
+        "correct": false
+      },
+      {
+        "text": "se si tratta di misure cautelari coercitive.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 235,
+    "text": "Se è stata emessa ordinanza che rigetta o dichiara\ninammissibile per manifesta infondatezza la richiesta di\nrimessione del processo, può essere presentata nuova istanza di rimessione, con riferimento all'art. 49 c.p.p.:",
+    "answers": [
+      {
+        "text": "purché fondata su elementi nuovi.",
+        "correct": true
+      },
+      {
+        "text": "solo da parte del Pubblico Ministero.",
+        "correct": false
+      },
+      {
+        "text": "purché entro sei mesi dalla pronuncia.",
+        "correct": false
+      },
+      {
+        "text": "purché entro un anno dalla pronuncia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 236,
+    "text": "Se si procede al dibattimento, in base all'art. 112 c.p.p., non è consentita la pubblicazione degli atti del fascicolo del pubblico ministero?",
+    "answers": [
+      {
+        "text": "se non dopo la pronuncia della sentenza in grado di appello.",
+        "correct": true
+      },
+      {
+        "text": "se non dopo la dichiarazione di chiusura del dibattimento di primo grado.",
+        "correct": false
+      },
+      {
+        "text": "se non dopo la sentenza di primo grado.",
+        "correct": false
+      },
+      {
+        "text": "ad eccezione degli atti irripetibili.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 237,
+    "text": "Il sequestro preventivo può essere disposto, ai sensi delle norme del c.p.p., dagli ufficiali di Polizia Giudiziaria se:",
+    "answers": [
+      {
+        "text": "vi siano situazioni di\nurgenza, purché entro le quarantotto ore successive, trasmettano il verbale al Pubblico\nMinistero del luogo in cui il sequestro è stato eseguito.",
+        "correct": true
+      },
+      {
+        "text": "vi siano situazioni di\nurgenza, purché entro le settantadue ore successive, richiedano autorizzazione al Pubblico Ministero del luogo in cui il sequestro è stato eseguito.",
+        "correct": false
+      },
+      {
+        "text": "vi siano situazioni di\nurgenza, se ci si trovi in presenza di reati\nparticolarmente gravi.",
+        "correct": false
+      },
+      {
+        "text": "solo se ci si trovi in presenza di reati\nparticolarmente gravi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 238,
+    "text": "In materia di misure cautelari, secondo le previsioni del c.p.p., quando la misura applicata non appare più proporzionata all’entità del fatto:",
+    "answers": [
+      {
+        "text": "il giudice sostituisce la misura applicata con\nun’altra meno grave ovvero ne dispone l’applicazione con modalità meno\ngravose.",
+        "correct": true
+      },
+      {
+        "text": "il giudice revoca\nimmediatamente la misura.",
+        "correct": false
+      },
+      {
+        "text": "il Pubblico Ministero può sostituire la misura con un’altra meno grave.",
+        "correct": false
+      },
+      {
+        "text": "il Pubblico Ministero ne dispone l’applicazione con modalità meno\ngravose.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 239,
+    "text": "Con riferimento alle norme del c.p.p., il pubblico ministero può proporre appello contro le sentenze di proscioglimento?",
+    "answers": [
+      {
+        "text": "Sì, ma solo nell'ipotesi in cui il giudice disponga la rinnovazione\ndell'istruttoria\ndibattimentale e la nuova prova sia decisiva.",
+        "correct": true
+      },
+      {
+        "text": "No, mai",
+        "correct": false
+      },
+      {
+        "text": "Sì, ma solo avverso le sentenze di\nproscioglimento relative a contravvenzioni punite con la reclusione.",
+        "correct": false
+      },
+      {
+        "text": "Sì, ma solo avverso le sentenze di\nproscioglimento relative a contravvenzioni punite con l'ammenda",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 240,
+    "text": "Qualora la notizia di reato risulti infondata, ai sensi dell'art. 408 c.p.p., competente a richiedere l’archiviazione è:",
+    "answers": [
+      {
+        "text": "il Pubblico Ministero.",
+        "correct": true
+      },
+      {
+        "text": "il Giudice per le indagini preliminari.",
+        "correct": false
+      },
+      {
+        "text": "il Pubblico Ministero o la Polizia Giudiziaria.",
+        "correct": false
+      },
+      {
+        "text": "il Pubblico Ministero o il Giudice per le indagini preliminari.",
+        "correct": false
+      }
+    ]
+  }
+]

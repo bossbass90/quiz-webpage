@@ -1,0 +1,4446 @@
+[
+  {
+    "number": 1,
+    "text": "Nella scienza\ndell'organizzazione, a cosa si riferisce il noto modello di\nTuckman?",
+    "answers": [
+      {
+        "text": "Un modello comportamentale dell'individuo sul lavoro.",
+        "correct": true
+      },
+      {
+        "text": "Un modus operandi del gruppo.",
+        "correct": false
+      },
+      {
+        "text": "Un esempio da seguire sul lavoro.",
+        "correct": false
+      },
+      {
+        "text": "Uno schema di come dovrebbero regolarsi i gruppi sul lavoro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "text": "Nella scienza\ndell'organizzazione, il modello di Tuckman suppone:",
+    "answers": [
+      {
+        "text": "che i membri del team siano nuovi l’uno per l’altro.",
+        "correct": true
+      },
+      {
+        "text": "che i membri del team\ninizialmente affronteranno una dinamica individuale.",
+        "correct": false
+      },
+      {
+        "text": "che i membri del team\ninizialmente affronteranno una dinamica di gruppo già conosciuta.",
+        "correct": false
+      },
+      {
+        "text": "che i membri del team dovranno evolversi sia individualmente sia nel gruppo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "text": "Qual è il modello che\nenfatizza l'evoluzione del gruppo?",
+    "answers": [
+      {
+        "text": "Il modello di Tuckman.",
+        "correct": true
+      },
+      {
+        "text": "Il modello di Weber.",
+        "correct": false
+      },
+      {
+        "text": "Il modello di Taylor.",
+        "correct": false
+      },
+      {
+        "text": "Il modello di Simon.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "text": "Quante e quali sono le fasi previste dal modello di\nTuckman?",
+    "answers": [
+      {
+        "text": "Inizialmente erano quattro: Forming, Storming, Norming, Performing; successivamente si aggiunse una quinta, Adjourning.",
+        "correct": true
+      },
+      {
+        "text": "Inizialmente erano quattro: Forming, Storming,\nAdjourning, Performing; successivamente si è aggiunta una quinta, Norming.",
+        "correct": false
+      },
+      {
+        "text": "Inizialmente erano tre: Forming, Storming,\nNorming; successivamente si aggiunsero Performing e Adjourning.",
+        "correct": false
+      },
+      {
+        "text": "Inizialmente erano tre: Forming, Performing, Norming;\nsuccessivamente si\naggiunsero Storming e Adjourning.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "text": "Nel modello Tuckman,\naffinché un gruppo si sviluppi deve inevitabilmente\nattraversare quali fasi, prima di iniziare ad ottenere\nrisultati?",
+    "answers": [
+      {
+        "text": "Forming, Storming, Norming, Performing e Adjourning.",
+        "correct": true
+      },
+      {
+        "text": "Forming, Storming,\nNorming e Performing.",
+        "correct": false
+      },
+      {
+        "text": "Storming, Norming,\nPerforming e Adjourning.",
+        "correct": false
+      },
+      {
+        "text": "Forming, Adjourning, Performing e Storming.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "text": "Cos’è il Brainstorming?",
+    "answers": [
+      {
+        "text": "È uno scambio di idee fra i membri di un team di lavoro, guidato da un conduttore il cui fine è quello di generare soluzioni condivise,\nstimolando la creatività di tutte le risorse coinvolte.",
+        "correct": true
+      },
+      {
+        "text": "È il più comune degli assesment, utilizzato per valutare le abilità, le\ncompetenze e il potenziale di un singolo candidato o dipendente.",
+        "correct": false
+      },
+      {
+        "text": "È un assesment center, che unisce diversi strumenti di valutazione, quali\nsimulazioni, giochi di ruolo e interviste.",
+        "correct": false
+      },
+      {
+        "text": "È un approccio di valutazione con test psicometrici.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "text": "Parlando di teorie\norganizzative, le principali scuole classiche, che si sono affermate alla fine del XIX secolo, si concentrano su\ndue principali approcci teorici:",
+    "answers": [
+      {
+        "text": "lo scientific management di Taylor (1911) e la teoria di Fayol (1916).",
+        "correct": true
+      },
+      {
+        "text": "lo scientific management di Taylor (1911) e lo “Human Relations Movement” Mayo (1924).",
+        "correct": false
+      },
+      {
+        "text": "la teoria di Fayol (1916) e lo “Human Relations Movement” Mayo (1924).",
+        "correct": false
+      },
+      {
+        "text": "La teoria delle norme e sulle regole di Weber (1905) e la teoria della direzione aziendale di Fayol (1916).",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "text": "Il concetto di leadership trasformazionale è stato introdotto da:",
+    "answers": [
+      {
+        "text": "James MacGregor Burns, nel 1978.",
+        "correct": true
+      },
+      {
+        "text": "Bruce Tuckman, nel 1965.",
+        "correct": false
+      },
+      {
+        "text": "Max Weber nel 1905.",
+        "correct": false
+      },
+      {
+        "text": "Henry Mintzberg, nel 1968.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "text": "Cosa sono le soft skills?",
+    "answers": [
+      {
+        "text": "Con questo termine si\nindicano le abilità personali e trasversali che ci permettono di interagire efficacemente con gli altri e di adattarci alle situazioni.",
+        "correct": true
+      },
+      {
+        "text": "Il termine indica le capacità di trasformazione\ndell’individuo, che gli consentono di correggere errori in corsa.",
+        "correct": false
+      },
+      {
+        "text": "Il termine sta a indicare le\ncompetenze trasformazionali della leadership.",
+        "correct": false
+      },
+      {
+        "text": "Con questo termine si indicano le abilità personali che ci\npermettono di cooperare in situazioni di difficoltà.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "text": "Secondo Taylor la selezione scientifica della manodopera è:",
+    "answers": [
+      {
+        "text": "Uno dei compiti fondamentali assegnati alla direzione.",
+        "correct": true
+      },
+      {
+        "text": "Un meccanismo organizzativo.",
+        "correct": false
+      },
+      {
+        "text": "Una prassi organizzativa.",
+        "correct": false
+      },
+      {
+        "text": "Un metodo da esternalizzare.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "text": "Utilizzando un approccio di tipo sistemico nel guardare all'organizzazione di un servizio territoriale, si può\naffermare che il primo livello di coerenza del sistema sia tra ogni singola persona e il proprio ruolo. Questo\ncomporta:",
+    "answers": [
+      {
+        "text": "Una redistribuzione dei\ncompiti o di interi programmi di lavoro in funzione di\npersone che entrano o escono dal sistema.",
+        "correct": true
+      },
+      {
+        "text": "Una cristallizzazione dei ruoli sessualmente\ncaratterizzati.",
+        "correct": false
+      },
+      {
+        "text": "Un'accettazione\nincondizionata e immutabile delle aspettative di ruolo.",
+        "correct": false
+      },
+      {
+        "text": "Nessuna risposta può rientrare in una concettualizzazione di tipo sistemico.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "text": "Nell'ambito della teoria\ndell'organizzazione, l'ufficio è:",
+    "answers": [
+      {
+        "text": "l'unità organizzativa degli enti.",
+        "correct": true
+      },
+      {
+        "text": "una struttura organizzativa complessa articolata in sezioni.",
+        "correct": false
+      },
+      {
+        "text": "l'insieme delle attribuzioni dell'organo.",
+        "correct": false
+      },
+      {
+        "text": "un'organizzazione decentrata.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "text": "Il filone contingency si propone di ricercare modelli di spiegazione per la relazione:",
+    "answers": [
+      {
+        "text": "contesto / organizzazione.",
+        "correct": true
+      },
+      {
+        "text": "organizzazione / dipendenti.",
+        "correct": false
+      },
+      {
+        "text": "contesto / profitto.",
+        "correct": false
+      },
+      {
+        "text": "dirigenti / impiegati.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "text": "Secondo la teoria delle contingenze:",
+    "answers": [
+      {
+        "text": "le organizzazioni devono\nmantenere un elevato grado di despecializzazione per adeguarsi alle esigenze del mercato.",
+        "correct": true
+      },
+      {
+        "text": "nelle organizzazioni il\nfattore tecnologico è l’unico in grado di garantire un buon andamento.",
+        "correct": false
+      },
+      {
+        "text": "le organizzazioni devono essere altamente specializzate e\nrigorosamente impostate per fronteggiare le richieste del mercato.",
+        "correct": false
+      },
+      {
+        "text": "il “one best way” è il modo più adatto per organizzare il lavoro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "text": "Secondo H. Simon l’uomo, nel lavoro, ha:",
+    "answers": [
+      {
+        "text": "una razionalità limitata.",
+        "correct": true
+      },
+      {
+        "text": "bisogno di essere comandato.",
+        "correct": false
+      },
+      {
+        "text": "l’esigenza psicologica di avere successo nel lavoro.",
+        "correct": false
+      },
+      {
+        "text": "la capacità, attraverso le giuste informazioni, di\nfare sempre la scelta più efficiente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "text": "L’elemento distintivo di una cultura organizzativa di tipo tecnocratico è:",
+    "answers": [
+      {
+        "text": "la competenza professionale.",
+        "correct": true
+      },
+      {
+        "text": "l’autoritarismo.",
+        "correct": false
+      },
+      {
+        "text": "l’importanza data ai rapporti interpersonali.",
+        "correct": false
+      },
+      {
+        "text": "il rispetto rigoroso dei ruoli.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "text": "L’elemento distintivo di una cultura organizzativa di tipo burocratico è:",
+    "answers": [
+      {
+        "text": "il rispetto delle norme e delle responsabilità legate al ruolo.",
+        "correct": true
+      },
+      {
+        "text": "la collaborazione tra\ndirigenti, impiegati e operai.",
+        "correct": false
+      },
+      {
+        "text": "la flessibilità dei ruoli.",
+        "correct": false
+      },
+      {
+        "text": "l’incentivazione della motivazione al lavoro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "text": "Il valore principale in una cultura organizzativa di tipo autoritario è:",
+    "answers": [
+      {
+        "text": "la fedeltà.",
+        "correct": true
+      },
+      {
+        "text": "il merito personale.",
+        "correct": false
+      },
+      {
+        "text": "la cooperazione.",
+        "correct": false
+      },
+      {
+        "text": "la libertà di espressione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "text": "L’espressione “cultura organizzativa” indica:",
+    "answers": [
+      {
+        "text": "il sistema di valori e norme che caratterizzano\nun’organizzazione.",
+        "correct": true
+      },
+      {
+        "text": "la provenienza etnica della maggioranza dei dipendenti.",
+        "correct": false
+      },
+      {
+        "text": "la scolarità media dei dipendenti.",
+        "correct": false
+      },
+      {
+        "text": "le regole precisate nei mansionari dei dipendenti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "text": "I cosiddetti “Circoli di Qualità”, nati in Giappone negli anni ’50, sono:",
+    "answers": [
+      {
+        "text": "gruppi di operai e impiegati.",
+        "correct": true
+      },
+      {
+        "text": "gruppi di operai e magazzinieri.",
+        "correct": false
+      },
+      {
+        "text": "gruppi di dirigenti",
+        "correct": false
+      },
+      {
+        "text": "riunioni di specialisti consulenti esterni all’azienda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "text": "Una delle principali critiche allo “scientific management” fu:",
+    "answers": [
+      {
+        "text": "la parcellizzazione\ndell’azione lavorativa.",
+        "correct": true
+      },
+      {
+        "text": "la divisione del lavoro.",
+        "correct": false
+      },
+      {
+        "text": "la scarsa importanza data alla tecnologia.",
+        "correct": false
+      },
+      {
+        "text": "la scarsa importanza data agli incentivi monetari",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "text": "Nel modello organizzativo giapponese si può\nriscontrare:",
+    "answers": [
+      {
+        "text": "una sintesi degli elementi razionali dell’organizzazione con quelli relazionali e di\nappartenenza.",
+        "correct": true
+      },
+      {
+        "text": "una visione del lavoratore come di un semplice esecutore.",
+        "correct": false
+      },
+      {
+        "text": "un approccio improntato esclusivamente\nall’incremento della tecnologia.",
+        "correct": false
+      },
+      {
+        "text": "una visione del lavoro come un sacrificio\nnecessario alla sopravvivenza.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "text": "L’espressione “one best way”, indica uno dei principi su cui si fonda:",
+    "answers": [
+      {
+        "text": "il taylorismo.",
+        "correct": true
+      },
+      {
+        "text": "la scuola delle human relations",
+        "correct": false
+      },
+      {
+        "text": "il concetto di “razionalità limitata”.",
+        "correct": false
+      },
+      {
+        "text": "l’approccio funzionalista.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "text": "Il paradigma delle Human Relations pone l’accento su:",
+    "answers": [
+      {
+        "text": "la natura sociale e soggettiva del lavoratore.",
+        "correct": true
+      },
+      {
+        "text": "la necessità di non stabilire rapporti informali tra la\ndirigenza e gli operai.",
+        "correct": false
+      },
+      {
+        "text": "il conflitto di classe.",
+        "correct": false
+      },
+      {
+        "text": "la necessità di scandire dettagliatamente tempi e modi dell’azione\nlavorativa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "text": "L’espressione “divisione del lavoro” all’interno dello scientific management\nsignifica:",
+    "answers": [
+      {
+        "text": "che il lavoro è diviso tra funzioni direttive e funzioni esecutive.",
+        "correct": true
+      },
+      {
+        "text": "che ogni operaio fa solo il suo lavoro.",
+        "correct": false
+      },
+      {
+        "text": "che i dirigenti di un’organizzazione si\ndividono le funzioni direttive.",
+        "correct": false
+      },
+      {
+        "text": "che il lavoro è diviso in turni di un certo numero di ore.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "text": "Lo “scientific management” è una teoria organizzativa proposta da:",
+    "answers": [
+      {
+        "text": "F. Taylor.",
+        "correct": true
+      },
+      {
+        "text": "E. Mayo.",
+        "correct": false
+      },
+      {
+        "text": "Smith.",
+        "correct": false
+      },
+      {
+        "text": "K. Marx",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "text": "In azienda, il fenomeno della rotazione, del rinnovo o della sostituzione del personale collocato a riposo viene definito:",
+    "answers": [
+      {
+        "text": "Turn over.",
+        "correct": true
+      },
+      {
+        "text": "Burn out.",
+        "correct": false
+      },
+      {
+        "text": "Job rotation.",
+        "correct": false
+      },
+      {
+        "text": "Mobilità,",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "text": "Cos'è la logistica applicata in azienda?",
+    "answers": [
+      {
+        "text": "Un sistema di gestione di\napprovvigionamenti e scorte, di programmazione della\nproduzione e della\ndistribuzione dei prodotti finiti.",
+        "correct": true
+      },
+      {
+        "text": "La logica di gestione dei flussi immateriali.",
+        "correct": false
+      },
+      {
+        "text": "La distribuzione e\nl'assegnazione degli spazi in un determinato reparto.",
+        "correct": false
+      },
+      {
+        "text": "La formulazione degli obiettivi, sia in termini qualitativi che\nquantitativi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "text": "In campo economico, cedere know-how significa:",
+    "answers": [
+      {
+        "text": "vendere conoscenze, competenze tecnico- scientifiche nonché esperienza.",
+        "correct": true
+      },
+      {
+        "text": "il trasferimento interno di know-how per migliorare le performance aziendali.",
+        "correct": false
+      },
+      {
+        "text": "identificare quella parte di capitale investito in attività di ricerca e sviluppo.",
+        "correct": false
+      },
+      {
+        "text": "trasferire a titolo gratuito, ad istituzioni pubbliche di ricerca, le conoscenze acquisite",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "text": "Una \"Task force aziendale\" è:",
+    "answers": [
+      {
+        "text": "un gruppo capace di affrontare e risolvere situazioni improvvise, assumendo precise responsabilità.",
+        "correct": true
+      },
+      {
+        "text": "un gruppo permanente di esperti a supporto dei vari dipartimenti.",
+        "correct": false
+      },
+      {
+        "text": "un gruppo informale di manutentori delle apparecchiature.",
+        "correct": false
+      },
+      {
+        "text": "un gruppo spontaneo di sostegno e coaching.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "text": "Il Diversity Management distingue due\nmacrocategorie di differenze, quali:",
+    "answers": [
+      {
+        "text": "diversità primarie e secondarie.",
+        "correct": true
+      },
+      {
+        "text": "diversità individuali e ambientali.",
+        "correct": false
+      },
+      {
+        "text": "diversità di retribuzione e di riconoscimento.",
+        "correct": false
+      },
+      {
+        "text": "diversità tra marketing interno ed esterno.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "text": "Il Total Quality Marketing ha come riferimento:",
+    "answers": [
+      {
+        "text": "la soddisfazione del cliente.",
+        "correct": true
+      },
+      {
+        "text": "la soddisfazione degli impiegati.",
+        "correct": false
+      },
+      {
+        "text": "la soddisfazione della direzione aziendale.",
+        "correct": false
+      },
+      {
+        "text": "la soddisfazione delle esigenze di mercato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "text": "Quale fra le seguenti attività caratterizza una Learninig Organisation?",
+    "answers": [
+      {
+        "text": "Apprendere dalle proprie esperienze e dal proprio passato.",
+        "correct": true
+      },
+      {
+        "text": "Limitare il trasferimento delle informazioni.",
+        "correct": false
+      },
+      {
+        "text": "Attenersi strettamente alle vecchie strategie.",
+        "correct": false
+      },
+      {
+        "text": "L'assenza di feedback.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "text": "Secondo Simon, le\ncaratteristiche della struttura e del funzionamento\ndell'organizzazione derivano:",
+    "answers": [
+      {
+        "text": "dalle caratteristiche del processo umano di\nrisoluzione dei problemi e di scelte razionali.",
+        "correct": true
+      },
+      {
+        "text": "dalle comunicazioni interne fornite dalla direzione.",
+        "correct": false
+      },
+      {
+        "text": "dalla fluttuazione del mercato.",
+        "correct": false
+      },
+      {
+        "text": "dalla rete dei fornitori esterni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "text": "La \"job evaluation\" è:",
+    "answers": [
+      {
+        "text": "la valutazione delle mansioni.",
+        "correct": true
+      },
+      {
+        "text": "l'analisi delle mansioni.",
+        "correct": false
+      },
+      {
+        "text": "la descrizione delle mansioni.",
+        "correct": false
+      },
+      {
+        "text": "la specificazione delle mansioni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "text": "La pianificazione aziendale è un processo che:",
+    "answers": [
+      {
+        "text": "sulla base delle scelte strategiche, formula, in\nmaniera consequenziale, le attività aziendali nel lungo termine.",
+        "correct": true
+      },
+      {
+        "text": "sullo studio delle vocazioni e competenze aziendali, cerca di prefigurare il futuro comportamento\ndell'azienda.",
+        "correct": false
+      },
+      {
+        "text": "si occupa esclusivamente dell'adeguamento dei\nsistemi di informazione.",
+        "correct": false
+      },
+      {
+        "text": "si occupa esclusivamente\ndell'adeguamento della struttura.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 37,
+    "text": "Cos'è la missione d'impresa?",
+    "answers": [
+      {
+        "text": "Il bisogno che\nl'impresa/azienda si prefigge di soddisfare a livello\ncollettivo.",
+        "correct": true
+      },
+      {
+        "text": "Una immagine mentale di uno stato futuro, possibile e desiderabile\ndell'organizzazione.",
+        "correct": false
+      },
+      {
+        "text": "Il processo di analisi e\ncomprensione del mercato.",
+        "correct": false
+      },
+      {
+        "text": "La cultura organizzativa che prevale su tutti i possibili cambiamenti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "text": "Come viene esercitato il controllo all'interno di una organizzazione collegiale?",
+    "answers": [
+      {
+        "text": "Attraverso l'impegno collettivo, di gruppo.",
+        "correct": true
+      },
+      {
+        "text": "Attraverso norme, regole, compensi e punizioni.",
+        "correct": false
+      },
+      {
+        "text": "Attraverso la condiscendenza.",
+        "correct": false
+      },
+      {
+        "text": "Secondo un ordine prestabilito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "text": "In una organizzazione di tipo formalistico:",
+    "answers": [
+      {
+        "text": "le norme sono chiare ed esplicite.",
+        "correct": true
+      },
+      {
+        "text": "compiti finanziari ed\noperativi sono unificati.",
+        "correct": false
+      },
+      {
+        "text": "i ruoli sono altamente flessibili.",
+        "correct": false
+      },
+      {
+        "text": "la fonte del potere decisionale è il gruppo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "text": "Secondo il modello della contingenza della leadership:",
+    "answers": [
+      {
+        "text": "differenti stili di direzione sono efficaci in condizioni diverse.",
+        "correct": true
+      },
+      {
+        "text": "la direzione deve essere efficiente ma non efficace.",
+        "correct": false
+      },
+      {
+        "text": "esiste solo lo stile di leadership carismatica.",
+        "correct": false
+      },
+      {
+        "text": "leader e capo sono sinonimi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 41,
+    "text": "Il Business Process\nReenginering consiste in:",
+    "answers": [
+      {
+        "text": "una riprogettazione dei processi organizzativi in\ntermini di obiettivi, tecniche, modalità di coordinamento e controllo.",
+        "correct": true
+      },
+      {
+        "text": "un approccio alla\nprogettazione dei sistemi informativi come\nautomazione dell’esistente.",
+        "correct": false
+      },
+      {
+        "text": "un abbassamento dei limiti della razionalità\norganizzativa.",
+        "correct": false
+      },
+      {
+        "text": "una subordinazione delle metodologie di\nprogettazione al grado di sviluppo delle\ntecnologie.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 42,
+    "text": "Il sistema \"just-in-time\" si basa su:",
+    "answers": [
+      {
+        "text": "ridurre i tempi di attesa del materiale destinato alla\nproduzione facendolo\ngiungere al momento giusto per l’ingresso nella linea di fabbricazione o di\nmontaggio.",
+        "correct": true
+      },
+      {
+        "text": "lo sviluppo simultaneo di\nfasi di progetto del prodotto e la loro integrazione.",
+        "correct": false
+      },
+      {
+        "text": "l'inserimento di circoli di qualità.",
+        "correct": false
+      },
+      {
+        "text": "la preservazione della razionalità interna dalle \"turbolenze\ndell'ambiente\".",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 43,
+    "text": "Cos'è un Assessment Center?",
+    "answers": [
+      {
+        "text": "È un sistema di valutazione costituito da una serie di attività e strumenti\nstandardizzati.",
+        "correct": true
+      },
+      {
+        "text": "È uno strumento di valutazione delle capacità di problem solving di un singolo individuo.",
+        "correct": false
+      },
+      {
+        "text": "È uno strumento di gestione dei conflitti interni.",
+        "correct": false
+      },
+      {
+        "text": "È uno strumento di valutazione della comunicazione intergruppi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 44,
+    "text": "Nella prospettiva dell'Organizational\nBehaviour, le relazioni interpersonali devono essere:",
+    "answers": [
+      {
+        "text": "cooperative.",
+        "correct": true
+      },
+      {
+        "text": "affiliative.",
+        "correct": false
+      },
+      {
+        "text": "competitive.",
+        "correct": false
+      },
+      {
+        "text": "economiche.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 45,
+    "text": "I \"fattori di mantenimento\" di Herzberg sono aspetti della vita lavorativa:",
+    "answers": [
+      {
+        "text": "con un alto effetto frustrante quando negativi.",
+        "correct": true
+      },
+      {
+        "text": "con un alto effetto\nmotivante quando positivi.",
+        "correct": false
+      },
+      {
+        "text": "strettamente legati al conseguimento dei risultati.",
+        "correct": false
+      },
+      {
+        "text": "strettamente legati alla promozione professionale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "text": "L'approccio situazionale individua:",
+    "answers": [
+      {
+        "text": "le relazioni di causa-effetto che si stabiliscono tra\ndeterminate variabili\nambientali ed organizzative.",
+        "correct": true
+      },
+      {
+        "text": "il processo di adattamento dell'organizzazione\nall'ambiente.",
+        "correct": false
+      },
+      {
+        "text": "i subsistemi necessari ad un efficace funzionamento\norganizzativo.",
+        "correct": false
+      },
+      {
+        "text": "l'assenza di relazione tra la tecnologia e la\nstruttura.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 47,
+    "text": "In base ai principi di gestione enunciati da Mooney e Reiley:",
+    "answers": [
+      {
+        "text": "lo staff consiglia, la line comanda",
+        "correct": true
+      },
+      {
+        "text": "lo staff comanda, la line consiglia",
+        "correct": false
+      },
+      {
+        "text": "le attività di staff non possono essere distinte da quelle di line",
+        "correct": false
+      },
+      {
+        "text": "il management deve essere di tipo\npartecipativo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 48,
+    "text": "Secondo i principi dello Scientific Management, bisognava:",
+    "answers": [
+      {
+        "text": "separare nettamente le funzioni mentali da quelle manuali.",
+        "correct": true
+      },
+      {
+        "text": "delegare l'autorità ai subordinati.",
+        "correct": false
+      },
+      {
+        "text": "perseguire un'equità nel\ntrattamento dei sottoposti.",
+        "correct": false
+      },
+      {
+        "text": "integrare i bisogni degli individui con quelli\ndell'organizzazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 49,
+    "text": "Nel contesto della teoria\nsocioanalitica, Rice definisce il compito primario di\nun’organizzazione come:",
+    "answers": [
+      {
+        "text": "quell’obiettivo al cui fine è stata preordinata la creazione di un dato ente.",
+        "correct": true
+      },
+      {
+        "text": "l’insieme dei sistemi di premio e punizione e di valutazione delle\nprestazioni e del potenziale.",
+        "correct": false
+      },
+      {
+        "text": "la convergenza sulle idee e sui mezzi necessari ad una struttura collettiva.",
+        "correct": false
+      },
+      {
+        "text": "la relazione che\nl’organizzazione instaura con l’ambiente esterno.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 50,
+    "text": "Quali sono i principi su cui si basa l’Organizational\nBehaviour?",
+    "answers": [
+      {
+        "text": "Coinvolgimento ed arricchimento personale.",
+        "correct": true
+      },
+      {
+        "text": "Prescrizione e controllo.",
+        "correct": false
+      },
+      {
+        "text": "Sostegno interpersonale.",
+        "correct": false
+      },
+      {
+        "text": "L’ ambiente fisico e l’addestramento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 51,
+    "text": "Cos’è l’effetto Hawthorne?",
+    "answers": [
+      {
+        "text": "Il fenomeno per cui lavoratori chiamati ad impegnarsi in una nuova esperienza interessante lavorano di più.",
+        "correct": true
+      },
+      {
+        "text": "L’aumento di produttività legato all’illuminazione del posto di lavoro.",
+        "correct": false
+      },
+      {
+        "text": "Il fenomeno del turnover.",
+        "correct": false
+      },
+      {
+        "text": "Il fenomeno per cui la natura del lavoro\ninfluenza le preferenze degli operai per il tipo di direzione aziendale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 52,
+    "text": "Da quale tipologia di gruppo scaturisce l'ambiente amichevole all'interno del lavoro secondo Elton Mayo (1880 1949)?",
+    "answers": [
+      {
+        "text": "Dai gruppi informali solitamente di piccole dimensioni.",
+        "correct": true
+      },
+      {
+        "text": "Da gruppi formali\nsolitamente di grandi dimensioni.",
+        "correct": false
+      },
+      {
+        "text": "Da gruppi superficiali che si formano durante le pause.",
+        "correct": false
+      },
+      {
+        "text": "Da gruppi esterni all’ambiente di lavoro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 53,
+    "text": "Secondo la dottrina “razionale” dell’homo economicus:",
+    "answers": [
+      {
+        "text": "il rapporto di mercato degli interessi utilitari individuali è il regolatore dei\ncomportamenti sociali.",
+        "correct": true
+      },
+      {
+        "text": "l’uomo non può essere motivato solo da incentivi economici.",
+        "correct": false
+      },
+      {
+        "text": "il fulcro di ogni sistema di\norganizzazione del lavoro è il controllo.",
+        "correct": false
+      },
+      {
+        "text": "le relazioni interpersonali all’interno del luogo di lavoro devono essere affiliative.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 54,
+    "text": "Nell'analisi dei principi della burocrazia, Weber identifica tre tipi di autorità:",
+    "answers": [
+      {
+        "text": "tradizionale, carismatica e legale.",
+        "correct": true
+      },
+      {
+        "text": "tradizionale, razionale e direttiva.",
+        "correct": false
+      },
+      {
+        "text": "legittima, direttiva e legale.",
+        "correct": false
+      },
+      {
+        "text": "tradizionale, carismatica e direttiva.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "text": "Quale fra le seguenti è la funzione più importante di una impresa secondo Fayol?",
+    "answers": [
+      {
+        "text": "Amministrativa.",
+        "correct": true
+      },
+      {
+        "text": "Commerciale.",
+        "correct": false
+      },
+      {
+        "text": "Finanziaria.",
+        "correct": false
+      },
+      {
+        "text": "Tecnica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 56,
+    "text": "Nel fayolismo quante sono le “funzioni dell’impresa”?",
+    "answers": [
+      {
+        "text": 6,
+        "correct": true
+      },
+      {
+        "text": 8,
+        "correct": false
+      },
+      {
+        "text": 9,
+        "correct": false
+      },
+      {
+        "text": 12,
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 57,
+    "text": "Il diagramma (noto come \"progress chart\") di Henry Laurence Gantt:",
+    "answers": [
+      {
+        "text": "ordina temporalmente i dati quantitativi.",
+        "correct": true
+      },
+      {
+        "text": "identifica i percorsi di un equo incentivo economico.",
+        "correct": false
+      },
+      {
+        "text": "identifica uno stile\ngerarchico del consenso.",
+        "correct": false
+      },
+      {
+        "text": "pianifica le retribuzioni individuali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 58,
+    "text": "Le scuole classiche dell’organizzazione si sono basate su di un preciso postulato: quale?",
+    "answers": [
+      {
+        "text": "L’uomo è una variabile dipendente\ndall’organizzazione.",
+        "correct": true
+      },
+      {
+        "text": "L’uomo è la vera variabile indipendente, mentre\nl’organizzazione è a lui subordinata.",
+        "correct": false
+      },
+      {
+        "text": "L’uomo è un costo/investimento di dimensioni sempre più significative.",
+        "correct": false
+      },
+      {
+        "text": "La direzione deve\noperare in un clima di consenso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 59,
+    "text": "La teoria di Murray sulle motivazioni, attraverso la definizione dei bisogni come espressioni di forze che\norganizzano la cognizione, l'affetto e l'azione, spiega:",
+    "answers": [
+      {
+        "text": "Le tendenze direzionali\nfondamentali della condotta e gli elementi distintivi della\npersonalità.",
+        "correct": true
+      },
+      {
+        "text": "Cosa determina e\ncaratterizza l'intensità e la persistenza delle varie condotte.",
+        "correct": false
+      },
+      {
+        "text": "Le componenti e lo sviluppo delle varie motivazioni in relazione allo sviluppo dei processi cognitivi e affettivi.",
+        "correct": false
+      },
+      {
+        "text": "Le modalità di realizzazione degli scopi personali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 60,
+    "text": "La ricerca sulla motivazione pone le sue basi su varie liste di bisogni e di istinti,\nrelativamente alle liste dei bisogni, il contributo fondamentale si riferisce agli studi di:",
+    "answers": [
+      {
+        "text": "Murray e Maslow.",
+        "correct": true
+      },
+      {
+        "text": "Weiner.",
+        "correct": false
+      },
+      {
+        "text": "Liberman.",
+        "correct": false
+      },
+      {
+        "text": "Chomsky e Jakobson.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 61,
+    "text": "A quale scopo viene\neffettuata, secondo gli studi di organizzazione aziendale, l'analisi costi/benefici?",
+    "answers": [
+      {
+        "text": "Come tecnica di valutazione nell'ambito del processo\ndecisionale.",
+        "correct": true
+      },
+      {
+        "text": "Come metodo di\ncoinvolgimento di tutti i lavoratori.",
+        "correct": false
+      },
+      {
+        "text": "Come tecnica per ridurre la concorrenza sul mercato.",
+        "correct": false
+      },
+      {
+        "text": "Come tecnica di ricerca.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 62,
+    "text": "Secondo il modello di analisi del comportamento\norganizzativo detto \"modello delle competenze\" cos’è una competenza?",
+    "answers": [
+      {
+        "text": "Una caratteristica interiore dell'individuo che risulta in una performance efficace in una certa situazione.",
+        "correct": true
+      },
+      {
+        "text": "Una caratteristica\npsicologica dell'individuo.",
+        "correct": false
+      },
+      {
+        "text": "La posizione formale ricoperta\nnell'organizzazione.",
+        "correct": false
+      },
+      {
+        "text": "Una caratteristica\nesteriore dell'individuo che risultata da una prestazione lavorativa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 63,
+    "text": "Le teorie della motivazione che analizzano il modo in cui la percezione di un bisogno si traduce in un\ncomportamento\norganizzativo sono dette:",
+    "answers": [
+      {
+        "text": "teorie del processo.",
+        "correct": true
+      },
+      {
+        "text": "teorie del comportamento.",
+        "correct": false
+      },
+      {
+        "text": "teorie oggettive.",
+        "correct": false
+      },
+      {
+        "text": "teorie della valutazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 64,
+    "text": "La teoria della motivazione detta \"modello di Maslow\" è:",
+    "answers": [
+      {
+        "text": "una teoria del contenuto.",
+        "correct": true
+      },
+      {
+        "text": "una teoria del processo.",
+        "correct": false
+      },
+      {
+        "text": "una teoria della valutazione.",
+        "correct": false
+      },
+      {
+        "text": "una teoria oggettiva.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 65,
+    "text": "La cosiddetta piramide dei bisogni di Abraham Maslow vuole rappresentare i bisogni primari e i bisogni secondari\ndegli individui. Alla base della piramide:",
+    "answers": [
+      {
+        "text": "ci sono i bisogni fisiologici.",
+        "correct": true
+      },
+      {
+        "text": "vi è il bisogno di sicurezza.",
+        "correct": false
+      },
+      {
+        "text": "vi è il bisogno di realizzare sé stessi.",
+        "correct": false
+      },
+      {
+        "text": "ci sono i bisogni di stima.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 66,
+    "text": "Qual è la classificazione tipica dei bisogni\ndell'approccio funzionalista, di cui sono importanti esponenti Mc Clelland e Maslow?",
+    "answers": [
+      {
+        "text": "Sono distinti i bisogni legati alla sopravvivenza, alla realtà biopsicologica di base\ndell'essere umano, da quelli sociali, legati alla convivenza e alla partecipazione alla comunità umana.",
+        "correct": true
+      },
+      {
+        "text": "Considerando il bisogno come prodotto sociale, determinato dal sistema\neconomico-strutturale della società, si distinguono i bisogni radicali da quelli\nsolvibili.",
+        "correct": false
+      },
+      {
+        "text": "Più che una classificazione inserisce nella definizione una dose di soggettività intrinseca al bisogno,\naggiungendo componenti quali il desiderio cosciente, l'aspirazione, l'intenzione.",
+        "correct": false
+      },
+      {
+        "text": "Vengono distinti i bisogni oggettivi da quelli\nsoggettivi. Quando emerge la variabile interveniente della coscienza sociale i primi si trasformano nei secondi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 67,
+    "text": "Da quanti livelli di bisogni è composta la piramide di Maslow?",
+    "answers": [
+      {
+        "text": "5 livelli.",
+        "correct": true
+      },
+      {
+        "text": "4 livelli.",
+        "correct": false
+      },
+      {
+        "text": "3 livelli.",
+        "correct": false
+      },
+      {
+        "text": "7 livelli.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 68,
+    "text": "Il bisogno di\nautorealizzazione, secondo\nA. Maslow:",
+    "answers": [
+      {
+        "text": "compare quando sono soddisfatti tutti gli altri bisogni.",
+        "correct": true
+      },
+      {
+        "text": "è un bisogno primario minore.",
+        "correct": false
+      },
+      {
+        "text": "per manifestarsi richiede una serie di rinforzi positivi.",
+        "correct": false
+      },
+      {
+        "text": "non è un bisogno necessario.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 69,
+    "text": "Quale bisogno è alla base della \"Piramide\" di Maslow?",
+    "answers": [
+      {
+        "text": "Fisiologico.",
+        "correct": true
+      },
+      {
+        "text": "Stima.",
+        "correct": false
+      },
+      {
+        "text": "Socializzazione.",
+        "correct": false
+      },
+      {
+        "text": "Sicurezza.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 70,
+    "text": "L’ordine gerarchico dei bisogni di Maslow è:",
+    "answers": [
+      {
+        "text": "Bisogni fisiologici, di sicurezza, di amore, di stima, di autorealizzazione.",
+        "correct": true
+      },
+      {
+        "text": "Bisogni fisiologici, di amore, di sicurezza, di stima, di autorealizzazione.",
+        "correct": false
+      },
+      {
+        "text": "Bisogni fisiologici, di\nsicurezza, di stima, di amore, di autorealizzazione.",
+        "correct": false
+      },
+      {
+        "text": "Bisogni fisiologici di autorealizzazione, di\nstima, di sicurezza e di amore.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 71,
+    "text": "Abraham Maslow ha proposto una teoria della motivazione umana, a partire dai bambini, che distingue bisogni legati a mancanze e bisogni legati alla crescita.\nEgli li definisce, rispettivamente:",
+    "answers": [
+      {
+        "text": "Bisogni di base e metabisogni.",
+        "correct": true
+      },
+      {
+        "text": "Bisogni e iperbisogni.",
+        "correct": false
+      },
+      {
+        "text": "Istinto e cultura.",
+        "correct": false
+      },
+      {
+        "text": "Sopravvivenza fisica e evoluzione sociale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 72,
+    "text": "Quale tra i seguenti bisogni che stanno alla base della motivazione dell'individuo non fa parte della gerarchia elaborata da Maslow?",
+    "answers": [
+      {
+        "text": "Di aiuto.",
+        "correct": true
+      },
+      {
+        "text": "Fisiologici.",
+        "correct": false
+      },
+      {
+        "text": "Sociali.",
+        "correct": false
+      },
+      {
+        "text": "Dell'Io.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 73,
+    "text": "Il bisogno di\nautorealizzazione, secondo Maslow:",
+    "answers": [
+      {
+        "text": "Compare quando sono soddisfatti tutti gli altri bisogni.",
+        "correct": true
+      },
+      {
+        "text": "Per manifestarsi richiede una serie di rinforzi positivi.",
+        "correct": false
+      },
+      {
+        "text": "è un bisogno primario minore.",
+        "correct": false
+      },
+      {
+        "text": "Compare solo in\nindividui molto dotati intellettualmente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 74,
+    "text": "All'ultimo livello della\ngerarchia di Maslow vi sono i bisogni:",
+    "answers": [
+      {
+        "text": "Di autorealizzazione.",
+        "correct": true
+      },
+      {
+        "text": "Di appartenenza.",
+        "correct": false
+      },
+      {
+        "text": "Di stima.",
+        "correct": false
+      },
+      {
+        "text": "Fisiologici.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 75,
+    "text": "Maslow negli studi sulle motivazioni, mette in\nrelazione i bisogni fisiologici, di attaccamento, di stima, di conoscenza, estetici, di\nautorealizzazione e spirituali ipotizzando:",
+    "answers": [
+      {
+        "text": "Una gerarchia in sequenza evolutiva, per cui la\nsoddisfazione dei più primitivi è condizione\nnecessaria per l'emergere dei più evoluti.",
+        "correct": true
+      },
+      {
+        "text": "Una sequenza soggettiva, che dipende dagli aspetti culturali e sociali di provenienza.",
+        "correct": false
+      },
+      {
+        "text": "L'emergere dei bisogni in connessione alle differenti tipologie delle figure di\nriferimento.",
+        "correct": false
+      },
+      {
+        "text": "Uno sviluppo parallelo dei diversi bisogni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 76,
+    "text": "All'interno degli studi sulle motivazioni, le teorie dei bisogni di Maslow e di\nMurray sono state criticate in ambito:",
+    "answers": [
+      {
+        "text": "Strettamente scientifico.",
+        "correct": true
+      },
+      {
+        "text": "Clinico.",
+        "correct": false
+      },
+      {
+        "text": "Lavorativo.",
+        "correct": false
+      },
+      {
+        "text": "Educativo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 77,
+    "text": "Tra gli aspetti applicativi dei livelli motivazionali, lo\npsicologo Edgar H. Schein, in linea con il sistema dei bisogni di A. Maslow, analizza secondo un approccio razionale- economico:",
+    "answers": [
+      {
+        "text": "La motivazione al lavoro.",
+        "correct": true
+      },
+      {
+        "text": "La motivazione all'appartenenza.",
+        "correct": false
+      },
+      {
+        "text": "La motivazione endogena.",
+        "correct": false
+      },
+      {
+        "text": "La motivazione esogena.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 78,
+    "text": "Quale dei seguenti non è uno degli elementi del\n\"principio essenziale\" di Taylor",
+    "answers": [
+      {
+        "text": "Standardizzazione di tutti gli utensili.",
+        "correct": true
+      },
+      {
+        "text": "Ripartizione del lavoro in parti uguali tra la mano d'opera.",
+        "correct": false
+      },
+      {
+        "text": "Collaborazione cordiale con i dipendenti.",
+        "correct": false
+      },
+      {
+        "text": "Sviluppo di analisi scientifiche per ogni operazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 79,
+    "text": "Quale di questi elementi non è un meccanismo\norganizzativo di Taylor?",
+    "answers": [
+      {
+        "text": "Decentramento.",
+        "correct": true
+      },
+      {
+        "text": "Tariffa differenziale.",
+        "correct": false
+      },
+      {
+        "text": "Standardizzazione.",
+        "correct": false
+      },
+      {
+        "text": "Principio di eccezione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 80,
+    "text": "La Teoria di F. Taylor appartiene alle:",
+    "answers": [
+      {
+        "text": "Teorie ad orientamento normativo.",
+        "correct": true
+      },
+      {
+        "text": "Teorie ad orientamento diagnostico.",
+        "correct": false
+      },
+      {
+        "text": "Teorie delle Relazioni Umane.",
+        "correct": false
+      },
+      {
+        "text": "Teorie della\nstandardizzazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 81,
+    "text": "La teoria del Taylorismo sostiene che il potere, nell’azienda:",
+    "answers": [
+      {
+        "text": "è concentrato nel management.",
+        "correct": true
+      },
+      {
+        "text": "non è concentrato nel management.",
+        "correct": false
+      },
+      {
+        "text": "ottimizza la produttività.",
+        "correct": false
+      },
+      {
+        "text": "non è propedeutico all’organizzazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 82,
+    "text": "L’organizzazione scientifica del lavoro, elaborata alla fine del XIX secolo dall'ingegnere statunitense Frederick Winslow Taylor, a cosa mira?",
+    "answers": [
+      {
+        "text": "A ottimizzare la produttività aziendale attraverso un\nmigliore impiego della forza lavoro.",
+        "correct": true
+      },
+      {
+        "text": "Alla razionalizzazione del management.",
+        "correct": false
+      },
+      {
+        "text": "Al miglioramento dei rapporti all’interno dell’azienda.",
+        "correct": false
+      },
+      {
+        "text": "A razionalizzare la produttività aziendale\nattraverso una migliore gestione economica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 83,
+    "text": "Quale teoria sostiene che il management è concentrato nel potere?",
+    "answers": [
+      {
+        "text": "La teoria di Taylor.",
+        "correct": true
+      },
+      {
+        "text": "La teoria di Fayol.",
+        "correct": false
+      },
+      {
+        "text": "La teoria dell’imprenditore Henry Ford.",
+        "correct": false
+      },
+      {
+        "text": "La teoria di Karl Marx.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 84,
+    "text": "Il concetto di dinamica di\ngruppo è stato introdotto da Kurt Lewin:",
+    "answers": [
+      {
+        "text": "per indicare le relazioni che interessano un gruppo e che ne influenzano lo sviluppo e la condotta.",
+        "correct": true
+      },
+      {
+        "text": "per indicare le attività di un gruppo nell’ambito della\nloro crescita.",
+        "correct": false
+      },
+      {
+        "text": "per indicare la performance di un gruppo nell’ambito lavorativo.",
+        "correct": false
+      },
+      {
+        "text": "per indicare le finalità e il comportamento di un\ngruppo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 85,
+    "text": "Il maggior esponente della teoria delle decisioni è:",
+    "answers": [
+      {
+        "text": "Simon.",
+        "correct": true
+      },
+      {
+        "text": "Hawthorne.",
+        "correct": false
+      },
+      {
+        "text": "Weber.",
+        "correct": false
+      },
+      {
+        "text": "Taylor.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 86,
+    "text": "Con il termine \"management accounting\" ci si riferisce:",
+    "answers": [
+      {
+        "text": "al controllo.",
+        "correct": true
+      },
+      {
+        "text": "all'amministrazione.",
+        "correct": false
+      },
+      {
+        "text": "alla gestione.",
+        "correct": false
+      },
+      {
+        "text": "all'organizzazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 87,
+    "text": "In cosa consiste la tecnica del \"brainstorming\"?",
+    "answers": [
+      {
+        "text": "In una riunione creativa nel corso della quale un gruppo di soggetti dopo aver ascoltato un'esposizione\narticolata del problema esprime il maggior numero\npossibile di ipotesi risolutive.",
+        "correct": true
+      },
+      {
+        "text": "In una riunione nel corso della quale un gruppo di individui, dopo aver\nascoltato un'esposizione molto vaga del problema propone soluzioni.",
+        "correct": false
+      },
+      {
+        "text": "Nel porre un problema\nriguardante la funzione d'uso del prodotto.",
+        "correct": false
+      },
+      {
+        "text": "IN un'indagine da condurre presso gli utilizzatori di un prodotto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 88,
+    "text": "La teoria della motivazione detta \"modello di Maslow\" è una teoria:",
+    "answers": [
+      {
+        "text": "del contenuto.",
+        "correct": true
+      },
+      {
+        "text": "del processo.",
+        "correct": false
+      },
+      {
+        "text": "della valutazione.",
+        "correct": false
+      },
+      {
+        "text": "della preferenza.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 89,
+    "text": "Le teorie della motivazione che analizzano il modo in cui la percezione di un bisogno si traduce in un\ncomportamento\norganizzativo sono dette teorie:",
+    "answers": [
+      {
+        "text": "del processo.",
+        "correct": true
+      },
+      {
+        "text": "del comportamento.",
+        "correct": false
+      },
+      {
+        "text": "oggettive.",
+        "correct": false
+      },
+      {
+        "text": "della valutazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 90,
+    "text": "Nel contesto organizzativo il parametro dell'efficienza\nrappresenta la misura in cui un'azione o una decisione:",
+    "answers": [
+      {
+        "text": "è in grado di economizzare risorse scarse.",
+        "correct": true
+      },
+      {
+        "text": "è funzionale rispetto agli obiettivi organizzativi.",
+        "correct": false
+      },
+      {
+        "text": "è in grado di soddisfare le preferenze e i bisogni\nindividuali.",
+        "correct": false
+      },
+      {
+        "text": "è in grado di produrre guadagni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 91,
+    "text": "Secondo il modello di analisi del comportamento\norganizzativo detto \"modello delle competenze\" una\ncompetenza è:",
+    "answers": [
+      {
+        "text": "una caratteristica interiore dell'individuo che risulta in una performance efficace in una certa situazione.",
+        "correct": true
+      },
+      {
+        "text": "una caratteristica\npsicologica dell'individuo.",
+        "correct": false
+      },
+      {
+        "text": "la posizione formale ricoperta\nnell'organizzazione.",
+        "correct": false
+      },
+      {
+        "text": "ciò che una particolare situazione richiede\nall'individuo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 92,
+    "text": "Per \"Piramide di Maslow\" s'intende una scala per misurare i bisogni degli\nindividui di qualsiasi età; tali bisogni sono suddivisi:",
+    "answers": [
+      {
+        "text": "Tra più elementari e più complessi.",
+        "correct": true
+      },
+      {
+        "text": "Tra meno urgenti e più urgenti.",
+        "correct": false
+      },
+      {
+        "text": "Tra più visibili e meno visibili.",
+        "correct": false
+      },
+      {
+        "text": "Tra meno importanti e più importanti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 93,
+    "text": "All'interno della piramide di Maslow quali bisogni non sono rappresentati?",
+    "answers": [
+      {
+        "text": "I bisogni di assertività.",
+        "correct": true
+      },
+      {
+        "text": "I bisogni di realizzazione di sé.",
+        "correct": false
+      },
+      {
+        "text": "I bisogni di sicurezza e protezione.",
+        "correct": false
+      },
+      {
+        "text": "I bisogni di appartenenza.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 94,
+    "text": "In cosa consiste l’efficienza?",
+    "answers": [
+      {
+        "text": "Nel rapporto tra obiettivi\nraggiunti e risorse impiegate.",
+        "correct": true
+      },
+      {
+        "text": "Nella capacità dell’azienda di conseguire gli obiettivi programmati.",
+        "correct": false
+      },
+      {
+        "text": "Nel rapporto fra la quantità dei prodotti ottenuti e dei\nfattori acquistati.",
+        "correct": false
+      },
+      {
+        "text": "Nel raggiungimento di un impatto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 95,
+    "text": "Burrhus Frederic Skinner sostiene che l'individuo esplora l'ambiente con tanta maggiore efficienza quanto\npiù è \"rinforzato\" dal risultato. Si tratta:",
+    "answers": [
+      {
+        "text": "del comportamento operante.",
+        "correct": true
+      },
+      {
+        "text": "del comportamento rispondente.",
+        "correct": false
+      },
+      {
+        "text": "del comportamento programmato.",
+        "correct": false
+      },
+      {
+        "text": "del comportamento condizionato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 96,
+    "text": "Cosa designa il criterio di efficacia?",
+    "answers": [
+      {
+        "text": "Il rapporto tra risultati ottenuti e obiettivi\nprestabiliti.",
+        "correct": true
+      },
+      {
+        "text": "Il rapporto tra risorse impiegate e obiettivi prestabiliti.",
+        "correct": false
+      },
+      {
+        "text": "Il rapporto tra tempo\nimpiegato e risultati ottenuti.",
+        "correct": false
+      },
+      {
+        "text": "Il rapporto tra risorse impiegate e risultati ottenuti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 97,
+    "text": "La maggior efficacia\ncomunicativa o ricezione del messaggio è dovuta:",
+    "answers": [
+      {
+        "text": "Al linguaggio verbale.",
+        "correct": true
+      },
+      {
+        "text": "Al tono della voce.",
+        "correct": false
+      },
+      {
+        "text": "Ai supporti visivi.",
+        "correct": false
+      },
+      {
+        "text": "Al linguaggio non verbale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 98,
+    "text": "L'efficacia consiste:",
+    "answers": [
+      {
+        "text": "nel raggiungimento dei risultati ottenuti rispetto a quelli programmati.",
+        "correct": true
+      },
+      {
+        "text": "nel raggiungimento dell'equilibrio\neconomico/finanziario.",
+        "correct": false
+      },
+      {
+        "text": "nell'impiego oculato delle risorse.",
+        "correct": false
+      },
+      {
+        "text": "nel conseguimento di outcome, oltre che di output.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 99,
+    "text": "Nell’organizzazione aziendale, il management gestionale:",
+    "answers": [
+      {
+        "text": "stabilisce gli obiettivi strategici\ndell'organizzazione.",
+        "correct": true
+      },
+      {
+        "text": "conduce il personale a raggiungere i risultati.",
+        "correct": false
+      },
+      {
+        "text": "verifica il raggiungimento dei risultati.",
+        "correct": false
+      },
+      {
+        "text": "si occupa della gestione del personale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 100,
+    "text": "Nell’organizzazione aziendale, il top management:",
+    "answers": [
+      {
+        "text": "definisce gli obiettivi\nstrategici, svolge azioni di monitoraggio per garantire il raggiungimento della\nperformance\ndell'organizzazione",
+        "correct": true
+      },
+      {
+        "text": "è responsabile in prima persona del miglior uso delle risorse per il\nraggiungimento della performance\ndell'organizzazione.",
+        "correct": false
+      },
+      {
+        "text": "sovrintende alle attività delle persone per garantire la performance\ndell'organizzazione.",
+        "correct": false
+      },
+      {
+        "text": "gestisce le relazioni tra i diversi livelli di\nmanagement per\nfavorire la performance dell'organizzazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 101,
+    "text": "Cosa contempla il\nmanagement scientifico?",
+    "answers": [
+      {
+        "text": "La separazione della programmazione\ndall'esecuzione.",
+        "correct": true
+      },
+      {
+        "text": "L'insistenza sulla\nproduttività dell'azienda.",
+        "correct": false
+      },
+      {
+        "text": "La creazione di dipartimenti per la qualità.",
+        "correct": false
+      },
+      {
+        "text": "Una comunicazione definita scientificamente tra i diversi livelli\ndell'organizzazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 102,
+    "text": "L’empatia è:",
+    "answers": [
+      {
+        "text": "un atteggiamento caratterizzato dalla capacità di comprensione e attenzione verso gli altri.",
+        "correct": true
+      },
+      {
+        "text": "un atteggiamento\ncaratterizzato dalla capacità di stabilire distanze fisiche con le persone.",
+        "correct": false
+      },
+      {
+        "text": "un atteggiamento\ncaratterizzato dalla capacità di attivare meccanismi di deresponsabilizzazione.",
+        "correct": false
+      },
+      {
+        "text": "la capacità di educare alla percezione e alla differenziazione delle emozioni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 103,
+    "text": "Il \"problem solving\" è:",
+    "answers": [
+      {
+        "text": "una metodologia scientifica per la risoluzione dei\nproblemi.",
+        "correct": true
+      },
+      {
+        "text": "un metodo scientifico specifico per la psicologia.",
+        "correct": false
+      },
+      {
+        "text": "il processo di assistenza infermieristica.",
+        "correct": false
+      },
+      {
+        "text": "un modello concettuale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 104,
+    "text": "Il ciclo di Deming (o ciclo di PDCA, acronimo dall'inglese Plan–Do–Check–Act, in\nitaliano \"Pianificare - Fare - Verificare - Agire\") è:",
+    "answers": [
+      {
+        "text": "un metodo di gestione iterativo in quattro fasi\nutilizzato per il controllo e il miglioramento continuo dei processi e dei prodotti.",
+        "correct": true
+      },
+      {
+        "text": "un sistema integrato di gestione utilizzato per l’analisi e il controllo dei processi e dei prodotti.",
+        "correct": false
+      },
+      {
+        "text": "un metodo cooperativo tra te e il tuo team per creare un prodotto finale senza\nnecessariamente provare nuove idee lungo il percorso.",
+        "correct": false
+      },
+      {
+        "text": "un metodo che richiede più tempo durante le fasi di concettualizzazione e creazione, in modo che tutto funzioni come\nprevisto durante la fase di test.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 105,
+    "text": "Il ciclo PDCA è un processo iterativo per migliorare\ncontinuamente:",
+    "answers": [
+      {
+        "text": "prodotti, persone e servizi.",
+        "correct": true
+      },
+      {
+        "text": "solo i prodotti.",
+        "correct": false
+      },
+      {
+        "text": "solo la formazione delle persone.",
+        "correct": false
+      },
+      {
+        "text": "solo i servizi volti alle aziende.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 106,
+    "text": "Il ciclo PDCA è diventato parte integrante di ciò che oggi è noto come:",
+    "answers": [
+      {
+        "text": "Lean management.",
+        "correct": true
+      },
+      {
+        "text": "Scientific management.",
+        "correct": false
+      },
+      {
+        "text": "Diversity management.",
+        "correct": false
+      },
+      {
+        "text": "Management accounting.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 107,
+    "text": "Il modello PDCA include:",
+    "answers": [
+      {
+        "text": "test, analisi dei risultati e\nmiglioramento del processo.",
+        "correct": true
+      },
+      {
+        "text": "solo analisi dei risultati.",
+        "correct": false
+      },
+      {
+        "text": "solo test.",
+        "correct": false
+      },
+      {
+        "text": "solo la verifica del processo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 108,
+    "text": "Cos’è la performance?",
+    "answers": [
+      {
+        "text": "La misura del risultato conseguito da un\nindividuo/organizzazione.",
+        "correct": true
+      },
+      {
+        "text": "La prestazione migliore di un individuo.",
+        "correct": false
+      },
+      {
+        "text": "La prestazione eccellente di un'organizzazione.",
+        "correct": false
+      },
+      {
+        "text": "Il risultato eccellente conseguito da un\ngruppo di individui.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 109,
+    "text": "L'efficacia può essere definita un prerequisito dell'efficienza?",
+    "answers": [
+      {
+        "text": "Si, l'efficacia potrebbe essere considerata un prerequisito\nper l'efficienza.",
+        "correct": true
+      },
+      {
+        "text": "Si, ma generalmente non esiste questo legame.",
+        "correct": false
+      },
+      {
+        "text": "No, questa relazione può sussistere solo in alcuni casi.",
+        "correct": false
+      },
+      {
+        "text": "No, in nessun caso\nl'efficacia può essere considerata un\nprerequisito dell'efficienza.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 110,
+    "text": "Per stakeholder si intendono…",
+    "answers": [
+      {
+        "text": "le parti interessate nei confronti delle attività e dei risultati di un’organizzazione.",
+        "correct": true
+      },
+      {
+        "text": "gli azionisti di una determinata impresa.",
+        "correct": false
+      },
+      {
+        "text": "i soggetti riceventi un prodotto/servizio.",
+        "correct": false
+      },
+      {
+        "text": "i verici strategici di un'organizzazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 111,
+    "text": "La “Mission” di una azienda o di un ente è:",
+    "answers": [
+      {
+        "text": "la ragione d'essere di un'organizzazione.",
+        "correct": true
+      },
+      {
+        "text": "l'etica di fondo di un'organizzazione.",
+        "correct": false
+      },
+      {
+        "text": "il comportamento morale dei membri di\nun'organizzazione.",
+        "correct": false
+      },
+      {
+        "text": "la vocazione del leader di un'organizzazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 112,
+    "text": "La “Vision” aziendale è:",
+    "answers": [
+      {
+        "text": "ciò che l'organizzazione intende essere in futuro.",
+        "correct": true
+      },
+      {
+        "text": "un sogno irrealizzabile.",
+        "correct": false
+      },
+      {
+        "text": "un ideale irraggiungibile.",
+        "correct": false
+      },
+      {
+        "text": "la visione d'insieme verso cui tendere.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 113,
+    "text": "La teoria dello \"scientific management\" è stata elaborata da",
+    "answers": [
+      {
+        "text": "F.W. Taylor.",
+        "correct": true
+      },
+      {
+        "text": "J.G. March.",
+        "correct": false
+      },
+      {
+        "text": "W.R. Scott.",
+        "correct": false
+      },
+      {
+        "text": "H. Mintzberg.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 114,
+    "text": "Cosa si intende per scientific management?",
+    "answers": [
+      {
+        "text": "Un metodo di divisione del lavoro.",
+        "correct": true
+      },
+      {
+        "text": "Un sistema produttivo.",
+        "correct": false
+      },
+      {
+        "text": "Una corrente di pensiero.",
+        "correct": false
+      },
+      {
+        "text": "Una strategia aziendale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 115,
+    "text": "L'efficienza consiste:",
+    "answers": [
+      {
+        "text": "nell'ottenere un maggior livello di output/outcome a partire da un minor impiego di input.",
+        "correct": true
+      },
+      {
+        "text": "nel raggiungimento\ndell'equilibrio patrimoniale.",
+        "correct": false
+      },
+      {
+        "text": "nel rapporto costi/benefici.",
+        "correct": false
+      },
+      {
+        "text": "nel raggiungimento di un impatto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 116,
+    "text": "Un'organizzazione efficace è anche efficiente?",
+    "answers": [
+      {
+        "text": "No, un'organizzazione efficace non è\nnecessariamente efficiente.",
+        "correct": true
+      },
+      {
+        "text": "Sì, efficacia ed efficienza coincidono.",
+        "correct": false
+      },
+      {
+        "text": "Sì, l'efficienza è sempre legata all'efficacia.",
+        "correct": false
+      },
+      {
+        "text": "No, in nessun caso un'organizzazione efficace è anche efficiente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 117,
+    "text": "Quale, tra le seguenti, non appartiene alle\nconfigurazioni organizzative secondo Mintzberg?",
+    "answers": [
+      {
+        "text": "Tecnostruttura.",
+        "correct": true
+      },
+      {
+        "text": "Adhocrazia.",
+        "correct": false
+      },
+      {
+        "text": "Burocrazia professionale.",
+        "correct": false
+      },
+      {
+        "text": "Struttura semplice.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 118,
+    "text": "Qual è la parte fondamentale dell'organizzazione nella burocrazia professionale?",
+    "answers": [
+      {
+        "text": "Il nucleo operativo.",
+        "correct": true
+      },
+      {
+        "text": "La tecnostruttura.",
+        "correct": false
+      },
+      {
+        "text": "Il vertice strategico.",
+        "correct": false
+      },
+      {
+        "text": "Il middle management.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 119,
+    "text": "In quale delle seguenti configurazioni organizzative la parte fondamentale\ndell'organizzazione è lo staff di supporto?",
+    "answers": [
+      {
+        "text": "L'adhocrazia.",
+        "correct": true
+      },
+      {
+        "text": "La burocrazia meccanica.",
+        "correct": false
+      },
+      {
+        "text": "La burocrazia professionale.",
+        "correct": false
+      },
+      {
+        "text": "La soluzione divisionale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 120,
+    "text": "Kenneth Boulding afferma che la domanda di\norganizzazione scaturisce:",
+    "answers": [
+      {
+        "text": "in vista del soddisfacimento di bisogni umani, obiettivo realizzabile in “gruppo”.",
+        "correct": true
+      },
+      {
+        "text": "con operazioni eseguite da singoli individui.",
+        "correct": false
+      },
+      {
+        "text": "nel contesto sociale.",
+        "correct": false
+      },
+      {
+        "text": "dal team management.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 121,
+    "text": "Cosa si intende per “effetto Ringelmann”?",
+    "answers": [
+      {
+        "text": "La tendenza dei membri individuali di un gruppo a divenire sempre meno\nproduttivi quando la\ndimensione del loro gruppo aumenta.",
+        "correct": true
+      },
+      {
+        "text": "La tendenza dei membri individuali di un gruppo a divenire sempre più responsabili quando la\ndimensione del loro gruppo aumenta.",
+        "correct": false
+      },
+      {
+        "text": "La tendenza dei componenti individuali di un gruppo ad aumentare la motivazione quando la dimensione del\nloro gruppo aumenta.",
+        "correct": false
+      },
+      {
+        "text": "La tendenza dei\ncomponenti individuali di un gruppo ad aumentare la competitività quando la dimensione del loro\ngruppo aumenta.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 122,
+    "text": "Cosa implica la\ndeindividuazione, secondo Philip Zimbardo?",
+    "answers": [
+      {
+        "text": "Una minore consapevolezza di sé e aumenta\nl’identificazione con gli scopi e le azioni del gruppo.",
+        "correct": true
+      },
+      {
+        "text": "Una maggiore consapevolezza di sé e aumenta l’identificazione\ncon gli scopi e le azioni del gruppo.",
+        "correct": false
+      },
+      {
+        "text": "Una minore consapevolezza di sé e contestualmente diminuisce l’identificazione con gli scopi e le azioni singole.",
+        "correct": false
+      },
+      {
+        "text": "Una maggiore coscienza di sé ma diminuisce l’assimilazione degli\nscopi con le azioni del gruppo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 123,
+    "text": "Chi ha introdotto il T-group (Training group)?",
+    "answers": [
+      {
+        "text": "Kurt Lewin.",
+        "correct": true
+      },
+      {
+        "text": "Max Weber.",
+        "correct": false
+      },
+      {
+        "text": "Frederik Taylor.",
+        "correct": false
+      },
+      {
+        "text": "Lerry Greiner.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 124,
+    "text": "Con il termine “Self empowerment” si intende:",
+    "answers": [
+      {
+        "text": "L’incremento delle capacità delle persone di controllare attivamente la propria vita attraverso lo sviluppo e la\nvalorizzazione di competenze personali.",
+        "correct": true
+      },
+      {
+        "text": "Un approccio relativo alla partecipazione sociale e all’attivazione di processi democratici dal basso.",
+        "correct": false
+      },
+      {
+        "text": "Una specifica metodologia di lavoro attuata nei tavoli di “progettazione partecipata”.",
+        "correct": false
+      },
+      {
+        "text": "Una proposta inerente all’intervento comune per una tecnica di valorizzazione delle\ncompetenze di gruppo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 125,
+    "text": "Il concetto di self\nempowerment si riferisce:",
+    "answers": [
+      {
+        "text": "Al potenziamento psicologico del controllo della realtà.",
+        "correct": true
+      },
+      {
+        "text": "All'assenza di transfert verso il clinico.",
+        "correct": false
+      },
+      {
+        "text": "Al colloquio centrato sul sé.",
+        "correct": false
+      },
+      {
+        "text": "All'analisi delle proprie relazioni sociali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 126,
+    "text": "La capacità dei soggetti di valorizzare e incrementare le proprie capacità, di\nindividuare risorse aggiuntive in sé stessi o nel proprio ambiente sociale è indicata con il termine:",
+    "answers": [
+      {
+        "text": "empowerment.",
+        "correct": true
+      },
+      {
+        "text": "Partnership.",
+        "correct": false
+      },
+      {
+        "text": "Accountability.",
+        "correct": false
+      },
+      {
+        "text": "Case work.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 127,
+    "text": "L'educatore deve promuovere il\nraggiungimento di obiettivi personali e sociali da parte del soggetto. Quest'abilità è definita:",
+    "answers": [
+      {
+        "text": "empowerment.",
+        "correct": true
+      },
+      {
+        "text": "progettualità partecipata.",
+        "correct": false
+      },
+      {
+        "text": "sapere scolastico.",
+        "correct": false
+      },
+      {
+        "text": "visione del sè.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 128,
+    "text": "In cosa consiste il Defusing?",
+    "answers": [
+      {
+        "text": "Nella riunione di un ristretto numero di individui che\npartecipano o hanno\npartecipato all’assistenza delle vittime di un evento critico.",
+        "correct": true
+      },
+      {
+        "text": "Nella riunione di un ristretto numero di vittime di un evento critico.",
+        "correct": false
+      },
+      {
+        "text": "In un intervento brevissimo attuato solo dopo la conclusione di accadimenti critici di vasta portata.",
+        "correct": false
+      },
+      {
+        "text": "Nella riunione di un ristretto numero di individui che\npartecipano o hanno partecipato all’assistenza delle vittime di un evento critico.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 129,
+    "text": "Negli studi di organizzazione aziendale sul ruolo del\ndirigente, quale importanza attribuisce l'economista\nstatunitense Drucker al lavoro in team?",
+    "answers": [
+      {
+        "text": "Grande rilievo.",
+        "correct": true
+      },
+      {
+        "text": "Nessun rilievo.",
+        "correct": false
+      },
+      {
+        "text": "Rilievo solo nelle grandi organizzazioni.",
+        "correct": false
+      },
+      {
+        "text": "Scarso rilievo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 130,
+    "text": "Come può essere definito, in organizzazione aziendale, il concetto di decisione?",
+    "answers": [
+      {
+        "text": "Ogni atto aziendale che\nimplichi una scelta tra due o più distinte alternative.",
+        "correct": true
+      },
+      {
+        "text": "Solo gli atti compiuti dai dirigenti.",
+        "correct": false
+      },
+      {
+        "text": "Qualunque atto di un qualunque componente dell'azienda.",
+        "correct": false
+      },
+      {
+        "text": "Qualunque atto\neffettuato dal vertice dell'impresa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 131,
+    "text": "Nei processi decisionali aziendali, con l'approccio del \"giorno per giorno\" la decisione è assunta...",
+    "answers": [
+      {
+        "text": "quando si presenta il problema.",
+        "correct": true
+      },
+      {
+        "text": "anticipando il momento nel quale si presenta il problema.",
+        "correct": false
+      },
+      {
+        "text": "solo dal top management.",
+        "correct": false
+      },
+      {
+        "text": "solo dai dirigenti operativi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 132,
+    "text": "In organizzazione aziendale, nell'ambito dello studio dei processi decisionali, si\ndistinguono di norma decisioni prese in condizioni di...",
+    "answers": [
+      {
+        "text": "certezza, incertezza, rischio.",
+        "correct": true
+      },
+      {
+        "text": "calma, fretta, staticità.",
+        "correct": false
+      },
+      {
+        "text": "staticità, dinamismo.",
+        "correct": false
+      },
+      {
+        "text": "benessere, malessere.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 133,
+    "text": "Tra le caratteristiche della mansione, il \"feedback\" definisce...",
+    "answers": [
+      {
+        "text": "il grado con cui il lavoratore riesce a disporre di\ninformazioni di ritorno\nsull'efficacia del suo lavoro",
+        "correct": true
+      },
+      {
+        "text": "la remunerazione oraria",
+        "correct": false
+      },
+      {
+        "text": "il giudizio personale del dirigente di riferimento sul lavoro da svolgere",
+        "correct": false
+      },
+      {
+        "text": "la valutazione ufficiale rispetto agli obbiettivi raggiunti",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 134,
+    "text": "Cosa s'intende con il termine \"Assessment\"?",
+    "answers": [
+      {
+        "text": "L'insieme di procedure di valutazione finalizzate alla conoscenza di un soggetto.",
+        "correct": true
+      },
+      {
+        "text": "La procedura di selezione del personale.",
+        "correct": false
+      },
+      {
+        "text": "Il momento finale del colloquio diagnostico.",
+        "correct": false
+      },
+      {
+        "text": "L'utilizzo esclusivo di test e questionari.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 135,
+    "text": "Il colloquio di assessment comportamentale mira soprattutto:",
+    "answers": [
+      {
+        "text": "Alla definizione e descrizione di specifici dati\ncomportamentali.",
+        "correct": true
+      },
+      {
+        "text": "Ad individuare risposte psicofisiologiche del soggetto.",
+        "correct": false
+      },
+      {
+        "text": "Ad individuare schemi cognitivi e pensieri automatici.",
+        "correct": false
+      },
+      {
+        "text": "All'identificazione degli elementi latenti propri del problema.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 136,
+    "text": "Il colloquio di assessment cognitivo mira soprattutto:",
+    "answers": [
+      {
+        "text": "ad individuare schemi e cognizioni disfunzionali.",
+        "correct": true
+      },
+      {
+        "text": "a definire e descrivere specifici dati\ncomportamentali.",
+        "correct": false
+      },
+      {
+        "text": "ad identificare gli elementi latenti propri del problema.",
+        "correct": false
+      },
+      {
+        "text": "ad individuare risposte psicofisiologiche del soggetto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 137,
+    "text": "Secondo il processo di comunicazione di R.\nJakobson (1963) il linguaggio ha una \"funzione\nmetacomunicativa\" quando:",
+    "answers": [
+      {
+        "text": "si riferisce al codice.",
+        "correct": true
+      },
+      {
+        "text": "è centrato sull'emittente.",
+        "correct": false
+      },
+      {
+        "text": "riguarda il contesto.",
+        "correct": false
+      },
+      {
+        "text": "si riferisce al destinatario.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 138,
+    "text": "Gli aspetti paralinguistici del linguaggio comprendono:",
+    "answers": [
+      {
+        "text": "ritmo e velocità del parlare, pause ed esitazioni.",
+        "correct": true
+      },
+      {
+        "text": "espressioni del volto.",
+        "correct": false
+      },
+      {
+        "text": "struttura del discorso.",
+        "correct": false
+      },
+      {
+        "text": "vocaboli.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 139,
+    "text": "Gli aspetti intonazionali del linguaggio comprendono:",
+    "answers": [
+      {
+        "text": "inflessioni, enfasi, altezza e intensità della voce.",
+        "correct": true
+      },
+      {
+        "text": "ritmo e velocità del parlare, pause ed esitazioni.",
+        "correct": false
+      },
+      {
+        "text": "movimenti del corpo.",
+        "correct": false
+      },
+      {
+        "text": "struttura del discorso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 140,
+    "text": "Gli aspetti cinesici del linguaggio indicano:",
+    "answers": [
+      {
+        "text": "le espressioni del volto e i movimenti del corpo.",
+        "correct": true
+      },
+      {
+        "text": "l'intensità della voce.",
+        "correct": false
+      },
+      {
+        "text": "il ritmo e la velocità del parlare.",
+        "correct": false
+      },
+      {
+        "text": "la postura.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 141,
+    "text": "Le life skills si definiscono:",
+    "answers": [
+      {
+        "text": "competenze trasversali.",
+        "correct": true
+      },
+      {
+        "text": "competenze specifiche.",
+        "correct": false
+      },
+      {
+        "text": "competenze di base.",
+        "correct": false
+      },
+      {
+        "text": "competenze centrali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 142,
+    "text": "Il feedback influisce sui t- group (training group?",
+    "answers": [
+      {
+        "text": "Sì e ne aumenta la\nconsapevolezza di sé e delle dinamiche di gruppo.",
+        "correct": true
+      },
+      {
+        "text": "No, ne limita l’interazione tra i componenti.",
+        "correct": false
+      },
+      {
+        "text": "Sì, e rimuove le diversità individuali.",
+        "correct": false
+      },
+      {
+        "text": "No, perché confonde le alternanze emotive con quella conoscitive.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 143,
+    "text": "Il T-Group, introdotto da Kurt Lewin, è un luogo per discutere o risolvere problemi?",
+    "answers": [
+      {
+        "text": "No, ma offre ai partecipanti l'opportunità di riflettere su sé stessi, sul loro modo di relazionarsi e su come\ngestire al meglio le\ndinamiche di gruppo.",
+        "correct": true
+      },
+      {
+        "text": "Sì, offrendo ai partecipanti il vantaggio di riflettere su sé stessi, sulla capacità di relazionarsi e su come\ndirigere le dinamiche di gruppo.",
+        "correct": false
+      },
+      {
+        "text": "No, perché non è possibile scambiare le proprie emozioni con gli altri membri del gruppo.",
+        "correct": false
+      },
+      {
+        "text": "Sì, perché all’interno del gruppo si rimuovono le disuguaglianze\nindividuali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 144,
+    "text": "Come influisce il feedback sui T-Group?",
+    "answers": [
+      {
+        "text": "Aumentandone la cognizione di sé e degli sviluppi di\ngruppo.",
+        "correct": true
+      },
+      {
+        "text": "Limitando la connessione tra i membri.",
+        "correct": false
+      },
+      {
+        "text": "Rimuovendo le\ndisuguaglianze individuali.",
+        "correct": false
+      },
+      {
+        "text": "Scambiando la reciprocità emozionale con quella conoscitiva.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 145,
+    "text": "Cosa descrive la dinamica di gruppo, secondo Kurt\nLewin?",
+    "answers": [
+      {
+        "text": "Le interazioni, le attitudini e i comportamenti all'interno di un gruppo di persone.",
+        "correct": true
+      },
+      {
+        "text": "La dipendenza e la\nnegazione di un soggetto all'interno di un gruppo di persone.",
+        "correct": false
+      },
+      {
+        "text": "L’incapacità di reagire alle avversioni di un partecipante all'interno di un gruppo di persone.",
+        "correct": false
+      },
+      {
+        "text": "La diminuzione di sé e degli sviluppi di gruppo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 146,
+    "text": "Il feedback, nel contesto del T-group consiste:",
+    "answers": [
+      {
+        "text": "nel meccanismo di\npercezione delle altrui reazioni alle proprie parole o azioni.",
+        "correct": true
+      },
+      {
+        "text": "nel processo di\napprendimento che avviene durante gli scambi reciproci tra i partecipanti.",
+        "correct": false
+      },
+      {
+        "text": "nell’aumento del senso di responsabilità individuale.",
+        "correct": false
+      },
+      {
+        "text": "nella generazione di conflitti nel gruppo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 147,
+    "text": "La strutturazione del setting (nel lavoro del t-group) impone un lavoro incentrato sul “qui ed ora” ed il processo di apprendimento avviene essenzialmente:",
+    "answers": [
+      {
+        "text": "attraverso il feedback che avviene durante gli scambi reciproci tra i partecipanti.",
+        "correct": true
+      },
+      {
+        "text": "tramite l’aumento del senso di responsabilità\nindividuale.",
+        "correct": false
+      },
+      {
+        "text": "nella generazione di conflitti nel gruppo.",
+        "correct": false
+      },
+      {
+        "text": "nel meccanismo di percezione delle altrui reazioni alle proprie parole o azioni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 148,
+    "text": "Qual è una delle definizioni di leadership secondo Warren Bennis?",
+    "answers": [
+      {
+        "text": "Conoscere sé stessi e avere una visione ben comunicata.",
+        "correct": true
+      },
+      {
+        "text": "Essere autoritari nel dirigere gli altri.",
+        "correct": false
+      },
+      {
+        "text": "Imporre decisioni senza consultare gli altri.",
+        "correct": false
+      },
+      {
+        "text": "Essere esperti in campi specifici.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 149,
+    "text": "Secondo John W. Gardner, quale è un aspetto fondamentale della leadership?",
+    "answers": [
+      {
+        "text": "Persuasione e azione esemplare.",
+        "correct": true
+      },
+      {
+        "text": "Controllo e autorità",
+        "correct": false
+      },
+      {
+        "text": "Indifferenza verso i follower.",
+        "correct": false
+      },
+      {
+        "text": "Evitare il conflitto, sempre.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 150,
+    "text": "Qual è la definizione minima di leader secondo P.\nDrucker?",
+    "answers": [
+      {
+        "text": "Qualcuno che ha dei follower.",
+        "correct": true
+      },
+      {
+        "text": "Un esperto in gestione.",
+        "correct": false
+      },
+      {
+        "text": "Una persona con potere formale.",
+        "correct": false
+      },
+      {
+        "text": "Un individuo che lavora da solo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 151,
+    "text": "In un gruppo di lavoro, cosa si intende per interdipendenza?",
+    "answers": [
+      {
+        "text": "L’interazione che tende a rafforzare il legame tra i componenti del gruppo.",
+        "correct": true
+      },
+      {
+        "text": "L'accentuazione della rivalità presente tra membri.",
+        "correct": false
+      },
+      {
+        "text": "L’assenza di comunicazione tra i membri.",
+        "correct": false
+      },
+      {
+        "text": "La mancanza di obiettivi condivisi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 152,
+    "text": "Nell’ambito dello studio dell’errore umano va\nricordata la classificazione del comportamento dell’uomo proposta da Rasmussen, che individua:",
+    "answers": [
+      {
+        "text": "tre principali tipologie di\ncomportamento umano, alle quali sono ascrivibili\naltrettante tipologie di errori.",
+        "correct": true
+      },
+      {
+        "text": "quattro principali tipologie di comportamento umano, alle quali sono ascrivibili altrettante tipologie di\nerrori.",
+        "correct": false
+      },
+      {
+        "text": "due principali tipologie di comportamento umano, alle quali sono ascrivibili\naltrettante tipologie di errori.",
+        "correct": false
+      },
+      {
+        "text": "sei principali tipologie di comportamento umano, alle quali sono ascrivibili altrettante tipologie di errori.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 153,
+    "text": "Adam Smith fu il primo studioso a sviluppare una\nteoria per spiegare come il lavoro sistematicamente\norganizzato:",
+    "answers": [
+      {
+        "text": "potesse rendere più efficiente la produzione.",
+        "correct": true
+      },
+      {
+        "text": "poteva essere meglio eseguito da singoli\nindividui.",
+        "correct": false
+      },
+      {
+        "text": "dipendeva dal team management.",
+        "correct": false
+      },
+      {
+        "text": "non dava risposte positive.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 154,
+    "text": "A chi è dovuta la prima\nformulazione organica della teoria classica\ndell'organizzazione?",
+    "answers": [
+      {
+        "text": "A Frederick Winslow Taylor.",
+        "correct": true
+      },
+      {
+        "text": "A Adam Smith.",
+        "correct": false
+      },
+      {
+        "text": "A Max Weber.",
+        "correct": false
+      },
+      {
+        "text": "A Henri Fayol.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 155,
+    "text": "Taylor ideò alcune tecniche per migliorare e velocizzare il sistema produttivo, tra questo uno dei concetti è:",
+    "answers": [
+      {
+        "text": "One best way.",
+        "correct": true
+      },
+      {
+        "text": "Pianificazione posticipata delle mansioni.",
+        "correct": false
+      },
+      {
+        "text": "One best worse.",
+        "correct": false
+      },
+      {
+        "text": "One worse way.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 156,
+    "text": "Cos’è” l’effetto di polarizzazione”?",
+    "answers": [
+      {
+        "text": "La tendenza del gruppo a\nprendere decisioni estreme.",
+        "correct": true
+      },
+      {
+        "text": "La convergenza su decisioni che\nrappresentano un compromesso.",
+        "correct": false
+      },
+      {
+        "text": "La mancanza di conflitti all’interno del gruppo.",
+        "correct": false
+      },
+      {
+        "text": "L’incapacità di\nraggiungere una decisione unanime.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 157,
+    "text": "All'interno di un gruppo\nsociale, in cosa consiste la polarizzazione di gruppo?",
+    "answers": [
+      {
+        "text": "Consiste nella tendenza dei componenti ad assumere in ogni caso e in modo graduale delle posizioni, o\natteggiamenti, che sono più estreme rispetto alla media delle posizioni iniziali dei restanti componenti.",
+        "correct": true
+      },
+      {
+        "text": "Consiste nella inclinazione dei membri ad avere una posizione, meno estrema rispetto alla media delle\nposizioni iniziali dei restanti membri.",
+        "correct": false
+      },
+      {
+        "text": "Consiste nell’attitudine dei componenti ad assumere delle posizioni o aspetti\nirrilevanti rispetto alla norma.",
+        "correct": false
+      },
+      {
+        "text": "Consiste nell’abilità dei membri ad assumere posizioni e atteggiamenti che possono indurre gli altri membri ad\nabbandonare il gruppo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 158,
+    "text": "Edgar Schein distingue la cultura organizzativa in tre livelli, intendendo questi\nultimi come il grado\ndifferente in cui il fenomeno culturale si rende visibile all'osservatore. Quali sono?",
+    "answers": [
+      {
+        "text": "Artefatti; Valori; Assunti di base.",
+        "correct": true
+      },
+      {
+        "text": "Artefatti; Doti; Nozioni di base.",
+        "correct": false
+      },
+      {
+        "text": "Convinzioni inconsce; Spontanee; Qualità.",
+        "correct": false
+      },
+      {
+        "text": "Qualità; Attributi;\nCaratteristiche peculiari.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 159,
+    "text": "Cosa si intende per interdipendenza in un gruppo di lavoro?",
+    "answers": [
+      {
+        "text": "L’interazione che rafforza il legame tra i membri del\ngruppo.",
+        "correct": true
+      },
+      {
+        "text": "La competizione tra membri.",
+        "correct": false
+      },
+      {
+        "text": "L’assenza di comunicazione tra i membri.",
+        "correct": false
+      },
+      {
+        "text": "La mancanza di obiettivi condivisi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 160,
+    "text": "Quale tra queste è una conseguenza dell’effetto Ringelmann?",
+    "answers": [
+      {
+        "text": "Diminuzione dell’efficacia individuale man mano che il gruppo cresce.",
+        "correct": true
+      },
+      {
+        "text": "Miglioramento delle prestazioni individuali nei gruppi numerosi.",
+        "correct": false
+      },
+      {
+        "text": "Maggiore coordinazione e motivazione tra i membri del gruppo.",
+        "correct": false
+      },
+      {
+        "text": "Aumento del senso di responsabilità\nindividuale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 161,
+    "text": "Quando è necessario per migliorare l'armonia del\ngruppo, sollevando il morale e ripristinando la fiducia, è più adatto, secondo D.\nGoleman:",
+    "answers": [
+      {
+        "text": "lo stile affiliativo.",
+        "correct": true
+      },
+      {
+        "text": "lo stile democratico.",
+        "correct": false
+      },
+      {
+        "text": "lo stile coach.",
+        "correct": false
+      },
+      {
+        "text": "lo stile visionario.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 162,
+    "text": "Lo \"stile di leader affiliativo\", secondo Goleman:",
+    "answers": [
+      {
+        "text": "promuove l'armonia all'interno del team,\nmettendo in contatto le persone, incoraggiando\nl'inclusione e risolvendo i conflitti.",
+        "correct": true
+      },
+      {
+        "text": "non si promuove l'armonia all'interno del team e non si incoraggia l'inclusione, ma aumentano i conflitti.",
+        "correct": false
+      },
+      {
+        "text": "non vengono valorizzate le emozioni altrui non dando importanza ai loro bisogni.",
+        "correct": false
+      },
+      {
+        "text": "diminuzione l’efficacia individuale man mano che il gruppo cresce.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 163,
+    "text": "Nell'organizzazione scientifica del lavoro proposta da Taylor nel 1911, quali pratiche metteva in atto nella quotidianità?",
+    "answers": [
+      {
+        "text": "La parcellizzazione\ndell'attività lavorativa, il controllo dei tempi di lavoro e l'introduzione del cottimo.",
+        "correct": true
+      },
+      {
+        "text": "Meeting in un'ottica di comunicazione circolare.",
+        "correct": false
+      },
+      {
+        "text": "Incontri individuali tra il\nsupervisore e il dipendente in cui si negoziano gli\nobiettivi attesi.",
+        "correct": false
+      },
+      {
+        "text": "Spazi di ritrovo nelle pause lavorative che accompagnano una fase ricreativa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 164,
+    "text": "Con \"stile di leader affiliativo\", secondo Goleman:",
+    "answers": [
+      {
+        "text": "si valorizzano le emozioni degli altri e si dà grande importanza ai loro bisogni emotivi.",
+        "correct": true
+      },
+      {
+        "text": "non vengono valorizzate le emozioni altrui non dando importanza ai loro bisogni.",
+        "correct": false
+      },
+      {
+        "text": "non si promuove l'armonia all'interno del team e non si incoraggia l'inclusione, ma aumentano i conflitti.",
+        "correct": false
+      },
+      {
+        "text": "aumenta il senso di responsabilità\nindividuale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 165,
+    "text": "La fase della elaborazione delle idee, per trovare\nsoluzioni a un problema, è tipica di quale tecnica?",
+    "answers": [
+      {
+        "text": "Del \"Brainstorming\".",
+        "correct": true
+      },
+      {
+        "text": "Del solo \"pensiero divergente\".",
+        "correct": false
+      },
+      {
+        "text": "Del \"One best way\".",
+        "correct": false
+      },
+      {
+        "text": "Della \"Persuasione\".",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 166,
+    "text": "Quando nasce la teoria classica dell’organizzazione del lavoro?",
+    "answers": [
+      {
+        "text": "Nella seconda fase della rivoluzione industriale\ndall’esigenza di razionalità ed efficienza ed ha fatto della\ndivisione e della\nspecializzazione del lavoro il suo assioma fondamentale.",
+        "correct": true
+      },
+      {
+        "text": "All'inizio della rivoluzione industriale dall’esigenza di efficientare il lavoro.",
+        "correct": false
+      },
+      {
+        "text": "Dopo la quarta rivoluzione industriale, per consentire che la produzione fosse meccanizzata e\nl'urbanizzazione di massa fosse una realtà.",
+        "correct": false
+      },
+      {
+        "text": "Quando la\ntrasformazione del modo in cui si facevano affari assunse un ritmo più\nvorticoso di quanto si potesse immaginare.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 167,
+    "text": "Cosa permette il modello organizzativo funzionale di Fayol?",
+    "answers": [
+      {
+        "text": "Un’accentuata\nspecializzazione delle funzioni e il contenimento dei costi.",
+        "correct": true
+      },
+      {
+        "text": "L'obiettivo di ottenere prodotti a basso costo attraverso un razionale impiego dei fattori.",
+        "correct": false
+      },
+      {
+        "text": "Una tendenza degli operai a ridurre la produzione.",
+        "correct": false
+      },
+      {
+        "text": "Un'elevata disponibilità di manodopera poco scolarizzata.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 168,
+    "text": "Lo Human Relations Movement è che una ricerca nell’ambito della psicologia del lavoro che ha, nella sua\nragion d’essere:",
+    "answers": [
+      {
+        "text": "lo scopo di massimizzare il coinvolgimento del\nlavoratore dipendente nelle sorti aziendali.",
+        "correct": true
+      },
+      {
+        "text": "lo scopo di minimizzare il coinvolgimento dei\nlavoratori dipendenti nelle sorti aziendali.",
+        "correct": false
+      },
+      {
+        "text": "lo scopo di non coinvolgere il lavoratore dipendente nelle sorti aziendali.",
+        "correct": false
+      },
+      {
+        "text": "lo scopo di coinvolgere il lavoratore dipendente\nnella distribuzione degli utili aziendali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 169,
+    "text": "Il primo autore che fa\nriferimento agli studi ‘sul’ e ‘di’ gruppo è stato?",
+    "answers": [
+      {
+        "text": "Kurt Zadek Lewin (1890- 1947).",
+        "correct": true
+      },
+      {
+        "text": "Henri Fayol (1841 – 1925).",
+        "correct": false
+      },
+      {
+        "text": "Frederick W. Taylor (1856 – 1917).",
+        "correct": false
+      },
+      {
+        "text": ": Max Weber (1864 – 1920).",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 170,
+    "text": "Lewin basa la sua visione dell’individuo e del gruppo:",
+    "answers": [
+      {
+        "text": "sul concetto di campo",
+        "correct": true
+      },
+      {
+        "text": "sul fattore ambientale.",
+        "correct": false
+      },
+      {
+        "text": "sulla dipendenza.",
+        "correct": false
+      },
+      {
+        "text": "sul fattore umano.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 171,
+    "text": "Secondo la teoria dei gruppi di Lewin, l’elemento chiave di un gruppo, ciò che lo tiene insieme e ne caratterizza l’identità, è:",
+    "answers": [
+      {
+        "text": "l’interdipendenza, ossia, il forte legame tra gli elementi che lo compongono i quali non possono vivere gli uni senza gli altri.",
+        "correct": true
+      },
+      {
+        "text": "la capacità di reagire alle avversioni di un\npartecipante all'interno di un gruppo di persone.",
+        "correct": false
+      },
+      {
+        "text": "l'aumento del sé e degli sviluppi di gruppo.",
+        "correct": false
+      },
+      {
+        "text": "l'interazione, l'attitudine e il comportamento\nall'interno di un gruppo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 172,
+    "text": "Qual è il contributo di Federico Butera allo studio delle organizzazioni\ncomplesse?",
+    "answers": [
+      {
+        "text": "Ha analizzato come le\norganizzazioni possono gestire la complessità e adattarsi ai cambiamenti ambientali.",
+        "correct": true
+      },
+      {
+        "text": "Ha sviluppato la teoria della gerarchia dei bisogni.",
+        "correct": false
+      },
+      {
+        "text": "Ha introdotto il concetto di leadership carismatica.",
+        "correct": false
+      },
+      {
+        "text": "Ha elaborato la teoria della burocrazia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 173,
+    "text": "Secondo Pietro Ichino, quali sono le sfide della flessibilità del lavoro nelle\norganizzazioni?",
+    "answers": [
+      {
+        "text": "Bilanciare la flessibilità con la sicurezza del lavoro e\ngarantire condizioni di lavoro dignitose.",
+        "correct": true
+      },
+      {
+        "text": "Ridurre i costi operativi, migliorare la produttività e aumentare il profitto.",
+        "correct": false
+      },
+      {
+        "text": "Evitare la comunicazione interna, isolare i dipendenti e aumentare il controllo.",
+        "correct": false
+      },
+      {
+        "text": "Focalizzarsi esclusivamente sul mercato locale, ridurre l'innovazione e\naumentare la competizione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 174,
+    "text": "Qual è il contributo di Enrico Giovannini alla teoria della sostenibilità nelle\norganizzazioni?",
+    "answers": [
+      {
+        "text": "Ha sviluppato indicatori di sostenibilità e ha promosso l'integrazione della sostenibilità nelle strategie aziendali.",
+        "correct": true
+      },
+      {
+        "text": "Ha sviluppato la teoria della motivazione a due fattori.",
+        "correct": false
+      },
+      {
+        "text": "Ha introdotto il concetto di leadership situazionale.",
+        "correct": false
+      },
+      {
+        "text": "Ha elaborato la teoria della burocrazia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 175,
+    "text": "Qual è la teoria del leader carismatico proposta da Max Weber?",
+    "answers": [
+      {
+        "text": "La leadership è basata su\nqualità eccezionali del leader che ispirano devozione.",
+        "correct": true
+      },
+      {
+        "text": "La leadership è basata sul controllo e sulla\ncoercizione.",
+        "correct": false
+      },
+      {
+        "text": "La leadership è basata sull'autorità tradizionale.",
+        "correct": false
+      },
+      {
+        "text": "La leadership è basata sull'autorità burocratica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 176,
+    "text": "Secondo Bruce Tuckman, quali sono le fasi di sviluppo di un gruppo?",
+    "answers": [
+      {
+        "text": "Forming, Storming, Norming, Performing, Adjourning.",
+        "correct": true
+      },
+      {
+        "text": "Formazione, conflitto,\nnormazione, performance, scioglimento.",
+        "correct": false
+      },
+      {
+        "text": "Creazione, competizione, armonizzazione, realizzazione, dissoluzione.",
+        "correct": false
+      },
+      {
+        "text": "Inizio, conflitto, stabilizzazione,\nsuccesso, chiusura.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 177,
+    "text": "Qual è il contributo di Edgar Schein allo studio della\ncultura organizzativa?",
+    "answers": [
+      {
+        "text": "Introduzione del concetto di cultura organizzativa come insieme di valori, credenze e pratiche condivise.",
+        "correct": true
+      },
+      {
+        "text": "Definizione della leadership transazionale.",
+        "correct": false
+      },
+      {
+        "text": "Elaborazione della teoria della motivazione a due fattori.",
+        "correct": false
+      },
+      {
+        "text": "Studio delle dinamiche di gruppo in contesti educativi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 178,
+    "text": "Cosa sostiene la teoria dei bisogni di Abraham Maslow?",
+    "answers": [
+      {
+        "text": "I bisogni umani sono\norganizzati in una gerarchia piramidale che va dai bisogni fisiologici a quelli di\nautorealizzazione.",
+        "correct": true
+      },
+      {
+        "text": "La motivazione è basata solo sui bisogni fisiologici.",
+        "correct": false
+      },
+      {
+        "text": "I bisogni di sicurezza sono i più importanti per la\nmotivazione umana.",
+        "correct": false
+      },
+      {
+        "text": "L'autorealizzazione è il primo bisogno da\nsoddisfare.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 179,
+    "text": "Secondo Kurt Lewin, quali sono i tre stadi del cambiamento organizzativo?",
+    "answers": [
+      {
+        "text": "Unfreezing, Changing, Refreezing.",
+        "correct": true
+      },
+      {
+        "text": "Formazione, cambiamento, stabilizzazione.",
+        "correct": false
+      },
+      {
+        "text": "Distruzione, ricostruzione, mantenimento.",
+        "correct": false
+      },
+      {
+        "text": "Conflitto, risoluzione, integrazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 180,
+    "text": "Qual è la teoria X e Y di Douglas McGregor?",
+    "answers": [
+      {
+        "text": "La teoria X vede i dipendenti come esseri pigri e\nindisciplinati, mentre la teoria Y li considera autonomi e responsabili.",
+        "correct": true
+      },
+      {
+        "text": "La teoria X considera i dipendenti autonomi e responsabili, mentre la teoria Y li vede pigri e indisciplinati.",
+        "correct": false
+      },
+      {
+        "text": "La teoria X si concentra\nsulla motivazione estrinseca, mentre la teoria Y si concentra sulla motivazione intrinseca.",
+        "correct": false
+      },
+      {
+        "text": "La teoria X si basa sulla leadership carismatica, mentre la teoria Y si basa sulla leadership burocratica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 181,
+    "text": "Secondo Rensis Likert, quali sono i quattro sistemi di\ngestione?",
+    "answers": [
+      {
+        "text": "Autoritario-sfruttatore, autoritario-benevolente, consultivo, partecipativo.",
+        "correct": true
+      },
+      {
+        "text": "Autoritario, democratico, laissez-faire, paternalistico.",
+        "correct": false
+      },
+      {
+        "text": "Gerarchico, funzionale, matrice, a rete.",
+        "correct": false
+      },
+      {
+        "text": "Controllo rigido,\nsupervisione flessibile, autogestione, leadership condivisa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 182,
+    "text": "Qual è il contributo di Peter Senge alla teoria\ndell'apprendimento organizzativo?",
+    "answers": [
+      {
+        "text": "Introduzione del concetto di \"organizzazione che\napprende\" basata su cinque discipline chiave.",
+        "correct": true
+      },
+      {
+        "text": "Definizione della teoria dei bisogni di base.",
+        "correct": false
+      },
+      {
+        "text": "Studio delle dinamiche di potere nei gruppi.",
+        "correct": false
+      },
+      {
+        "text": "Elaborazione della teoria del cambiamento\npianificato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 183,
+    "text": "Secondo Frederick\nHerzberg, quali sono i fattori igienici e motivanti?",
+    "answers": [
+      {
+        "text": "I fattori igienici includono salario, condizioni di lavoro e politiche aziendali, mentre i fattori motivanti includono riconoscimento,\nresponsabilità e crescita personale.",
+        "correct": true
+      },
+      {
+        "text": "I fattori igienici includono motivazione intrinseca, mentre i fattori motivanti includono motivazione estrinseca.",
+        "correct": false
+      },
+      {
+        "text": "I fattori igienici sono legati alla leadership, mentre i\nfattori motivanti sono legati alla cultura organizzativa.",
+        "correct": false
+      },
+      {
+        "text": "I fattori igienici sono legati alla\ncomunicazione, mentre i fattori motivanti sono\nlegati alla performance.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 184,
+    "text": "Qual è il concetto di leadership situazionale di Paul Hersey e Ken Blanchard?",
+    "answers": [
+      {
+        "text": "La leadership efficace\ndipende dalla situazione e dal livello di maturità dei  seguaci.",
+        "correct": true
+      },
+      {
+        "text": "La leadership è sempre basata sull'autorità.",
+        "correct": false
+      },
+      {
+        "text": "La leadership situazionale è basata su regole rigide.",
+        "correct": false
+      },
+      {
+        "text": "La leadership efficace non è influenzata dalla situazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 185,
+    "text": "Qual è il concetto di\n\"leadership trasformazionale\" di Bernard Bass?",
+    "answers": [
+      {
+        "text": "La leadership che ispira e motiva i seguaci a\nraggiungere obiettivi straordinari.",
+        "correct": true
+      },
+      {
+        "text": "La leadership basata sul controllo e la supervisione costante.",
+        "correct": false
+      },
+      {
+        "text": "La leadership che si concentra esclusivamente sui compiti.",
+        "correct": false
+      },
+      {
+        "text": "La leadership che ignora le esigenze dei seguaci.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 186,
+    "text": "Secondo Victor Vroom, quale modello spiega la\nmotivazione dei dipendenti?",
+    "answers": [
+      {
+        "text": "La teoria dell'aspettativa, che sostiene che la motivazione è determinata dalle aspettative di risultato e dal valore\nattribuito a tali risultati.",
+        "correct": true
+      },
+      {
+        "text": "La teoria della gerarchia dei bisogni.",
+        "correct": false
+      },
+      {
+        "text": "La teoria dei due fattori.",
+        "correct": false
+      },
+      {
+        "text": "La teoria della dissonanza cognitiva.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 187,
+    "text": "Qual è il contributo di Mary Parker Follett alla teoria dell'organizzazione?",
+    "answers": [
+      {
+        "text": "L'enfasi sull'importanza della collaborazione e del lavoro di gruppo nelle organizzazioni.",
+        "correct": true
+      },
+      {
+        "text": "La definizione della teoria della burocrazia.",
+        "correct": false
+      },
+      {
+        "text": "L'introduzione della teoria della gerarchia dei bisogni.",
+        "correct": false
+      },
+      {
+        "text": "Lo studio delle\ndinamiche di potere.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "text": "Qual è il concetto di \"zone of proximal development\" (zona di sviluppo prossimale) di Lev Vygotsky?",
+    "answers": [
+      {
+        "text": "La distanza tra ciò che un individuo può fare da solo e\nciò che può fare con l'aiuto di un esperto.",
+        "correct": true
+      },
+      {
+        "text": "La teoria della motivazione intrinseca.",
+        "correct": false
+      },
+      {
+        "text": "La definizione dei ruoli di leadership.",
+        "correct": false
+      },
+      {
+        "text": "Lo studio delle\ndinamiche di gruppo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "text": "Secondo Richard M. Cyert e James G. March, quale\nmodello spiega il\ncomportamento delle organizzazioni?",
+    "answers": [
+      {
+        "text": "Il modello comportamentale delle decisioni organizzative.",
+        "correct": true
+      },
+      {
+        "text": "Il modello della gerarchia dei bisogni.",
+        "correct": false
+      },
+      {
+        "text": "Il modello della teoria X e Y.",
+        "correct": false
+      },
+      {
+        "text": "Il modello della leadership situazionale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 190,
+    "text": "Qual è il concetto di \"cultura organizzativa\" di Edgar\nSchein?",
+    "answers": [
+      {
+        "text": "L'insieme di valori, credenze e pratiche condivise che influenzano il\ncomportamento dei membri di un'organizzazione.",
+        "correct": true
+      },
+      {
+        "text": "La struttura gerarchica di un'organizzazione.",
+        "correct": false
+      },
+      {
+        "text": "Le regole formali e informali di un'organizzazione.",
+        "correct": false
+      },
+      {
+        "text": "La distribuzione del potere all'interno di un'organizzazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 191,
+    "text": "Qual è il contributo di John P. Kotter alla teoria del cambiamento organizzativo?",
+    "answers": [
+      {
+        "text": "Elaborazione di un modello in otto fasi per la gestione del cambiamento organizzativo.",
+        "correct": true
+      },
+      {
+        "text": "Definizione della teoria della leadership\ncarismatica.",
+        "correct": false
+      },
+      {
+        "text": "Studio delle dinamiche di gruppo.",
+        "correct": false
+      },
+      {
+        "text": "Introduzione del concetto di \"zone of indifference\".",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 192,
+    "text": "Quali sono le fasi del ciclo di vita di un gruppo?",
+    "answers": [
+      {
+        "text": "Formazione, conflitto,\nnormazione, performance, scioglimento.",
+        "correct": true
+      },
+      {
+        "text": "Conflitto, normazione,\nformazione, performance, scioglimento.",
+        "correct": false
+      },
+      {
+        "text": "Normazione, conflitto,\nformazione, performance, scioglimento.",
+        "correct": false
+      },
+      {
+        "text": "Scioglimento, performance,\nnormazione, formazione, conflitto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 193,
+    "text": "Qual è il ruolo di un leader all'interno di un gruppo?",
+    "answers": [
+      {
+        "text": "Fornire direzione e supporto per raggiungere gli obiettivi del gruppo.",
+        "correct": true
+      },
+      {
+        "text": "Seguire le istruzioni degli altri membri del gruppo.",
+        "correct": false
+      },
+      {
+        "text": "Osservare senza intervenire nelle dinamiche di gruppo.",
+        "correct": false
+      },
+      {
+        "text": "Delegare tutte le responsabilità ad altri membri del gruppo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 194,
+    "text": "Cosa si intende per coesione di gruppo?",
+    "answers": [
+      {
+        "text": "Il grado di attrazione reciproca tra i membri del gruppo.",
+        "correct": true
+      },
+      {
+        "text": "La capacità del gruppo di evitare i conflitti.",
+        "correct": false
+      },
+      {
+        "text": "La diversità dei ruoli all'interno del gruppo.",
+        "correct": false
+      },
+      {
+        "text": "La frequenza delle riunioni di gruppo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 195,
+    "text": "Quali sono i vantaggi di un gruppo di lavoro\neterogeneo?",
+    "answers": [
+      {
+        "text": "Diverse prospettive e idee innovative.",
+        "correct": true
+      },
+      {
+        "text": "Riduzione della\ncomunicazione interna.",
+        "correct": false
+      },
+      {
+        "text": "Maggiori difficoltà nel\nraggiungere un accordo.",
+        "correct": false
+      },
+      {
+        "text": "Bassa collaborazione tra i membri.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 196,
+    "text": "Come si può migliorare la comunicazione all'interno di un gruppo?",
+    "answers": [
+      {
+        "text": "Promuovendo un ambiente aperto e collaborativo.",
+        "correct": true
+      },
+      {
+        "text": "Limitando le interazioni tra i membri.",
+        "correct": false
+      },
+      {
+        "text": "Assegnando ruoli fissi e immutabili.",
+        "correct": false
+      },
+      {
+        "text": "Evitando di affrontare argomenti controversi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 197,
+    "text": "Qual è la differenza tra un\ngruppo formale e un gruppo informale?",
+    "answers": [
+      {
+        "text": "Un gruppo formale è\nstrutturato e orientato a\nobiettivi specifici, mentre un gruppo informale si forma spontaneamente e non ha una struttura definita.",
+        "correct": true
+      },
+      {
+        "text": "Un gruppo formale è spontaneo e non ha\nobiettivi, mentre un gruppo informale è strutturato e\norientato a obiettivi specifici.",
+        "correct": false
+      },
+      {
+        "text": "Un gruppo formale è\nformato da amici, mentre un gruppo informale è formato da colleghi.",
+        "correct": false
+      },
+      {
+        "text": "Non c'è differenza tra un gruppo formale e un\ngruppo informale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 198,
+    "text": "Quale teoria è utilizzata per spiegare la dinamica di\npotere all'interno dei gruppi?",
+    "answers": [
+      {
+        "text": "La teoria del potere sociale di French e Raven.",
+        "correct": true
+      },
+      {
+        "text": "La teoria della motivazione di Maslow.",
+        "correct": false
+      },
+      {
+        "text": "La teoria dell'apprendimento sociale di Bandura.",
+        "correct": false
+      },
+      {
+        "text": "La teoria del condizionamento\noperante di Skinner.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 199,
+    "text": "Che cos'è il \"groupthink\" (pensiero di gruppo)?",
+    "answers": [
+      {
+        "text": "Un fenomeno in cui i membri di un gruppo cercano il consenso a scapito di una valutazione critica delle alternative.",
+        "correct": true
+      },
+      {
+        "text": "Un processo di\nbrainstorming in cui tutti i membri del gruppo\npartecipano attivamente.",
+        "correct": false
+      },
+      {
+        "text": "Un metodo per prendere decisioni basato sulla maggioranza.",
+        "correct": false
+      },
+      {
+        "text": "Un sistema di\ncomunicazione efficace tra i membri del gruppo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 200,
+    "text": "Qual è l'importanza della delega delle responsabilità all'interno di un gruppo?",
+    "answers": [
+      {
+        "text": "Aumenta l'efficienza e permette ai membri di sviluppare competenze.",
+        "correct": true
+      },
+      {
+        "text": "Crea confusione e rallenta il progresso del gruppo.",
+        "correct": false
+      },
+      {
+        "text": "Riduce la responsabilità\nindividuale e la motivazione.",
+        "correct": false
+      },
+      {
+        "text": "Impedisce ai membri di assumere ruoli di leadership.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 201,
+    "text": "Secondo Maria Gabriella Baldarelli, quali sono le caratteristiche della\nsostenibilità nelle organizzazioni?",
+    "answers": [
+      {
+        "text": "Equilibrio tra aspetti economici, sociali e ambientali.",
+        "correct": true
+      },
+      {
+        "text": "Focus esclusivo sul profitto a breve termine.",
+        "correct": false
+      },
+      {
+        "text": "Riduzione della\ncomunicazione interna, isolamento dei dipendenti.",
+        "correct": false
+      },
+      {
+        "text": "Aumento della gerarchia e del controllo centralizzato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 202,
+    "text": "Secondo Francesco Morace, quali sono le caratteristiche delle organizzazioni orientate al futuro?",
+    "answers": [
+      {
+        "text": "Capacità di anticipare i cambiamenti, innovazione continua e centralità\ndell'utente.",
+        "correct": true
+      },
+      {
+        "text": "Struttura gerarchica rigida, controllo centralizzato.",
+        "correct": false
+      },
+      {
+        "text": "Focus esclusivo sul profitto, resistenza al cambiamento.",
+        "correct": false
+      },
+      {
+        "text": "Mancanza di comunicazione, isolamento dei dipartimenti.",
+        "correct": false
+      }
+    ]
+  }
+]

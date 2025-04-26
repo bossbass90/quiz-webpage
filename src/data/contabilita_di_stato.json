@@ -1,0 +1,4402 @@
+[
+  {
+    "number": 1,
+    "text": "Il Presidente della Cassa delle Ammende, ai sensi del DPCM n. 102/2017, è nominato dal Ministro della Giustizia tra le persone provenienti dalle P.A.:",
+    "answers": [
+      {
+        "text": "esclusi il Ministero della giustizia, il Ministero\ndell'economia e delle finanze e il Ministero del lavoro e delle politiche\nsociali, nonché dai settori della ricerca, della docenza universitaria,\ndelle magistrature e dei ruoli degli avvocati e\nprocuratori dello Stato, del volontariato e\ndell'associazionismo.",
+        "correct": true
+      },
+      {
+        "text": "esclusi il Ministero della giustizia e il Ministero dell'economia e delle\nfinanze, nonché dai settori della ricerca, della docenza universitaria, delle\nmagistrature e dei ruoli degli avvocati e procuratori dello Stato, del volontariato e dell'associazionismo.",
+        "correct": false
+      },
+      {
+        "text": "esclusi il Ministero della giustizia, il Ministero della difesa e il Ministero\ndell'economia e delle\nfinanze, nonché dai settori della ricerca, della docenza universitaria, delle\nmagistrature e dei ruoli degli avvocati e procuratori dello Stato, del volontariato e dell'associazionismo.",
+        "correct": false
+      },
+      {
+        "text": "esclusi il Ministero della giustizia, il Ministero della difesa, il Ministero del lavoro e delle politiche\nsociali e il Ministero dell'economia e delle\nfinanze, nonché dai settori della ricerca, delle\nmagistrature e dei ruoli degli avvocati e\nprocuratori dello Stato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "text": "Il presidente della Cassa delle Ammende, in conformità alle previsioni del DPCM n. 102/2017, non ha fra le sue attribuzioni:",
+    "answers": [
+      {
+        "text": "effettuare le analisi necessarie e acquisire le informazioni in ordine alla stabilità dell'equilibrio finanziario e, in caso di\ndisavanzo, acquisire le informazioni circa la\nstruttura dello stesso e le prospettive di\nriassorbimento affinché venga, nel tempo,\nsalvaguardato l'equilibrio.",
+        "correct": true
+      },
+      {
+        "text": "relazionare annualmente al Ministro sullo stato dei\nfinanziamenti erogati dalla Cassa e sugli esiti delle attività di monitoraggio e controllo dei programmi e dei progetti finanziati.",
+        "correct": false
+      },
+      {
+        "text": "sovrintendere all'andamento della Cassa e curarne i rapporti\nistituzionali.",
+        "correct": false
+      },
+      {
+        "text": "vigilare sull'attuazione delle delibere avvalendosi dell'attività del responsabile del controllo del programma e del\nprogetto, anche richiedendo la\ncollaborazione delle articolazioni ministeriali\ninteressate al programma o al progetto finanziato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "text": "Fra i componenti del Consiglio di amministrazione della Cassa delle Ammende, previsto dal D.P.C.M. v. 102/2017, non è compreso:",
+    "answers": [
+      {
+        "text": "un componente designato dal Ministro del lavoro e\ndelle politiche sociali tra i dirigenti in servizio presso il Ministro del lavoro e\ndelle politiche sociali, di concerto con Ministero dell'economia e delle\nfinanze.",
+        "correct": true
+      },
+      {
+        "text": "il Capo del Dipartimento per la giustizia minorile e di comunità.",
+        "correct": false
+      },
+      {
+        "text": "un componente designato dal Ministro dell'economia e delle finanze tra i dirigenti in servizio presso il\nMinistero dell'economia e delle finanze.",
+        "correct": false
+      },
+      {
+        "text": "un componente designato dal Ministro del lavoro e delle politiche sociali tra i dirigenti in servizio presso il Ministro del lavoro e delle politiche sociali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "text": "Quale di questi, secondo il R. D.\nn. 1908/1920, non è un ramo della amministrazione economica degli stabilimenti di pena?",
+    "answers": [
+      {
+        "text": "Della sicurezza del\npersonale e vigilanza.",
+        "correct": true
+      },
+      {
+        "text": "Domestica.",
+        "correct": false
+      },
+      {
+        "text": "Delle industrie\nmanifatturiere ed agricole.",
+        "correct": false
+      },
+      {
+        "text": "Del fabbricato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "text": "Le sezioni penali annesse alle carceri giudiziarie sono previste dal R. D. n. 1908/1920 per:",
+    "answers": [
+      {
+        "text": "l'Amministrazione economica domestica.",
+        "correct": true
+      },
+      {
+        "text": "l'Amministrazione\neconomica del fabbricato.",
+        "correct": false
+      },
+      {
+        "text": "l'Amministrazione economica del fondo e\ndegli oggetti particolari dei condannati.",
+        "correct": false
+      },
+      {
+        "text": "l'Amministrazione economica dei fondi massa e mensa degli agenti di custodia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "text": "La contabilità speciale dei rami dell'Amministrazione economica degli stabilimenti di pena consta, in conformità al R. D. n.\n1908/1920, di solo denaro per:",
+    "answers": [
+      {
+        "text": "i fondi massa e mensa\ndegli agenti di custodia.",
+        "correct": true
+      },
+      {
+        "text": "il fondo degli oggetti\nparticolari dei condannati.",
+        "correct": false
+      },
+      {
+        "text": "il fondo di industrie\nmanifatturiere ed agricole.",
+        "correct": false
+      },
+      {
+        "text": "il fondo di fabbricato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "text": "I preventivi comuni per le entrate, a norma del R. D. n. 1908/1920, sono previsti per:",
+    "answers": [
+      {
+        "text": "l'Amministrazione\ndomestica e delle industrie manifatturiere ed agricole.",
+        "correct": true
+      },
+      {
+        "text": "i fondi massa e mensa degli agenti di custodia e fondo degli oggetti particolari dei condannati.",
+        "correct": false
+      },
+      {
+        "text": "il fondo di industrie\nmanifatturiere ed agricole e di fabbricato.",
+        "correct": false
+      },
+      {
+        "text": "i fondi massa e mensa degli agenti di custodia e domestica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "text": "Il preventivo di previsione\ncomune, secondo le disposizioni del R. D. n. 1908/1920, è ripartito:",
+    "answers": [
+      {
+        "text": "con riferimenti ai capitoli del preventivo delle\nentrate dello Stato ed ai capitoli di quello delle\nspese del Ministero della Giustizia.",
+        "correct": true
+      },
+      {
+        "text": "con riferimenti ai capitoli del preventivo delle entrate dello Ministero dell'Interno ed ai capitoli di quello delle spese dello Stato.",
+        "correct": false
+      },
+      {
+        "text": "con riferimenti ai capitoli del preventivo delle entrate del Ministero dell'Interno ed ai capitoli di quello delle spese del Ministero della Giustizia.",
+        "correct": false
+      },
+      {
+        "text": "con riferimenti ai capitoli del preventivo delle\nentrate ed ai capitoli delle spese del Ministero della Giustizia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "text": "Gli stati di previsione comuni, in virtù delle norme del R. D. n.\n1908/1920, sono rimessi:",
+    "answers": [
+      {
+        "text": "in duplice copia entro il mese di febbraio, dalla\nDirezione al Ministero della Giustizia, il quale ne\nrestituisce una copia munita del visto di approvazione.",
+        "correct": true
+      },
+      {
+        "text": "in unica copia entro il mese di gennaio, dalla Direzione al Ministero dell'Interno, il quale ne restituisce copia munita del visto di\napprovazione.",
+        "correct": false
+      },
+      {
+        "text": "in unica copia entro il mese di gennaio, dalla Direzione al Ministero della Giustizia, il quale ne restituisce copia munita del visto di\napprovazione.",
+        "correct": false
+      },
+      {
+        "text": "in duplice copia entro il 15 del mese di febbraio, dalla Direzione al Ministero della Giustizia, il quale ne restituisce una copia munita del visto di\napprovazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "text": "Chiuso l'esercizio finanziario, in base alle disposizioni del R. D. n. 1908/1920, conti giudiziali\nseparati debbono rendersi per:",
+    "answers": [
+      {
+        "text": "i fondi dei detenuti e per gli agenti di custodia.",
+        "correct": true
+      },
+      {
+        "text": "i proventi e il materiale.",
+        "correct": false
+      },
+      {
+        "text": "il fondo manifatturiero e domestico.",
+        "correct": false
+      },
+      {
+        "text": "i fondi dei detenuti, dei proventi e materiali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "text": "Per l'Amministrazione del\nfabbricato, a norma del R. D. n. 1908/1920, le spese di ordinaria manutenzione vengono inserite nello stato di previsione, quelle straordinarie:",
+    "answers": [
+      {
+        "text": "sono preventivate con speciali perizie.",
+        "correct": true
+      },
+      {
+        "text": "sono inserite nel conto separato giudiziale.",
+        "correct": false
+      },
+      {
+        "text": "sono oggetto di piani di ammortamento\nquinquennale nel consuntivo del Ministero dell'Interno.",
+        "correct": false
+      },
+      {
+        "text": "sono oggetto di piani di ammortamento\nquinquennale nel consuntivo del Ministero della Giustizia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "text": "I proventi di qualunque natura e provenienza degli stabilimenti carcerari, ai sensi del R.D. n.\n1908/1920, debbono essere versati:",
+    "answers": [
+      {
+        "text": "nelle tesorerie dello Stato entro i termini prescritti.",
+        "correct": true
+      },
+      {
+        "text": "entro trenta giorni dalla chiusura del rendiconto\nnelle tesorerie dello Stato.",
+        "correct": false
+      },
+      {
+        "text": "entro quindici giorni dalla chiusura del rendiconto\nnelle tesorerie dello Stato.",
+        "correct": false
+      },
+      {
+        "text": "entro dieci giorni dalla chiusura del rendiconto nelle tesorerie del\nMinistero della giustizia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "text": "Per il rinnovo dei contratti per gli stabilimenti carcerari, le Direzioni presentano, ai sensi del R. D. n. 1908/1920, proposte\nparticolareggiate:",
+    "answers": [
+      {
+        "text": "sei mesi prima della scadenza al Ministero.",
+        "correct": true
+      },
+      {
+        "text": "sei mesi prima della scadenza al Capo del Dipartimento\ndell'Amministrazione penitenziaria.",
+        "correct": false
+      },
+      {
+        "text": "quattro mesi prima della scadenza al Ministero dell'Interno.",
+        "correct": false
+      },
+      {
+        "text": "quattro mesi prima della scadenza al Capo del Dipartimento\ndell'Amministrazione penitenziaria, che li\ntrasmette al Ministero della giustizia con il suo parere.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "text": "Tra le spese per l'amministrazione domestica, oltre ai viveri, secondo il R. D. n. 1908/1920, devono essere comprese:",
+    "answers": [
+      {
+        "text": "gli assegni agli inservienti.",
+        "correct": true
+      },
+      {
+        "text": "le spese per il personale.",
+        "correct": false
+      },
+      {
+        "text": "le spese di armamento per gli agenti di custodia.",
+        "correct": false
+      },
+      {
+        "text": "le spese di trasporto e\nindennità degli inservienti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "text": "Per i viveri o quanto altro occorra ai detenuti, in base alle disposizioni del R. D. n.\n1908/1920 si provvede con:",
+    "answers": [
+      {
+        "text": "appalti a diaria fissa o a lotti parziali o ad economia secondo disposizioni di legge.",
+        "correct": true
+      },
+      {
+        "text": "appalti a diaria fissa per i viveri secondo le\ndisposizioni di legge, a lotti parziali per quanto altro\noccorra ai detenuti.",
+        "correct": false
+      },
+      {
+        "text": "appalti ad economia per i viveri secondo le disposizioni di legge, a\ndiaria fissa per quanto altro occorra ai detenuti.",
+        "correct": false
+      },
+      {
+        "text": "appalti a diaria fissa per i viveri, a licitazione privata secondo economia per quanto altro occorra ai detenuti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "text": "Le provviste dei generi\ncommestibili, combustibili e degli altri destinati alla quotidiana consumazione e che possano conservarsi, in virtù dell'art. 579 del R. D.  n. 1908/1920, devono\nriferirsi, di regola:",
+    "answers": [
+      {
+        "text": "al bisogno di un trimestre, salvo casi particolari di necessità dell'istituto\npenitenziario.",
+        "correct": true
+      },
+      {
+        "text": "al fabbisogno di un semestre, salvo i casi particolari di necessità dell'istituto penitenziario.",
+        "correct": false
+      },
+      {
+        "text": "al bisogno di un bimestre, salvo i casi in particolari di necessità indicati nei primi trenta giorni dal direttore dell'istituto penitenziario.",
+        "correct": false
+      },
+      {
+        "text": "al fabbisogno di mensile, salvo i casi in particolari di necessità indicati nei primi trenta giorni dal direttore dell'istituto penitenziario.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "text": "Tutti gli oggetti da letto, di biancheria e di vestiario che passano per la prima volta alla guardaroba dell'Istituto\npenitenziario, vengono contrassegnati secondo le disposizioni del R. D. n.\n1908/1920:",
+    "answers": [
+      {
+        "text": "con un bollo ad inchiostro indelebile portanti le iniziali C. P. S. D.",
+        "correct": true
+      },
+      {
+        "text": "con bollo ad inchiostro blu indelebile portanti le iniziali C.P.P.C.",
+        "correct": false
+      },
+      {
+        "text": "con bollo ad inchiostro rosso indelebile portanti le iniziali C.P.I.D.",
+        "correct": false
+      },
+      {
+        "text": "con bollo impresso a fuoco, in rilievo e per\nincisione, portanti le iniziali C.P.S.D.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "text": "Per gli oggetti mobili di casermaggio, di biancheria o\nsimili dati in uso ai comandanti ed a quanti altri possano avervi\ndiritto, ai sensi dell'art. 581 del R.\nD. n. 1908/1920, debbono:",
+    "answers": [
+      {
+        "text": "compilarsi verbali di consegna per ogni\nsoggetto ad ogni cambio del personale, che devono essere conservati dal contabile.",
+        "correct": true
+      },
+      {
+        "text": "compilarsi verbali per ogni oggetto detenuto dal personale, che devono essere conservati\ndall'amministrazione penitenziaria.",
+        "correct": false
+      },
+      {
+        "text": "compilarsi verbali di consegna per il mobilio, con autorizzazione del direttore dell'istituto penitenziario.",
+        "correct": false
+      },
+      {
+        "text": "essere inviate le\nautorizzazioni al capo del personale, ai fini della\ncompilazione del verbale di consegna, che verrà poi conservato dal servizio contabilità.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "text": "Negli Stabilimenti carcerari la dispensa per la somministrazione del sopravvitto ai detenuti, in base alle norme del R. D. n. 1908/1920, viene condotta:",
+    "answers": [
+      {
+        "text": "in economia, salvo il caso di appalto del servizio di\nmantenimento o di speciali convenzioni con privati.",
+        "correct": true
+      },
+      {
+        "text": "a diaria fissa, salvo il caso di appalto del servizio di mantenimento o di speciali convenzioni con privati.",
+        "correct": false
+      },
+      {
+        "text": "a lotti parziali, salvo il caso di appalto del servizio di mantenimento o di speciali convenzioni con privati.",
+        "correct": false
+      },
+      {
+        "text": "sulla base dell'appalto del servizio di mantenimento o di speciali convenzioni previste dal Ministero della Giustizia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "text": "Alle spese necessarie per le provviste dei generi che si consumano nella dispensa condotta ad economia, l'art. 585 del R. D. n. 1908/1920 prescrive che vi si fa fronte:",
+    "answers": [
+      {
+        "text": "con il fondo complessivo dei detenuti.",
+        "correct": true
+      },
+      {
+        "text": "col fondo dei detenuti e degli agenti di custodia.",
+        "correct": false
+      },
+      {
+        "text": "con il fondo dei detenuti e dei proventi del materiale.",
+        "correct": false
+      },
+      {
+        "text": "con il fondo dei detenuti, degli agenti di custodia e dei proventi del materiale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "text": "il prezzo di costo dei generi si accresce, in virtù delle previsioni del R. D. n. 1908/1920, nella proporzione necessaria a\ncompensare l'Amministrazione delle spese per l'esercizio della dispensa:",
+    "answers": [
+      {
+        "text": "nel limite del 3 al 5% secondo il grado di\ndeperibilità dei generi.",
+        "correct": true
+      },
+      {
+        "text": "nel limite del 3% secondo il grado di deperibilità dei\ngeneri.",
+        "correct": false
+      },
+      {
+        "text": "nel limite del 2 al 3% secondo il grado di deperibilità dei generi.",
+        "correct": false
+      },
+      {
+        "text": "nel limite del 5 al 6% secondo il grado di deperibilità dei generi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "text": "La quota di utile sul prezzo di costo dei generi, che venga mensilmente a risultare, ai sensi del R. D. n. 1908/1920, deve:",
+    "answers": [
+      {
+        "text": "passarsi ai proventi dell'Amministrazione domestica.",
+        "correct": true
+      },
+      {
+        "text": "imputarsi agli utili dell'Amministrazione penitenziaria.",
+        "correct": false
+      },
+      {
+        "text": "imputarsi ai ricavi del piano previsionale\ndell'Amministrazione domestica.",
+        "correct": false
+      },
+      {
+        "text": "passarsi ai proventi del piano previsionale\ndell'Amministrazione domestica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "text": "L'esercizio della dispensa si concede, per effetto delle\nprevisioni dell'art. 587 del R. D. n. 1908/1920:",
+    "answers": [
+      {
+        "text": "gratuitamente e non si affitta. La concessione è fatta per concorso, a chi si obbliga a vendere a prezzi inferiori a quelli di\nmercato.",
+        "correct": true
+      },
+      {
+        "text": "ad affitto calmierato. per concorso, a chi si obbliga a vendere a prezzi inferiori a quelli di mercato.",
+        "correct": false
+      },
+      {
+        "text": "ad affitto pari ad 1/3 del valore di mercato, a chi si obbliga a vendere a prezzi di mercato.",
+        "correct": false
+      },
+      {
+        "text": "gratuitamente, per concorso, a chi si obbliga a vendere a prezzi di mercato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "text": "La tariffa dei prezzi dei generi di sopravvitto è compilata, a norma del R. D. n. 1908/1920:",
+    "answers": [
+      {
+        "text": "dalla Direzione, la quale però, nel caso in cui la\ndispensa sia condotta da privati, la stabilisce\nd'accordo col concessionario, secondo le oscillazioni dei prezzi nel mercato.",
+        "correct": true
+      },
+      {
+        "text": "dalla Direzione\ndell'Amministrazione\npenitenziaria, mensilmente e previa revisione dei prezzi di mercato.",
+        "correct": false
+      },
+      {
+        "text": "dal concessionario della dispensa, previo incontro\ntrimestrale con la Direzione dell'Amministrazione per la revisione dei prezzi di mercato.",
+        "correct": false
+      },
+      {
+        "text": "ogni trimestre di concerto tra concessionario privato e Amministrazione centrale del D.A.P. per fissare i limiti dell'aumento dei prezzi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "text": "All'appaltatore dei generi forniti ai detenuti, a norme del R. D. n.\n1908/1920, il pagamento:",
+    "answers": [
+      {
+        "text": "si fa d'ordinario alla scadenza di ogni mese,\nsalvo acconti non maggiori dei quattro quinti degli\nimporti dei generi effettivamente\nsomministrati.",
+        "correct": true
+      },
+      {
+        "text": "si fa d'ordinario alla scadenza di ogni trimestre, salvo acconti non maggiori dei tre quinti degli importi dei generi effettivamente somministrati.",
+        "correct": false
+      },
+      {
+        "text": "si fa d'ordinario alla scadenza di ogni bimestre, salvo acconti non maggiori dei tre quinti degli importi dei generi effettivamente somministrati.",
+        "correct": false
+      },
+      {
+        "text": "si fa d'ordinario alla scadenza di ogni bimestre, salvo acconti non maggiori dei due quinti degli importi dei generi effettivamente somministrati.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "text": "La Dispensa è istituita per i detenuti e, fermo restando le\nprevisioni del R. D. n. 1908/1920, non può essere estesa ad altri la vendita dei generi senza:",
+    "answers": [
+      {
+        "text": "l'autorizzazione della Prefettura.",
+        "correct": true
+      },
+      {
+        "text": "l'autorizzazione della Questura.",
+        "correct": false
+      },
+      {
+        "text": "l'autorizzazione del Direttore del D.A.P.",
+        "correct": false
+      },
+      {
+        "text": "l'autorizzazione del Direttore dell'Istituto penitenziario.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "text": "Il dirigente responsabile degli acquisti di beni e servizi - sulla base delle norme del D.P.R. n. 254/2002 - formula:",
+    "answers": [
+      {
+        "text": "annualmente, in coerenza con la predisposizione\ndegli atti di bilancio e con le risorse finanziarie\nassegnabili, un fabbisogno di spesa da sottoporre\nall'approvazione del titolare del centro di responsabilità\namministrativa.",
+        "correct": true
+      },
+      {
+        "text": "trimestralmente, in coerenza con la\npredisposizione degli atti di bilancio e con le risorse\nfinanziarie assegnabili, un fabbisogno di spesa da\nsottoporre all'approvazione del Direttore dell'istituto penitenziario.",
+        "correct": false
+      },
+      {
+        "text": "annualmente, in coerenza con la predisposizione degli atti di bilancio e con le risorse finanziarie\nassegnabili, un fabbisogno di spesa da sottoporre\nall'approvazione del consegnatario.",
+        "correct": false
+      },
+      {
+        "text": "semestralmente, in coerenza con la predisposizione degli atti di bilancio e con le risorse finanziarie assegnabili, un fabbisogno di spesa da sottoporre\nall'approvazione del consegnatario.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "text": "Le norme del D.P.R. n. 254/2002 si applicano ai consegnatari ed ai cassieri delle amministrazioni dello Stato:",
+    "answers": [
+      {
+        "text": "con esclusione di quelle dotate di autonomia\namministrativa e contabile, nonché degli organismi\nappartenenti alle Forze armate, di polizia e del\nCorpo nazionale dei Vigili del fuoco.",
+        "correct": true
+      },
+      {
+        "text": "con esclusione degli\norganismi appartenenti alle Forze armate, di polizia nonché del Corpo\nnazionale dei Vigili del fuoco.",
+        "correct": false
+      },
+      {
+        "text": "con esclusione degli\norganismi appartenenti alle Forze armate e di polizia penitenziaria.",
+        "correct": false
+      },
+      {
+        "text": "con esclusione di quelle dotate di autonomia amministrativa e contabile, nonché degli organismi appartenenti alle Forze\narmate, di polizia\npenitenziaria e del Corpo nazionale dei Vigili del fuoco",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "text": "Le amministrazioni dello Stato, ai sensi del D.P.R. n. 254/2002, in relazione alle scritture contabili:",
+    "answers": [
+      {
+        "text": "possono formarle e conservarle nonché trasmetterle in via telematica.",
+        "correct": true
+      },
+      {
+        "text": "devono formarle e conservarle nonché trasmetterle in via\ntelematica.",
+        "correct": false
+      },
+      {
+        "text": "devono formarle e conservarle nonché possono trasmetterle in via telematica.",
+        "correct": false
+      },
+      {
+        "text": "non possono trasmetterle per via telematica ma solo cartacea.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "text": "Il gestore globale, in conformità alle previsioni del D.P.R. n.\n254/2002, è:",
+    "answers": [
+      {
+        "text": "soggetto affidatario della gestione delle procedure per la conclusione delle convenzioni e realizzazione e gestione del sistema di controllo e verifica della loro esecuzione.",
+        "correct": true
+      },
+      {
+        "text": "il dirigente con funzioni\ndirigenziali generali titolare di responsabilità per la conclusione delle convenzioni e realizzazione e gestione del sistema di controllo e verifica della\nloro esecuzione.",
+        "correct": false
+      },
+      {
+        "text": "fruitore delle utilità\nnecessarie alla conclusione delle convenzioni e realizzazione e gestione del sistema di controllo e\nverifica della loro esecuzione.",
+        "correct": false
+      },
+      {
+        "text": "gli ufficio periferico della ragioneria generale dello Stato per la conclusione delle convenzioni e realizzazione e gestione del sistema di controllo",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "text": "Secondo il D.P.R. n. 254/2002, i\ntitolari dei centri di responsabilità amministrativa individuano per gli acquisti di beni e servizi:",
+    "answers": [
+      {
+        "text": "i dirigenti responsabili ai quali attribuiscono le conseguenti risorse\numane, finanziarie e materiali.",
+        "correct": true
+      },
+      {
+        "text": "i funzionari responsabili ai quali attribuiscono le conseguenti risorse umane e finanziarie.",
+        "correct": false
+      },
+      {
+        "text": "gli agenti amministrativi responsabili ai quali\nattribuiscono le conseguenti risorse umane, finanziarie e materiali.",
+        "correct": false
+      },
+      {
+        "text": "gli assistenti amministrativi ai quali attribuiscono le conseguenti risorse\numane, finanziarie e materiali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "text": "Al fine di consentire al gestore, secondo le norme del D.P.R. n. 254/2002, la realizzazione dei compiti di consulenza tecnica e\ngestione del sistema di controllo e verifica delle politiche di spesa:",
+    "answers": [
+      {
+        "text": "i dirigenti responsabili\ndegli acquisti comunicano semestralmente allo  stesso gestore globale tutti gli elementi degli ordinativi di fornitura di beni e servizi.",
+        "correct": true
+      },
+      {
+        "text": "i funzionari responsabili degli acquisti comunicano annualmente allo stesso\ngestore globale tutti gli elementi degli ordinativi di fornitura di beni e servizi.",
+        "correct": false
+      },
+      {
+        "text": "gli agenti amministrativi responsabili degli acquisti comunicano annualmente allo stesso gestore globale tutti gli elementi degli\nordinativi di fornitura di beni e servizi.",
+        "correct": false
+      },
+      {
+        "text": "i dirigenti amministrativi responsabili degli acquisti comunicano annualmente allo stesso gestore globale tutti gli elementi degli\nordinativi di fornitura di beni e servizi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "text": "I consegnatari, ai sensi delle disposizioni del D.P.R. n.\n254/2002, in relazione alle modalità di gestione dei beni mobili assumono la veste:",
+    "answers": [
+      {
+        "text": "di agenti amministrativi per debito di vigilanza.",
+        "correct": true
+      },
+      {
+        "text": "di agenti amministrativi per debito di custodia.",
+        "correct": false
+      },
+      {
+        "text": "di agenti amministrativi per debito di custodia.",
+        "correct": false
+      },
+      {
+        "text": "di funzionari amministrativi per debito di gestione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "text": "L'incarico di consegnatario è conferito, fermo restando le disposizioni del D.P.R. n.\n254/2002:",
+    "answers": [
+      {
+        "text": "dai titolari dei centri di responsabilità su proposta del dirigente responsabile degli acquisti di beni e servizi.",
+        "correct": true
+      },
+      {
+        "text": "dalla Direzione\ndell'Amministrazione\npenitenziaria, su proposta del titolare del centro di responsabilità degli acquisti di beni e servizi.",
+        "correct": false
+      },
+      {
+        "text": "dai titolari dei centri di responsabilità su proposta della Direzione\ndell'Amministrazione penitenziaria.",
+        "correct": false
+      },
+      {
+        "text": "dal dirigente responsabile degli acquisti di beni e servizi, previa proposta della Direzione\ndell'Amministrazione penitenziaria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "text": "I provvedimenti di conferimento dell'incarico di consegnatario, di sub-consegnatario e di sostituto consegnatario sono trasmessi in conformità alle norme del D.P.R.\nn. 254/2002:",
+    "answers": [
+      {
+        "text": "in copia al competente Ufficio centrale del\nbilancio o all'Ufficio interno di ragioneria ovvero alle competenti Ragionerie provinciali dello Stato, nonché alla Corte dei conti.",
+        "correct": true
+      },
+      {
+        "text": "in copia al competente Ufficio centrale del bilancio o all'Ufficio interno di\nragioneria ovvero alle competenti Ragionerie provinciali dello Stato.",
+        "correct": false
+      },
+      {
+        "text": "in copia al competente Ufficio centrale del bilancio o all'Ufficio interno di\nragioneria ovvero alla Corte dei Conti.",
+        "correct": false
+      },
+      {
+        "text": "alle competenti Ragionerie provinciali dello Stato e alla Corte dei Conti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "text": "Gli incarichi di consegnatario sono conferiti, ai sensi di quanto previsto dal D.P.R. n. 254/2002:",
+    "answers": [
+      {
+        "text": "per un periodo non\nsuperiore a cinque anni, al personale inquadrato nei profili amministrativo ovvero amministrativo- contabile che abbia\nun'anzianità di almeno tre anni di effettivo servizio nell'area funzionale\nrichiesta.",
+        "correct": true
+      },
+      {
+        "text": "per un periodo non\nsuperiore a tre anni, al personale inquadrato nei profili amministrativo ovvero amministrativo- contabile che abbia un'anzianità di almeno cinque anni di effettivo\nservizio nell'area funzionale\nrichiesta.",
+        "correct": false
+      },
+      {
+        "text": "per un periodo non\nsuperiore a tre anni, al personale inquadrato nei profili amministrativo ovvero amministrativo- contabile che abbia un'anzianità di almeno tre anni di effettivo servizio\nnell'area funzionale\nrichiesta.",
+        "correct": false
+      },
+      {
+        "text": "per un periodo non\nsuperiore a tre anni, al personale inquadrato nei profili amministrativo ovvero amministrativo- contabile che abbia un'anzianità di almeno due anni di effettivo servizio\nnell'area funzionale\nrichiesta.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 37,
+    "text": "Gli incarichi di consegnatario sono conferiti, in base a quanto previsto dal D.P.R. n. 254/2002, al personale inquadrato nei profili amministrativo ovvero\namministrativo-contabile:",
+    "answers": [
+      {
+        "text": "rinnovabile per una sola volta.",
+        "correct": true
+      },
+      {
+        "text": "rinnovabile una sola volta per ogni triennio mobile.",
+        "correct": false
+      },
+      {
+        "text": "rinnovabile per una sola in ogni quinquennio.",
+        "correct": false
+      },
+      {
+        "text": "rinnovabile per un massimo di due volte in ogni triennio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "text": "Per le amministrazioni centrali e periferiche, in relazione\nall'estensione della sede ed alla complessità degli organismi in essa operanti, l'incarico di consegnatario è conferito sulla base di quanto disposto dal D.P.R.\nn. 254/2002:",
+    "answers": [
+      {
+        "text": "a funzionari in possesso di diploma di scuola\nsecondaria superiore e appartenenti alle aree\nfunzionali B2, B3, C1 e C2.",
+        "correct": true
+      },
+      {
+        "text": "a dirigenti in possesso di laurea e appartenenti alle aree funzionali C2 e C3.",
+        "correct": false
+      },
+      {
+        "text": "a funzionari in possesso di laurea e appartenenti alle aree funzionali B2 e B3.",
+        "correct": false
+      },
+      {
+        "text": "ad agenti in possesso di diploma di laurea o\nequipollente e appartenenti alle aree funzionali B e C.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "text": "I consegnatari per debito di custodia, fermo restando le disposizioni del D.P.R. n.\n254/2002, sono:",
+    "answers": [
+      {
+        "text": "dipendenti direttamente\ndalle amministrazioni dello Stato e sono sottoposti alla vigilanza del Ministero\ndell'Economia e delle Finanze e alla giurisdizione della Corte dei conti.",
+        "correct": true
+      },
+      {
+        "text": "dipendenti dalla\nAmministrazioni centrali dello Stato e sottoposti alla vigilanza del Ministero dell'Economia e delle\nFinanze.",
+        "correct": false
+      },
+      {
+        "text": "dipendenti del Ministero dell'Economia e delle Finanze e sottoposti alla vigilanza della Corte dei conti.",
+        "correct": false
+      },
+      {
+        "text": "dipendenti della Corte dei conti sottoposti alla\nvigilanza del Ministero dell'Economia e delle Finanze.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "text": "I conti giudiziali, per quanto previsto dal D.P.R. n. 254/2002, sono trasmessi per la verifica dalle amministrazioni di\ncompetenza:",
+    "answers": [
+      {
+        "text": "entro i due mesi successivi alla chiusura dell'esercizio cui il conto si riferisce.",
+        "correct": true
+      },
+      {
+        "text": "entro il mese successivo alla chiusura dell'esercizio cui il conto si riferisce.",
+        "correct": false
+      },
+      {
+        "text": "entro i trenta giorni\nsuccessivi alla chiusura dell'esercizio cui il conto si riferisce.",
+        "correct": false
+      },
+      {
+        "text": "entro i quarantacinque giorni successivi alla\nchiusura dell'esercizio cui il conto si riferisce.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 41,
+    "text": "Ai sensi del D.P.R. n. 254/2002, dopo l'apposizione della\ndichiarazione di riscontro da parte degli uffici competenti, i\nconti giudiziali vengono trasmessi:",
+    "answers": [
+      {
+        "text": "entro i due mesi successivi dalla loro ricezione alla\nCorte dei conti.",
+        "correct": true
+      },
+      {
+        "text": "entro il mese successivo dalla loro ricezione al\nMinistero della Giustizia e alla Corte dei conti.",
+        "correct": false
+      },
+      {
+        "text": "entro il mese successivo dalla loro ricezione alla Corte dei conti.",
+        "correct": false
+      },
+      {
+        "text": "entro i quarantacinque\ngiorni successivi dalla loro ricezione al Ministero della Giustizia e alla Corte dei conti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 42,
+    "text": "In virtù delle previsioni del D.P.R.\nn. 254/2002, le richieste di beni mobili sono rivolte:",
+    "answers": [
+      {
+        "text": "al dirigente responsabile\ndegli acquisti per il tramite del consegnatario.",
+        "correct": true
+      },
+      {
+        "text": "al dirigente responsabile degli acquisti.",
+        "correct": false
+      },
+      {
+        "text": "all'ufficio acquisti dell'area domestica\ndell'Amministrazione penitenziaria.",
+        "correct": false
+      },
+      {
+        "text": "al dirigente della\nragioneria regionale per il tramite del consegnatario.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 43,
+    "text": "L'eventuale passaggio di beni mobili, in virtù delle norme del\nD.P.R. n. 254/2002, tra\nconsegnatari della stessa o di altra amministrazione è:",
+    "answers": [
+      {
+        "text": "autorizzato,\nrispettivamente, dal\ndirigente responsabile degli acquisti di beni e servizi o dal titolare del centro di responsabilità\ncon redazione di apposito verbale del passaggio.",
+        "correct": true
+      },
+      {
+        "text": "autorizzato con apposito verbale dal titolare del centro di responsabilità o dal dirigente responsabile.",
+        "correct": false
+      },
+      {
+        "text": "autorizzato con apposito verbale dal dirigente responsabile degli acquisti, previo parere non\nvincolante del titolare del centro di responsabilità.",
+        "correct": false
+      },
+      {
+        "text": "autorizzato dal titolare del centro di responsabilità previo parere favorevole del dirigente responsabile degli acquisti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 44,
+    "text": "Per i consegnatari dei beni mobili, il modello mod. 94 C.G. nelle\nscritture contabili corrisponde a:",
+    "answers": [
+      {
+        "text": "inventario.",
+        "correct": true
+      },
+      {
+        "text": "scheda dei beni mobili.",
+        "correct": false
+      },
+      {
+        "text": "giornale di entrata e uscita.",
+        "correct": false
+      },
+      {
+        "text": "prospetto delle variazioni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 45,
+    "text": "Per i consegnatari dei beni mobili, secondo l'art. 16 del D.P.R. n.\n254/2002, nelle scritture contabili il modello mod. 96 C.G.\ncorrisponde a:",
+    "answers": [
+      {
+        "text": "giornale di entrata e uscita.",
+        "correct": true
+      },
+      {
+        "text": "buoni di carico e scarico.",
+        "correct": false
+      },
+      {
+        "text": "processo verbale per cambio del consegnatario.",
+        "correct": false
+      },
+      {
+        "text": "scheda dei beni mobili.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "text": "Per i consegnatari dei beni mobili, secondo l'art. 16 del D.P.R. n.\n254/2002, nelle scritture contabili il modello mod. 98 C.G.\ncorrisponde a:",
+    "answers": [
+      {
+        "text": "prospetto delle variazioni.",
+        "correct": true
+      },
+      {
+        "text": "processo verbale per cambio del consegnatario.",
+        "correct": false
+      },
+      {
+        "text": "buoni di carico e scarico.",
+        "correct": false
+      },
+      {
+        "text": "giornale di entrata e uscita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 47,
+    "text": "Per i consegnatari dei beni mobili, secondo l'art. 16 del D.P.R. n.\n254/2002, nelle scritture contabili il modello mod. 130 P.G.S.\ncorrisponde a:",
+    "answers": [
+      {
+        "text": "buoni di carico e scarico.",
+        "correct": true
+      },
+      {
+        "text": "scheda dei beni mobili.",
+        "correct": false
+      },
+      {
+        "text": "processo verbale per cambio del consegnatario.",
+        "correct": false
+      },
+      {
+        "text": "prospetto delle variazioni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 48,
+    "text": "Per i consegnatari dei beni mobili, secondo l'art. 16 del D.P.R. n.\n254/2002, nelle scritture contabili il modello mod. 227 P.G.S.\ncorrisponde a:",
+    "answers": [
+      {
+        "text": "scheda dei beni mobili.",
+        "correct": true
+      },
+      {
+        "text": "prospetto delle variazioni.",
+        "correct": false
+      },
+      {
+        "text": "processo verbale per cambio del consegnatario.",
+        "correct": false
+      },
+      {
+        "text": "giornale di entrata e uscita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 49,
+    "text": "Per i consegnatari dei beni mobili, secondo l'art. 16 del D.P.R. n.\n254/2002, nelle scritture contabili il modello mod. 99 C.G.\ncorrisponde a:",
+    "answers": [
+      {
+        "text": "processo verbale per\ncambio del consegnatario.",
+        "correct": true
+      },
+      {
+        "text": "inventario.",
+        "correct": false
+      },
+      {
+        "text": "buoni di carico e scarico.",
+        "correct": false
+      },
+      {
+        "text": "prospetto delle variazioni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 50,
+    "text": "Sono iscritti nell'inventario a cura del consegnatario tutti i beni\nmobili, ai sensi del D.P.R. n. 254/2002:",
+    "answers": [
+      {
+        "text": "aventi un valore superiore a cinquecento euro, IVA compresa.",
+        "correct": true
+      },
+      {
+        "text": "aventi un valore superiore a cinquecento euro, IVA esclusa.",
+        "correct": false
+      },
+      {
+        "text": "aventi un valore superiore a venti euro, IVA esclusa.",
+        "correct": false
+      },
+      {
+        "text": "aventi un valore superiore a venti euro, IVA inclusa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 51,
+    "text": "In caso di mancanza dei beni mobili inventariati in occasione del passaggio di consegne fra consegnatari, secondo le norme del D.P.R. n. 254/2002:",
+    "answers": [
+      {
+        "text": "è effettuata la segnalazione alla\ncompetente Procura\nregionale della Corte dei conti.",
+        "correct": true
+      },
+      {
+        "text": "è effettuata la segnalazione alla Procura della\nRepubblica presso il Tribunale competente.",
+        "correct": false
+      },
+      {
+        "text": "è segnalata la mancanza al dirigente responsabile degli acquisti di beni e servizi.",
+        "correct": false
+      },
+      {
+        "text": "è segnalata la mancanza al dirigente responsabile dell'Amministrazione penitenziaria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 52,
+    "text": "In caso di cambiamento del consegnatario, il passaggio dei beni può avvenire, in base al\nD.P.R. n. 254/2002:",
+    "answers": [
+      {
+        "text": "in situazioni eccezionali da motivare, con la clausola\ndella riserva che deve essere sciolta entro tre mesi.",
+        "correct": true
+      },
+      {
+        "text": "in situazioni eccezionali da motivare, con la clausola della riserva che deve essere sciolta entro due mesi.",
+        "correct": false
+      },
+      {
+        "text": "in situazioni eccezionali da motivare, con la proroga della consegna fino ad un massimo di tre mesi.",
+        "correct": false
+      },
+      {
+        "text": "in situazioni eccezionali da motivare, con la proroga della consegna fino ad un massimo di due mesi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 53,
+    "text": "Le entrate correnti della Cassa delle ammende, previste dal\nD.P.C.M. n. 102/2017, non sono costituite da:",
+    "answers": [
+      {
+        "text": "ricavi per vendite di beni immobili ed altri beni fruttiferi.",
+        "correct": true
+      },
+      {
+        "text": "rendite patrimoniali.",
+        "correct": false
+      },
+      {
+        "text": "proventi delle manifatture carcerarie assegnati.",
+        "correct": false
+      },
+      {
+        "text": "interessi sui depositi e su titoli.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 54,
+    "text": "Le entrate correnti della Cassa delle ammende, previste dal\nD.P.C.M. n. 102/2017, sono\ncostituite da:",
+    "answers": [
+      {
+        "text": "depositi costituiti presso la Cassa e ad essa devoluti\nper disposizione\ndell'autorità giudiziaria",
+        "correct": true
+      },
+      {
+        "text": "rimborsi di titoli di proprietà.",
+        "correct": false
+      },
+      {
+        "text": "finanziamenti.",
+        "correct": false
+      },
+      {
+        "text": "ricavi per vendite di beni immobili ed altri beni fruttiferi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "text": "Il patrimonio della Cassa delle ammende, secondo il D.P.C.M. n. 102/2017, è formato da:",
+    "answers": [
+      {
+        "text": "fondi in deposito presso la Cassa depositi e prestiti o anche presso istituti di credito e in Cassa.",
+        "correct": true
+      },
+      {
+        "text": "proventi o altre entrate espressamente devolute o assegnate dalla legge, o da altre fonti normative,\ndirettamente alla Cassa.",
+        "correct": false
+      },
+      {
+        "text": "interessi sui depositi e su titoli.",
+        "correct": false
+      },
+      {
+        "text": "rimborsi di titoli di proprietà.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 56,
+    "text": "Il responsabile del procedimento verifica che la domanda di\nfinanziamento presentata, in conformità alle norme del\nD.P.C.M. n. 102/2017, sia:",
+    "answers": [
+      {
+        "text": "redatta su modello conforme e che sia completa, altrimenti\nrichiede integrazione entro trenta giorni dal\nricevimento della\ndomanda, con successivi trenta giorni per\nl'adempimento.",
+        "correct": true
+      },
+      {
+        "text": "redatta su modello conforme e completa, altrimenti richiede\nintegrazione entro trenta\ngiorni dal ricevimento della domanda, con successivi sessanta giorni per\nl'adempimento.",
+        "correct": false
+      },
+      {
+        "text": "redatta su modello conforme e completa, altrimenti richiede\nintegrazione entro sessanta giorni dal ricevimento della domanda, con successivi\ntrenta giorni per l'adempimento.",
+        "correct": false
+      },
+      {
+        "text": "redatta su modello conforme e completa, altrimenti richiede\nintegrazione entro trenta\ngiorni dal ricevimento della domanda, con successivi quaranta giorni per\nl'adempimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 57,
+    "text": "La verifica la corrispondenza dei dati riportati nel conto consuntivo o bilancio d'esercizio con quelli analitici desunti dalla contabilità generale tenuta nel corso della\ngestione, in virtù delle norme del\nD.P.C.M. n. 102/2017, è effettuata:",
+    "answers": [
+      {
+        "text": "dal collegio dei revisori dei conti della Cassa delle\nammende.",
+        "correct": true
+      },
+      {
+        "text": "dal segretario generale della Cassa delle ammende.",
+        "correct": false
+      },
+      {
+        "text": "dal Presidente della Cassa delle ammende.",
+        "correct": false
+      },
+      {
+        "text": "dal consiglio della Cassa delle Ammende.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 58,
+    "text": "L'incarico di segretario generale della Cassa delle Ammende, ai sensi del D.P.C.M. n. 102/2017:",
+    "answers": [
+      {
+        "text": "è nominato e revocato dal consiglio, dura in carica tre anni ed è rinnovabile per una sola volta.",
+        "correct": true
+      },
+      {
+        "text": "è nominato e revocato dal collegio dei revisori, dura in carica cinque anni ed è\nrinnovabile per una sola volta.",
+        "correct": false
+      },
+      {
+        "text": "è nominato e revocato dal Presidente, dura in carica cinque anni ed è\nrinnovabile fino a due volte.",
+        "correct": false
+      },
+      {
+        "text": "è nominato e revocato dal consiglio, dura in carica cinque anni ed è\nrinnovabile fino a due volte.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 59,
+    "text": "Il segretario generale della Cassa delle Ammende è scelto in\nconformità alle norme del\nD.P.C.M. n. 102/2017:",
+    "answers": [
+      {
+        "text": "con cumulo dell'incarico, tra i dirigenti\ndell'amministrazione della giustizia in possesso della specifica professionalità.",
+        "correct": true
+      },
+      {
+        "text": "con interpello straordinario fra i funzionari\ndell'amministrazione della giustizia in possesso della specifica professionalità, senza cumulo dell'incarico.",
+        "correct": false
+      },
+      {
+        "text": "con distaccamento\ntemporaneo e senza cumulo di incarico, tra i dirigenti\ndell'amministrazione della giustizia in possesso della specifica professionalità.",
+        "correct": false
+      },
+      {
+        "text": "con cumulo di incarico trai i funzionari\ndell'amministrazione della giustizia in possesso della specifica professionalità.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 60,
+    "text": "Le funzioni di presidente, di consigliere di amministrazione, nonché di segretario generale della Cassa della Ammende, in base alle previsioni del D.P.C.M. n. 102/2017, sono svolte:",
+    "answers": [
+      {
+        "text": "titolo gratuito e possono\ndare luogo esclusivamente al rimborso delle spese.",
+        "correct": true
+      },
+      {
+        "text": "dietro compenso\ndeterminato con decreto del Ministero delle finanze e previo rimborso delle spese sostenute e\ndocumentate.",
+        "correct": false
+      },
+      {
+        "text": "dietro compenso il cui ammontare è determinato con decreto del Ministro della giustizia di concerto con il Ministro delle finanze.",
+        "correct": false
+      },
+      {
+        "text": "dietro compenso il cui ammontare è determinato con decreto del Ministro delle finanze di concerto con il Ministro del lavoro e delle politiche sociali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 61,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., Documento di\neconomia e finanza (DEF) deve essere presentato alle Camere entro:",
+    "answers": [
+      {
+        "text": "il 10 aprile di ogni anno.",
+        "correct": true
+      },
+      {
+        "text": "il 31 dicembre di ogni anno.",
+        "correct": false
+      },
+      {
+        "text": "il 10 luglio di ogni anno.",
+        "correct": false
+      },
+      {
+        "text": "il 30 giugno di ogni anno.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 62,
+    "text": "Con riferimento al disegno di\nlegge di bilancio di previsione, di cui alla L. n. 196/2009 e ss.mm.ii. cosa rappresentano i\n“programmi”?",
+    "answers": [
+      {
+        "text": "Aggregati di spesa con finalità omogenea diretti al perseguimento di risultati, definiti in termini di\nprodotti e di servizi finali, allo scopo di conseguire gli obiettivi stabiliti\nnell'ambito delle missioni.",
+        "correct": true
+      },
+      {
+        "text": "L’insieme delle risorse finanziarie affidate alla gestione di un unico Ministero.",
+        "correct": false
+      },
+      {
+        "text": "Le variazioni di bilancio in termini di competenza, cassa e residui, necessarie alla ripartizione nel corso dell'esercizio finanziario.",
+        "correct": false
+      },
+      {
+        "text": "Le funzioni principali e gli obiettivi strategici perseguiti con la spesa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 63,
+    "text": "Secondo quanto disciplinato dall’art. 24 della L. n. 196/2009 e ss.mm.ii., sulla base del criterio dell'integrità:",
+    "answers": [
+      {
+        "text": "tutte le entrate devono essere iscritte in bilancio al lordo delle spese di riscossione e di altre eventuali spese ad esse connesse.",
+        "correct": true
+      },
+      {
+        "text": "tutte le entrate devono essere iscritte in bilancio al netto delle spese di\nriscossione e di altre eventuali spese ad esse connesse.",
+        "correct": false
+      },
+      {
+        "text": "tutte le entrate devono essere iscritte in bilancio al netto delle spese di\nriscossione e di altre eventuali spese ad esse connesse, salvo le eccezioni previste.",
+        "correct": false
+      },
+      {
+        "text": "tutte le spese devono essere iscritte in bilancio con riduzione delle\ncorrelative entrate.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 64,
+    "text": "A norma della L. n.196/2009 e ss.mm.ii., è corretto affermare che il perseguimento degli obiettivi di finanza pubblica si realizza:",
+    "answers": [
+      {
+        "text": "secondo i principi\ndell'armonizzazione dei bilanci pubblici e del coordinamento della finanza pubblica.",
+        "correct": true
+      },
+      {
+        "text": "esclusivamente secondo il principio di coordinamento della finanza pubblica.",
+        "correct": false
+      },
+      {
+        "text": "secondo i principi\ndell'omogeneità dei bilanci pubblici e dell’efficacia della finanza pubblica.",
+        "correct": false
+      },
+      {
+        "text": "esclusivamente secondo il principio\ndell’armonizzazione dei bilanci pubblici.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 65,
+    "text": "Il disegno di legge del bilancio dello Stato, di cui alla L. n.196/2009 e ss.mm.ii., deve essere presentato alle Camere entro:",
+    "answers": [
+      {
+        "text": "il 20 ottobre di ogni anno.",
+        "correct": true
+      },
+      {
+        "text": "il 10 aprile di ogni anno.",
+        "correct": false
+      },
+      {
+        "text": "Il 30 novembre di ogni anno.",
+        "correct": false
+      },
+      {
+        "text": "il 31 dicembre di ogni anno.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 66,
+    "text": "Secondo quanto disciplinato dalla\nL. n.196/2009 e ss.mm.ii., la prima sezione del Documento di\neconomia e finanza (DEF) contiene:",
+    "answers": [
+      {
+        "text": "lo schema del Programma di stabilità.",
+        "correct": true
+      },
+      {
+        "text": "l'analisi del conto\neconomico e del conto di cassa delle amministrazioni pubbliche nell'anno precedente.",
+        "correct": false
+      },
+      {
+        "text": "in valore assoluto, gli\nobiettivi di saldo netto da finanziare del bilancio dello Stato e di saldo di cassa del settore statale.",
+        "correct": false
+      },
+      {
+        "text": "le informazioni di dettaglio sui risultati e sulle\nprevisioni dei conti dei\nprincipali settori di spesa, almeno per il triennio\nsuccessivo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 67,
+    "text": "Secondo quanto statuito\ndall’allegato 1 della L. n. 196/2009 e ss.mm.ii., attraverso la rigorosa valutazione dei flussi finanziari\ngenerati dalle operazioni che si svolgeranno nel futuro periodo di riferimento trova applicazione:",
+    "answers": [
+      {
+        "text": "il principio di veridicità.",
+        "correct": true
+      },
+      {
+        "text": "il principio di trasparenza.",
+        "correct": false
+      },
+      {
+        "text": "il principio della flessibilità.",
+        "correct": false
+      },
+      {
+        "text": "il principio di prudenza.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 68,
+    "text": "A norma dell’art.33 della L. n.196/2009 e ss.mm.ii. il disegno di legge di assestamento è\ncorredato:",
+    "answers": [
+      {
+        "text": "da una relazione tecnica.",
+        "correct": true
+      },
+      {
+        "text": "da una nota di aggiornamento.",
+        "correct": false
+      },
+      {
+        "text": "da una sintesi di aggiornamento.",
+        "correct": false
+      },
+      {
+        "text": "da una sintesi illustrativa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 69,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., il comitato per i princìpi contabili delle amministrazioni pubbliche è composto:",
+    "answers": [
+      {
+        "text": "da 23 componenti.",
+        "correct": true
+      },
+      {
+        "text": "da 33 componenti.",
+        "correct": false
+      },
+      {
+        "text": "da 15 componenti.",
+        "correct": false
+      },
+      {
+        "text": "da 26 componenti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 70,
+    "text": "Ai sensi della L. n.196/2009 e ss.mm.ii., quali soggetti adottano intese volte a promuovere le\nattività delle due Camere al fine di favorire lo svolgimento congiunto dell’attività istruttoria utile al\ncontrollo parlamentare?",
+    "answers": [
+      {
+        "text": "I Presidenti della Camera dei Deputati e del Senato della Repubblica.",
+        "correct": true
+      },
+      {
+        "text": "Le Commissioni\nparlamentari competenti.",
+        "correct": false
+      },
+      {
+        "text": "Il Ministro dell’economia e delle finanze e i Presidenti della Camera e del Senato.",
+        "correct": false
+      },
+      {
+        "text": "Esclusivamente i Ministri competenti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 71,
+    "text": "“Il Documento di economia e finanza (DEF) deve essere\npresentato alle Camere entro il 30 settembre di ogni anno.” Con\nriferimento alla specifica disciplina contenuta nella L. n. 196/2009 e ss.mm.ii., quanto affermato è:",
+    "answers": [
+      {
+        "text": "errato, poiché il\nDocumento di economia e finanza (DEF) deve essere presentato alle Camere entro il 10 aprile di ogni anno.",
+        "correct": true
+      },
+      {
+        "text": "corretto.",
+        "correct": false
+      },
+      {
+        "text": "errato, poiché il\nDocumento di economia e finanza (DEF) deve essere presentato alle Camere entro il 31 dicembre di ogni anno.",
+        "correct": false
+      },
+      {
+        "text": "errato, poiché il\nDocumento di economia e finanza (DEF) deve essere presentato alle Camere entro il 31 marzo di ogni anno.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 72,
+    "text": "“Il disegno di legge del bilancio dello Stato deve essere presentato alle Camere entro il 30 novembre di ogni anno”. Con\nriferimento alla specifica disciplina contenuta nella L. n. 196/2009 e ss.mm.ii., quanto affermato è:",
+    "answers": [
+      {
+        "text": "errato, poiché il disegno di legge del bilancio dello\nStato deve essere\npresentato alle Camere entro il 20 ottobre di ogni anno.",
+        "correct": true
+      },
+      {
+        "text": "errato, poiché il disegno di legge del bilancio dello\nStato deve essere presentato alle Camere entro il 30 novembre di ogni anno.",
+        "correct": false
+      },
+      {
+        "text": "errato, poiché il disegno di legge del bilancio dello\nStato deve essere presentato al Presidente del Consiglio dei Ministri entro il 30 settembre di ogni anno.",
+        "correct": false
+      },
+      {
+        "text": "corretto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 73,
+    "text": "Secondo quanto disciplinato dalla\nL. n. 196/2009 e ss.mm.ii., è corretto affermare, che la\nseconda sezione del Documento di economia e finanza (DEF) contiene le previsioni tendenziali,\nalmeno per il triennio successivo, del saldo di cassa del settore\nstatale e le indicazioni sulle\ncorrelate modalità di copertura?",
+    "answers": [
+      {
+        "text": "Sì, è corretto.",
+        "correct": true
+      },
+      {
+        "text": "No, poiché contiene le previsioni tendenziali, almeno per il triennio successivo, del saldo di\ncassa del settore statale e le indicazioni sulle correlate modalità di copertura, sono contenute nella prima sezione.",
+        "correct": false
+      },
+      {
+        "text": "No, poiché contiene la seconda sezione del\nDocumento di economia e finanza (DEF) contiene le previsioni tendenziali, esclusivamente per l’anno successivo, del saldo di cassa del settore statale.",
+        "correct": false
+      },
+      {
+        "text": "No, poiché contiene le previsioni tendenziali, almeno per il triennio successivo, del saldo di\ncassa del settore statale e le indicazioni, sulle\ncorrelate modalità di copertura sono contenute nella terza sezione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 74,
+    "text": "Secondo quanto statuito dalla L.\nn. 196/2009 e ss.mm.ii., la\nseconda sezione del Documento di economia e finanza (DEF) contiene:",
+    "answers": [
+      {
+        "text": "le risorse destinate allo sviluppo delle aree sottoutilizzate, con\nevidenziazione dei fondi nazionali addizionali.",
+        "correct": true
+      },
+      {
+        "text": "l'indicazione dell'evoluzione economico-finanziaria\ninternazionale, per l'anno in corso e per il periodo di\nriferimento.",
+        "correct": false
+      },
+      {
+        "text": "lo stato di avanzamento delle riforme avviate.",
+        "correct": false
+      },
+      {
+        "text": "gli squilibri\nmacroeconomici nazionali e i fattori di natura\nmacroeconomica che incidono sulla\ncompetitività.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 75,
+    "text": "A norma della L.196/2009 e ss.mm.ii., il Ministro dell'economia e delle finanze trasmette alle Camere l’apposito allegato in cui sono riportati i risultati del monitoraggio degli effetti sui saldi di finanza pubblica, sia per le\nentrate sia per le spese, entro il\ntermine:",
+    "answers": [
+      {
+        "text": "del 30 giugno di ogni anno.",
+        "correct": true
+      },
+      {
+        "text": "del 20 ottobre di ogni anno.",
+        "correct": false
+      },
+      {
+        "text": "del 31 luglio di ogni anno.",
+        "correct": false
+      },
+      {
+        "text": "del 30 novembre di ogni anno.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 76,
+    "text": "La Nota di aggiornamento del\nDocumento di economia e finanza (DEF), di cui alla L. n. 196/2009 e ss.mm.ii., contiene:",
+    "answers": [
+      {
+        "text": "in valore assoluto, gli\nobiettivi di saldo netto da finanziare del bilancio\ndello Stato e di saldo di cassa del settore statale.",
+        "correct": true
+      },
+      {
+        "text": "il prodotto potenziale e gli indicatori strutturali\nprogrammatici del conto economico delle pubbliche amministrazioni per ciascun anno del periodo di riferimento.",
+        "correct": false
+      },
+      {
+        "text": "le priorità del Paese e le principali riforme da attuare.",
+        "correct": false
+      },
+      {
+        "text": "le informazioni sulle passività potenziali che possono avere effetti sui bilanci pubblici.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 77,
+    "text": "Secondo il disposto della L. n. 196/2009 e ss.mm.ii., le maggiori entrate rispetto a quelle iscritte\nnel bilancio di previsione derivanti da variazioni degli andamenti a legislazione vigente:",
+    "answers": [
+      {
+        "text": "non possono essere\nutilizzate per la copertura finanziaria di nuove o\nmaggiori spese o riduzioni di entrate.",
+        "correct": true
+      },
+      {
+        "text": "possono essere utilizzate per la copertura finanziaria di nuove o maggiori spese o riduzioni di entrate.",
+        "correct": false
+      },
+      {
+        "text": "possono essere utilizzate esclusivamente per la copertura finanziaria di nuove o maggiori spese.",
+        "correct": false
+      },
+      {
+        "text": "possono essere utilizzate esclusivamente per la copertura finanziaria di\nriduzioni di entrate.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 78,
+    "text": "Come specificato dall’art.17 della\nL. n. 196/2009 e ss.mm.ii., i decreti legislativi dai quali\nderivano nuovi o maggiori oneri sono emanati:",
+    "answers": [
+      {
+        "text": "solo successivamente all'entrata in vigore dei provvedimenti legislativi\nche stanzino le occorrenti risorse finanziarie.",
+        "correct": true
+      },
+      {
+        "text": "anche prima dell’entrata in vigore dei provvedimenti legislativi che stanzino le occorrenti risorse\nfinanziarie.",
+        "correct": false
+      },
+      {
+        "text": "necessariamente nei sette giorni antecedenti\nall’entrata in vigore dei provvedimenti legislativi che stanzino le occorrenti risorse finanziarie.",
+        "correct": false
+      },
+      {
+        "text": "necessariamente prima dell’entrata in vigore dei provvedimenti legislativi che stanzino le occorrenti risorse finanziarie.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 79,
+    "text": "Secondo quanto specificato dalla\nL. n. 196/2009 e ss.mm.ii., è corretto affermare che la\nriduzione dei fondi speciali iscritti nello stato di previsione del\nMinistero dell'economia e delle finanze:",
+    "answers": [
+      {
+        "text": "può avvenire solo dopo la pubblicazione dei\nprovvedimenti legislativi che li utilizzano.",
+        "correct": true
+      },
+      {
+        "text": "può avvenire anche prima della pubblicazione dei provvedimenti legislativi che li utilizzano.",
+        "correct": false
+      },
+      {
+        "text": "deve avvenire quando sono decorsi quindici giorni dalla pubblicazione dei\nprovvedimenti legislativi che li utilizzano.",
+        "correct": false
+      },
+      {
+        "text": "avviene esclusivamente prima dei provvedimenti legislativi che li utilizzano.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 80,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., la relazione tecnica allegata al disegno di legge di bilancio contiene:",
+    "answers": [
+      {
+        "text": "la quantificazione degli effetti finanziari derivanti da ciascuna disposizione normativa introdotta nell'ambito della prima sezione.",
+        "correct": true
+      },
+      {
+        "text": "i criteri tecnici per la quantificazione del fondo di riserva per le spese\nobbligatorie.",
+        "correct": false
+      },
+      {
+        "text": "le misure quantitative\nnecessarie a realizzare gli obiettivi programmatici.",
+        "correct": false
+      },
+      {
+        "text": "gli importi dei fondi speciali previsti\ndall'articolo 18 della medesima legge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 81,
+    "text": "“La prima sezione del disegno di legge di bilancio dispone\nannualmente il quadro di\nriferimento finanziario.” A norma di quanto disposto dalla L. n.\n196/2009 e ss.mm.ii., quanto precedentemente affermato è:",
+    "answers": [
+      {
+        "text": "corretto.",
+        "correct": true
+      },
+      {
+        "text": "errato, poiché è la seconda sezione del disegno di\nlegge di bilancio che dispone annualmente il quadro di riferimento finanziario.",
+        "correct": false
+      },
+      {
+        "text": "errato, poiché è la terza sezione del disegno di legge di bilancio che dispone annualmente il quadro di riferimento finanziario.",
+        "correct": false
+      },
+      {
+        "text": "errato poiché è la seconda sezione del Documento di economia e finanza (DEF) che dispone annualmente il quadro di riferimento\nfinanziario.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 82,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., la prima sezione del disegno di legge di bilancio contiene esclusivamente:",
+    "answers": [
+      {
+        "text": "la determinazione del livello massimo del ricorso al mercato finanziario e del saldo netto da finanziare in termini di competenza e di cassa, per ciascun anno\ndel triennio di riferimento.",
+        "correct": true
+      },
+      {
+        "text": "i criteri essenziali utilizzati per la formulazione, sulla base della legislazione\nvigente, delle previsioni di entrata e di spesa contenute nel Documento di economia e finanza (DEF).",
+        "correct": false
+      },
+      {
+        "text": "un prospetto riepilogativo da cui risulta la ripartizione della spesa tra oneri\ninderogabili, fattori\nlegislativi e adeguamento al fabbisogno.",
+        "correct": false
+      },
+      {
+        "text": "le unità di voto\nparlamentare determinate con riferimento\nrispettivamente alla\ntipologia di entrata e ad aree omogenee di attività.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 83,
+    "text": "Così come definito dalla L. n. 196/2009 e ss.mm.ii., l'iscrizione nello stato di previsione\ndell'entrata di tutti i redditi, proventi e crediti di qualsiasi natura per un ammontare\ncorrispondente all'importo che lo Stato, avendone diritto sulla base della legislazione vigente,\nprevede di riscuotere nel triennio\ndi riferimento, è definita:",
+    "answers": [
+      {
+        "text": "accertamento qualificato.",
+        "correct": true
+      },
+      {
+        "text": "accertamento integrato.",
+        "correct": false
+      },
+      {
+        "text": "accertamento rimodulato.",
+        "correct": false
+      },
+      {
+        "text": "accertamento preventivato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 84,
+    "text": "Così come definito dall’art. 25 - bis della L. n. 196/2009 e ss.mm.ii., i programmi di spesa sono suddivisi:",
+    "answers": [
+      {
+        "text": "in azioni.",
+        "correct": true
+      },
+      {
+        "text": "in articoli.",
+        "correct": false
+      },
+      {
+        "text": "in sezioni.",
+        "correct": false
+      },
+      {
+        "text": "in valori.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 85,
+    "text": "Secondo quanto specificato dall’art.25 - bis della L. n.\n196/2009 e ss.mm.ii., le spese di personale di ciascun programma di spesa sono iscritte all'interno di un'unica azione?",
+    "answers": [
+      {
+        "text": "Sì, in ogni caso.",
+        "correct": true
+      },
+      {
+        "text": "Sì, salvo eccezioni.",
+        "correct": false
+      },
+      {
+        "text": "No, salvo eccezioni.",
+        "correct": false
+      },
+      {
+        "text": "No, mai.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 86,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., il “fondo di riserva per le spese obbligatorie” è istituito:",
+    "answers": [
+      {
+        "text": "nello stato di previsione della spesa del Ministero dell'economia e delle finanze.",
+        "correct": true
+      },
+      {
+        "text": "nello stato di previsione della spesa del Ministero dello sviluppo economico.",
+        "correct": false
+      },
+      {
+        "text": "nello stato di previsione della spesa del Ministero dell’interno.",
+        "correct": false
+      },
+      {
+        "text": "nello stato di previsione dell’entrata del Ministero dell’economia e delle\nfinanze.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 87,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., un “fondo di riserva per le spese impreviste” è istituito:",
+    "answers": [
+      {
+        "text": "nello stato di previsione del Ministero\ndell'economia e delle finanze, nella parte corrente.",
+        "correct": true
+      },
+      {
+        "text": "nello stato di previsione del Ministero dell'economia e delle finanze, nella parte in conto capitale.",
+        "correct": false
+      },
+      {
+        "text": "nello stato di previsione del Ministero dello sviluppo economico, nella parte\ncorrente.",
+        "correct": false
+      },
+      {
+        "text": "nello stato di previsione del Ministero\ndell'economia e delle finanze, sia nella parte\ncorrente che nella parte in conto capitale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 88,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., e con specifico\nriferimento al “fondo di riserva per le spese impreviste”, quale, tra le seguenti affermazioni, è corretta?",
+    "answers": [
+      {
+        "text": "Il “fondo di riserva per le spese impreviste”\nprovvede ad eventuali deficienze delle\nassegnazioni di bilancio che non riguardino le\nspese obbligatorie e che, comunque, non impegnino i bilanci futuri con\ncarattere di continuità.",
+        "correct": true
+      },
+      {
+        "text": "Il “fondo di riserva per le spese impreviste” è istituito nella parte in conto capitale dello stato di previsione del Ministero dell'economia e delle finanze.",
+        "correct": false
+      },
+      {
+        "text": "La dotazione del “fondo di riserva per le spese impreviste” è aggiornata semestralmente con decreto del Ministro dell’economia e delle\nfinanze.",
+        "correct": false
+      },
+      {
+        "text": "Il “fondo di riserva per le spese impreviste” riguarda le spese che impegnino i bilanci futuri con carattere di continuità.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 89,
+    "text": "Secondo il disposto dell’art.33 della L. n. 196/2009 e ss.mm.ii., il Ministro dell'economia e delle\nfinanze presenta un disegno di legge ai fini dell'assestamento delle previsioni di bilancio\nformulate a legislazione vigente:",
+    "answers": [
+      {
+        "text": "entro il mese di giugno.",
+        "correct": true
+      },
+      {
+        "text": "entro il mese di novembre.",
+        "correct": false
+      },
+      {
+        "text": "entro il 30 aprile.",
+        "correct": false
+      },
+      {
+        "text": "entro il 30 settembre.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 90,
+    "text": "Ai sensi della L. n. 196/2009 e ss.mm.ii., gli stanziamenti di parte corrente non impegnati al termine dell'esercizio:",
+    "answers": [
+      {
+        "text": "costituiscono economie di bilancio, salvo che non sia diversamente previsto con legge.",
+        "correct": true
+      },
+      {
+        "text": "costituiscono economie di bilancio, sempre.",
+        "correct": false
+      },
+      {
+        "text": "non costituiscono economie di bilancio.",
+        "correct": false
+      },
+      {
+        "text": "costituiscono economie di ratei.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 91,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., è corretto affermare che sono comprese nel conto\ngenerale del patrimonio:",
+    "answers": [
+      {
+        "text": "le attività e le passività finanziarie e patrimoniali con le variazioni derivanti dalla gestione del bilancio.",
+        "correct": true
+      },
+      {
+        "text": "le spese di competenza dell'anno, impegnate, pagate o rimaste da pagare.",
+        "correct": false
+      },
+      {
+        "text": "le entrate di competenza dell'anno rimaste da\npagare.",
+        "correct": false
+      },
+      {
+        "text": "le somme versate in\ntesoreria e quelle pagate per ciascuna unità elementare di bilancio, ai fini della gestione e della rendicontazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 92,
+    "text": "“Il Ministro dell'economia e delle finanze, per cura del Ragioniere generale dello Stato, trasmette alla Corte dei conti il rendiconto generale dell'esercizio scaduto.”\nA norma della L. n. 196/2009 e ss.mm.ii., la predetta affermazione è:",
+    "answers": [
+      {
+        "text": "corretta.",
+        "correct": true
+      },
+      {
+        "text": "errata, poiché è il Presidente del Consiglio dei ministri che trasmette alla Corte dei conti il rendiconto generale\ndell'esercizio scaduto.",
+        "correct": false
+      },
+      {
+        "text": "errata, poiché è ciascun Ministero che, per cura del direttore del competente ufficio centrale del bilancio, trasmette alla Corte dei conti il rendiconto generale dell'esercizio scaduto.",
+        "correct": false
+      },
+      {
+        "text": "errata, poiché è il Presidente della\nRepubblica che trasmette alla Corte dei conti il rendiconto generale\ndell'esercizio scaduto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 93,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., la Corte dei conti,\nparificato il rendiconto generale, lo trasmette:",
+    "answers": [
+      {
+        "text": "al Ministro dell'economia e delle finanze per la successiva presentazione alle Camere.",
+        "correct": true
+      },
+      {
+        "text": "direttamente alle Camere.",
+        "correct": false
+      },
+      {
+        "text": "al Ministro dell'economia e delle finanze per la\nsuccessiva presentazione al Presidente della\nRepubblica.",
+        "correct": false
+      },
+      {
+        "text": "al Presidente del Consiglio dei ministri per la\nsuccessiva presentazione alle Camere.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 94,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., gli aggiornamenti del piano dei conti integrato sono adottati:",
+    "answers": [
+      {
+        "text": "con decreto del Ministro dell'economia e delle finanze.",
+        "correct": true
+      },
+      {
+        "text": "con decreto del Presidente del Consiglio dei Ministri.",
+        "correct": false
+      },
+      {
+        "text": "con decreto del Presidente della Corte dei conti.",
+        "correct": false
+      },
+      {
+        "text": "sono adottati con decreto del Presidente del\nDipartimento della Funzione pubblica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 95,
+    "text": "La Nota di aggiornamento del\nDocumento di economia e finanza (DEF), di cui alla L. n. 196/2009 e ss.mm.ii., viene presentata alle Camere:",
+    "answers": [
+      {
+        "text": "entro il 27 settembre di ogni anno.",
+        "correct": true
+      },
+      {
+        "text": "entro il 30 aprile di ogni anno.",
+        "correct": false
+      },
+      {
+        "text": "entro il 31 dicembre di ogni anno.",
+        "correct": false
+      },
+      {
+        "text": "decorsi tre mei dalla presentazione del\nDocumento di economia e finanza (DEF).",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 96,
+    "text": "Il disegno di legge di\nassestamento, di cui alla L. n. 196/2009 e ss.mm.ii., viene presentato alle Camere:",
+    "answers": [
+      {
+        "text": "entro il 30 giugno di ogni anno.",
+        "correct": true
+      },
+      {
+        "text": "entro il 10 aprile di ogni anno.",
+        "correct": false
+      },
+      {
+        "text": "entro il 31 dicembre di ogni anno.",
+        "correct": false
+      },
+      {
+        "text": "entro il 31 ottobre di ogni anno.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 97,
+    "text": "Secondo quanto statuito dalla L.\nn. 196/2009 e ss.mm.ii., quale, tra i seguenti strumenti di\nprogrammazione della finanza pubblica, deve essere presentato entro il 20 ottobre di ogni anno?",
+    "answers": [
+      {
+        "text": "Il disegno di legge del bilancio dello Stato.",
+        "correct": true
+      },
+      {
+        "text": "Il Documento di economia e finanza (DEF).",
+        "correct": false
+      },
+      {
+        "text": "La Nota di aggiornamento del Documento di\neconomia e finanza.",
+        "correct": false
+      },
+      {
+        "text": "Il disegno di legge di assestamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 98,
+    "text": "Secondo quanto statuito dalla L.\nn. 196/2009 e ss.mm.ii., quale, tra i seguenti strumenti di\nprogrammazione della finanza pubblica, deve essere presentato entro il 10 aprile di ogni anno?",
+    "answers": [
+      {
+        "text": "Il Documento di economia e finanza (DEF).",
+        "correct": true
+      },
+      {
+        "text": "Il disegno di legge del bilancio dello Stato.",
+        "correct": false
+      },
+      {
+        "text": "Il disegno di legge di assestamento.",
+        "correct": false
+      },
+      {
+        "text": "La Nota di aggiornamento del Documento di\neconomia e finanza.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 99,
+    "text": "La prima sezione del Documento di Economia e Finanza (DEF), di cui alla L. n. 196/2009 e ss.mm.ii., reca:",
+    "answers": [
+      {
+        "text": "lo schema del Programma di stabilità.",
+        "correct": true
+      },
+      {
+        "text": "lo schema dei Fondi\nstrutturali e di investimento.",
+        "correct": false
+      },
+      {
+        "text": "lo schema della\nSostenibilità finanziaria.",
+        "correct": false
+      },
+      {
+        "text": "lo schema del Programma di flessibilità.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 100,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., sono contenute nella prima sezione del Documento di Economia e Finanza (DEF):",
+    "answers": [
+      {
+        "text": "le previsioni di finanza\npubblica di lungo periodo e gli interventi che si intende adottare per\ngarantirne la sostenibilità.",
+        "correct": true
+      },
+      {
+        "text": "le previsioni tendenziali, almeno per il triennio successivo, del saldo di\ncassa del settore statale e le indicazioni sulle correlate modalità di copertura.",
+        "correct": false
+      },
+      {
+        "text": "i prevedibili effetti delle\nriforme proposte in termini di crescita dell'economia, di rafforzamento della\ncompetitività del sistema economico e di aumento dell'occupazione.",
+        "correct": false
+      },
+      {
+        "text": "le informazioni di dettaglio sui risultati e sulle\nprevisioni dei conti dei\nprincipali settori di spesa, almeno per il triennio\nsuccessivo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 101,
+    "text": "Ai sensi della L. n. 196/2009 e ss.mm.ii., la terza sezione del Documento di Economia e\nFinanza (DEF) indica, tra l’altro:",
+    "answers": [
+      {
+        "text": "gli squilibri\nmacroeconomici nazionali e i fattori di natura\nmacroeconomica che incidono sulla\ncompetitività.",
+        "correct": true
+      },
+      {
+        "text": "l’evoluzione economico- finanziaria internazionale, per l'anno in corso e per il periodo di riferimento.",
+        "correct": false
+      },
+      {
+        "text": "le previsioni per i principali aggregati del conto\neconomico delle\namministrazioni pubbliche.",
+        "correct": false
+      },
+      {
+        "text": "l'aggiornamento delle previsioni per l'anno in corso, evidenziando gli eventuali scostamenti rispetto al precedente Programma di stabilità.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 102,
+    "text": "Secondo quanto specificato dalla\nL. n. 196/2009 e ss.mm.ii., la seconda sezione del Documento di Economia e Finanza (DEF) contiene, tra l’altro:",
+    "answers": [
+      {
+        "text": "le previsioni tendenziali, almeno per il triennio successivo, del saldo di cassa del settore statale e le indicazioni sulle\ncorrelate modalità di copertura.",
+        "correct": true
+      },
+      {
+        "text": "il prodotto potenziale e gli indicatori strutturali\nprogrammatici del conto economico delle pubbliche amministrazioni per ciascun anno del periodo di riferimento.",
+        "correct": false
+      },
+      {
+        "text": "gli squilibri\nmacroeconomici nazionali e i fattori di natura\nmacroeconomica che\nincidono sulla competitività.",
+        "correct": false
+      },
+      {
+        "text": "le diverse ipotesi di evoluzione\ndell’indebitamento netto e del debito rispetto a scenari di previsione\nalternativi riferiti al tasso di crescita del prodotto interno lordo, della\nstruttura dei tassi di interesse e del saldo\nprimario.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 103,
+    "text": "“Le diverse ipotesi di evoluzione dell’indebitamento netto e del debito rispetto a scenari di\nprevisione alternativi riferiti al tasso di crescita del prodotto\ninterno lordo, della struttura dei tassi di interesse e del saldo\nprimario, sono contenute nella Nota di aggiornamento al\nDocumento di economia e finanza (DEF).” A norma della L. n.\n196/2009 e ss.mm.ii., quanto precedentemente affermato è:",
+    "answers": [
+      {
+        "text": "Errato, poiché le diverse ipotesi di evoluzione\ndell’indebitamento netto e del debito rispetto a scenari di previsione alternativi riferiti al tasso di crescita del prodotto interno lordo, della\nstruttura dei tassi di interesse e del saldo\nprimario, sono contenute nella prima sezione del Documento di Economia e Finanza (DEF).",
+        "correct": true
+      },
+      {
+        "text": "Corretto.",
+        "correct": false
+      },
+      {
+        "text": "Errato, poiché le diverse ipotesi di evoluzione dell’indebitamento netto e del debito rispetto a scenari di previsione\nalternativi riferiti al tasso di crescita del prodotto interno lordo, della\nstruttura dei tassi di interesse e del saldo\nprimario, sono contenute nella terza sezione del\nDocumento di Economia e Finanza (DEF).",
+        "correct": false
+      },
+      {
+        "text": "Errato, poiché le diverse ipotesi di evoluzione dell’indebitamento netto e del debito rispetto a scenari di previsione\nalternativi riferiti al tasso di crescita del prodotto interno lordo, della\nstruttura dei tassi di interesse e del saldo\nprimario, sono contenute nella seconda sezione del Documento di Economia e Finanza (DEF), salvo le eccezioni previste dalla\nnormativa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 104,
+    "text": "“Il bilancio dello Stato\nrappresenta una entità giuridica unica e unitaria, articolata in uno stato di previsione dell'entrata e tanti stati di previsione della spesa corrispondenti al numero dei Ministeri, e, il bilancio di\nprevisione e il Rendiconto\ngenerale dello Stato non possono essere articolati in maniera tale da destinare alcune entrate alla copertura solo di determinate e specifiche spese, salvo diversa disposizione legislativa. Il totale delle entrate finanzia nel suo\ncomplesso le amministrazioni e sostiene la totalità delle spese durante la gestione.” Secondo quanto disciplinato dalla L. n.\n196/2009 e ss.mm.ii., quanto precedentemente affermato è\nnoto come:",
+    "answers": [
+      {
+        "text": "principio dell’unità.",
+        "correct": true
+      },
+      {
+        "text": "principio dell'integrità.",
+        "correct": false
+      },
+      {
+        "text": "principio della veridicità.",
+        "correct": false
+      },
+      {
+        "text": "principio della omogeneità.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 105,
+    "text": "“Il sistema di bilancio comprende tutte le finalità e gli obiettivi di\ngestione, nonché i relativi valori finanziari, economici e\npatrimoniali riconducibili a ciascuno stato di previsione, al fine di fornire una\nrappresentazione veritiera e\ncorretta della complessa attività amministrativa svolta\nnell'esercizio di riferimento.” Secondo quanto disciplinato dalla\nL. n. 196/2009 e ss.mm.ii., quanto precedentemente affermato è\nnoto come:",
+    "answers": [
+      {
+        "text": "principio dell'universalità.",
+        "correct": true
+      },
+      {
+        "text": "principio dell'attendibilità.",
+        "correct": false
+      },
+      {
+        "text": "principio dell’unità.",
+        "correct": false
+      },
+      {
+        "text": "principio dell'integrità.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 106,
+    "text": "Il principio della veridicità, uno dei principi contabili generali di cui all’allegato 1 della L. n. 196/2009 e ss.mm.ii., è integrato:",
+    "answers": [
+      {
+        "text": "dai principi di attendibilità e correttezza.",
+        "correct": true
+      },
+      {
+        "text": "dai principi di unità e prudenza.",
+        "correct": false
+      },
+      {
+        "text": "dai principi di congruità e correttezza.",
+        "correct": false
+      },
+      {
+        "text": "dai principi di flessibilità e universalità.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 107,
+    "text": "Ai sensi dell’allegato 1 della L. n. 196/2009 e ss.mm.ii., quale, tra i seguenti principi contabili,\ncostituisce il criterio di\nimputazione agli esercizi finanziari delle obbligazioni giuridicamente perfezionate attive e passive (accertamenti e impegni)?",
+    "answers": [
+      {
+        "text": "Il principio della\ncompetenza finanziaria.",
+        "correct": true
+      },
+      {
+        "text": "Il principio della\ncompetenza economica.",
+        "correct": false
+      },
+      {
+        "text": "Il principio della verificabilità.",
+        "correct": false
+      },
+      {
+        "text": "Il principio del pareggio di bilancio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 108,
+    "text": "Il principio della prevalenza della sostanza sulla forma, uno dei\nprincipi contabili generali di cui all’allegato 1 della L. n. 196/2009 e ss.mm.ii., costituisce una specificazione del:",
+    "answers": [
+      {
+        "text": "principio della veridicità.",
+        "correct": true
+      },
+      {
+        "text": "principio della verificabilità.",
+        "correct": false
+      },
+      {
+        "text": "principio dell’integrità.",
+        "correct": false
+      },
+      {
+        "text": "principio della coerenza.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 109,
+    "text": "Relativamente a quanto specificato dal Capo II (Le entrate e le spese dello Stato) della L. n. 196/2009 e ss.mm.ii., è corretto affermare che le spese per\ncompetenze fisse ed accessorie relative al personale:",
+    "answers": [
+      {
+        "text": "sono imputate alla\ncompetenza del bilancio\ndell'anno finanziario in cui vengono disposti i relativi pagamenti.",
+        "correct": true
+      },
+      {
+        "text": "non possono essere imputate alla competenza del bilancio dell’anno\nfinanziario in cui vengono disposti i relativi pagamenti.",
+        "correct": false
+      },
+      {
+        "text": "sono imputate alla\ncompetenza del bilancio dell’anno finanziario precedente a quello in cui vengono disposti i relativi pagamenti.",
+        "correct": false
+      },
+      {
+        "text": "sono imputate alla\ncompetenza del bilancio dell’anno finanziario\nsuccessivo a quello in cui vengono disposti i relativi pagamenti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 110,
+    "text": "A norma dell’allegato 1 della L. n. 196/2009 e ss.mm.ii., quale, tra i seguenti principi, si fonda sul presupposto che ogni sistema contabile deve rispondere alla caratteristica di durare nel\ntempo?",
+    "answers": [
+      {
+        "text": "Il principio della continuità.",
+        "correct": true
+      },
+      {
+        "text": "Il principio della coerenza.",
+        "correct": false
+      },
+      {
+        "text": "Il principio della congruità.",
+        "correct": false
+      },
+      {
+        "text": "Il principio della certezza.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 111,
+    "text": "Così come disciplinato dal D.P.R.\nn. 97/2003 e ss.mm.ii., quella parte di costi e di ricavi di\ncompetenza dell'esercizio la cui manifestazione finanziaria, in\ntermini di impegno e\naccertamento, si verificherà nel(i)\nprossimo(i) esercizio(i) (ratei), sono iscritti:",
+    "answers": [
+      {
+        "text": "nel conto economico.",
+        "correct": true
+      },
+      {
+        "text": "nel conto di bilancio.",
+        "correct": false
+      },
+      {
+        "text": "nella nota integrativa.",
+        "correct": false
+      },
+      {
+        "text": "nello stato patrimoniale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 112,
+    "text": "Così come specificato dal D.P.R.\nn. 97/2003 e ss.mm.ii., le UPB di 1° livello delle entrate sono\nripartite in capitoli:",
+    "answers": [
+      {
+        "text": "secondo il rispettivo oggetto ai fini della gestione e della rendicontazione.",
+        "correct": true
+      },
+      {
+        "text": "secondo la specifica natura dei cespiti.",
+        "correct": false
+      },
+      {
+        "text": "secondo il rispettivo ammontare e la specifica natura economica.",
+        "correct": false
+      },
+      {
+        "text": "a seconda che il gettito derivi dalla gestione\ncorrente, in conto capitale o dalle partite di giro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 113,
+    "text": "Le UPB di 1° livello delle entrate, di cui al D.P.R. n. 97/2003 e ss.mm.ii., sono ripartite in\ncategorie (UP di 4° livello):",
+    "answers": [
+      {
+        "text": "secondo la specifica natura dei cespiti.",
+        "correct": true
+      },
+      {
+        "text": "secondo il rispettivo oggetto ai fini della gestione e della rendicontazione.",
+        "correct": false
+      },
+      {
+        "text": "secondo il rispettivo ammontare e la specifica natura economica.",
+        "correct": false
+      },
+      {
+        "text": "a seconda che il gettito derivi dalla gestione\ncorrente, in conto capitale o dalle partite di giro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 114,
+    "text": "Le UPB di 1° livello delle entrate, di cui al D.P.R. n. 97/2003 e ss.mm.ii., sono ripartite in titoli (UP di 2° livello):",
+    "answers": [
+      {
+        "text": "a seconda che il gettito derivi dalla gestione\ncorrente, in conto capitale o dalle partite di giro.",
+        "correct": true
+      },
+      {
+        "text": "secondo la specifica natura dei cespiti.",
+        "correct": false
+      },
+      {
+        "text": "secondo il rispettivo oggetto ai fini della gestione e della rendicontazione.",
+        "correct": false
+      },
+      {
+        "text": "secondo il rispettivo ammontare e la specifica natura economica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 115,
+    "text": "A norma dell’art. 68 (“Agenti della riscossione”) del D.P.R. n.\n97/2003 e ss.mm.ii., è corretto affermare che:",
+    "answers": [
+      {
+        "text": "sono agenti della riscossione coloro che, a norma di apposite\ndisposizioni, sono incaricati di riscuotere entrate di qualunque natura e provenienza e tutti coloro che, anche senza legale\nautorizzazione, si\ningeriscono negli incarichi anzidetti e riscuotono\nsomme di spettanza\ndell'ente.",
+        "correct": true
+      },
+      {
+        "text": "le modalità di riscossione si basano tra l'altro sul\nprincipio che le somme\nriscosse dagli incaricati alla riscossione devono essere versate al tesoriere o cassiere dell'ente non oltre il terzo giorno lavorativo\nsuccessivo.",
+        "correct": false
+      },
+      {
+        "text": "non possono essere considerati agenti della riscossione coloro che, senza legale\nautorizzazione, riscuotono somme di spettanza\ndell'ente.",
+        "correct": false
+      },
+      {
+        "text": "sono agenti della\nriscossione coloro che, in virtù di una legale\nautorizzazione, sono incaricati di riscuotere entrate di qualunque natura e provenienza.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 116,
+    "text": "Le UPB di 1° livello delle uscite, di cui al D.P.R. n. 97/2003 e ss.mm.ii., sono ripartite in:",
+    "answers": [
+      {
+        "text": "funzioni – obiettivo, titoli, unità previsionali di 3° livello, categorie e capitoli.",
+        "correct": true
+      },
+      {
+        "text": "funzioni-obiettivo, titoli, unità previsionali di 2° livello e capitoli.",
+        "correct": false
+      },
+      {
+        "text": "funzioni-obiettivo, categorie e capitoli e articoli.",
+        "correct": false
+      },
+      {
+        "text": "funzioni-obiettivo, categorie e articoli.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 117,
+    "text": "Le UPB di 1° livello delle entrate, di cui al D.P.R. n. 97/2003 e ss.mm.ii., sono ripartite in:",
+    "answers": [
+      {
+        "text": "titoli, unità previsionali di 3° livello, categorie e\ncapitoli.",
+        "correct": true
+      },
+      {
+        "text": "articoli, unità previsionali di 2° livello, categorie e capitoli.",
+        "correct": false
+      },
+      {
+        "text": "unità previsionali di 3° livello, funzioni-obiettivo, categorie e capitoli.",
+        "correct": false
+      },
+      {
+        "text": "titoli, funzioni-obiettivo, categorie e capitoli.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 118,
+    "text": "A norma del D.P.R. n. 97/2003 e ss.mm.ii. e specifico con\nriferimento alla figura del\n“tesoriere”, quale, tra le seguenti affermazioni, è errata?",
+    "answers": [
+      {
+        "text": "Previa sottoscrizione di una convenzione con l'ente, provvede a\nriscuoterne le entrate ed a pagarne le spese senza alcuna corresponsabilità nella gestione delle risorse.",
+        "correct": true
+      },
+      {
+        "text": "Gestisce le risorse numerarie sulla base del bilancio di previsione approvato e delle delibere di variazione debitamente esecutive.",
+        "correct": false
+      },
+      {
+        "text": "Alla fine dell'esercizio deve rendere all'ente il conto della propria gestione di cassa e, previo concordamento, lo deve\ntrasmettere alla\ncompetente sezione\ngiurisdizionale della Corte dei conti per il discarico.",
+        "correct": false
+      },
+      {
+        "text": "Può eseguire pagamenti solo entro i limiti di\nstanziamento dei capitoli.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 119,
+    "text": "Come viene definita, a norma del\nD.P.R. n. 97/2003 e ss.mm.ii., quella parte di costo e di ricavo di competenza dell'esercizio la cui manifestazione finanziaria, in\ntermini di impegno e\naccertamento, si verificherà nel(i) prossimo(i) esercizio(i)?",
+    "answers": [
+      {
+        "text": "Rateo.",
+        "correct": true
+      },
+      {
+        "text": "Risconto.",
+        "correct": false
+      },
+      {
+        "text": "Plusvalenza.",
+        "correct": false
+      },
+      {
+        "text": "Residuo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 120,
+    "text": "Secondo quanto specificato dal\nD.P.R. n. 97/2003 e ss.mm.ii., quella parte di costi e di ricavi ad utilità differita (risconti), sono\niscritti:",
+    "answers": [
+      {
+        "text": "nel conto economico.",
+        "correct": true
+      },
+      {
+        "text": "nel conto di bilancio.",
+        "correct": false
+      },
+      {
+        "text": "nella nota integrativa.",
+        "correct": false
+      },
+      {
+        "text": "nello stato patrimoniale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 121,
+    "text": "L’unità previsionale di base (U.P.B.), di cui D.P.R. n. 97/2003 e\nss.mm.ii., è definita come:",
+    "answers": [
+      {
+        "text": "insieme organico di risorse finanziarie affidate alla\ngestione di un unico centro di responsabilità.",
+        "correct": true
+      },
+      {
+        "text": "la somma algebrica tra il fondo di cassa (o deficit di cassa), residui attivi e residui passivi.",
+        "correct": false
+      },
+      {
+        "text": "un aumento di valori numerari certi, assimilati e presunti attivi.",
+        "correct": false
+      },
+      {
+        "text": "una diminuzione di valori numerari certi, assimilati e presunti attivi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 122,
+    "text": "A norma del D.P.R. n. 97/2003 e ss.mm.ii., la gestione finanziaria degli enti pubblici nazionali, di cui alla L. n. 70/1975, si svolge in base al bilancio di previsione, deliberato dall'organo di vertice:",
+    "answers": [
+      {
+        "text": "entro il 31 ottobre, salvo diverso termine previsto da norme di legge o da disposizione statutaria.",
+        "correct": true
+      },
+      {
+        "text": "entro il 30 settembre, salvo diverso termine previsto da norme di legge o da disposizione statutaria.",
+        "correct": false
+      },
+      {
+        "text": "entro il 31 luglio, salvo diverso termine previsto da norme di legge o da disposizione statutaria.",
+        "correct": false
+      },
+      {
+        "text": "entro il 30 giugno, salvo diverso termine previsto da norme di legge o da disposizione statutaria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 123,
+    "text": "Con riferimento alla relazione programmatica, di cui al D.P.R. n. 97/2003 e ss.mm.ii., quale, tra le\nseguenti affermazioni, è corretta?",
+    "answers": [
+      {
+        "text": "La relazione\nprogrammatica è\naccompagnata da un piano pluriennale (di norma\ntriennale).",
+        "correct": true
+      },
+      {
+        "text": "La relazione\nprogrammatica è redatta ogni due anni dall'organo di vertice ed è aggiornata semestralmente.",
+        "correct": false
+      },
+      {
+        "text": "La relazione\nprogrammatica deve essere redatta dal\ncompetente organo di vertice non oltre il 30 settembre.",
+        "correct": false
+      },
+      {
+        "text": "La relazione\nprogrammatica è redatta ogni tre anni dall'organo di vertice ed è aggiornata annualmente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 124,
+    "text": "A norma del D.P.R. n. 97/2003 e ss.mm.ii., il bilancio pluriennale degli enti pubblici nazionali, di cui alla L. n. 70/1975, è redatto:",
+    "answers": [
+      {
+        "text": "solo in termini di competenza per un\nperiodo non inferiore al triennio in relazione alle strategie ed al piano\npluriennale approvati dagli organi di vertice.",
+        "correct": true
+      },
+      {
+        "text": "solo in termini di cassa per un periodo non inferiore al triennio in relazione alle\nstrategie ed al piano\npluriennale approvati dagli organi di vertice.",
+        "correct": false
+      },
+      {
+        "text": "in termini di competenza e di cassa per un periodo non inferiore al\nquinquennio in relazione alle strategie ed al piano pluriennale approvati dagli organi di vertice.",
+        "correct": false
+      },
+      {
+        "text": "in termini di competenza e di cassa per un periodo non inferiore al triennio in relazione alle strategie ed al piano pluriennale approvati dagli organi di vertice.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 125,
+    "text": "Secondo quanto specificato dal\nD.P.R. n. 97/2003 e ss.mm.ii. e con riferimento al bilancio\npluriennale, quale, tra le seguenti affermazioni, è corretta?",
+    "answers": [
+      {
+        "text": "Il bilancio pluriennale è allegato al bilancio di\nprevisione dell'ente e non ha valore autorizzativo.",
+        "correct": true
+      },
+      {
+        "text": "Il bilancio pluriennale è redatto in termini di\ncompetenza e di cassa per un periodo non inferiore al triennio.",
+        "correct": false
+      },
+      {
+        "text": "Il bilancio pluriennale è redatto solo in termini di cassa per un periodo non inferiore al triennio.",
+        "correct": false
+      },
+      {
+        "text": "Il bilancio pluriennale è semestralmente\naggiornato in occasione della presentazione del bilancio di previsione e forma oggetto di approvazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 126,
+    "text": "“Il bilancio pluriennale è allegato alla relazione programmatica dell'ente e ha valore\nautorizzativo”. A norma dell’art. 8 del D.P.R. n. 97/2003 e ss.mm.ii., quanto affermato è:",
+    "answers": [
+      {
+        "text": "errato, poiché il bilancio pluriennale è allegato al bilancio di previsione\ndell’ente e non ha valore autorizzativo.",
+        "correct": true
+      },
+      {
+        "text": "corretto.",
+        "correct": false
+      },
+      {
+        "text": "errato, poiché il bilancio pluriennale è allegato alla relazione programmatica dell’ente e non ha valore autorizzativo.",
+        "correct": false
+      },
+      {
+        "text": "errato, poiché il bilancio pluriennale è allegato al bilancio di previsione dell’ente e ha valore autorizzativo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 127,
+    "text": "“Il bilancio pluriennale è redatto solo in termini di competenza per un periodo non inferiore al\ntriennio”. Ai sensi dell’art. 8 del\nD.P.R. n. 97/2003 e ss.mm.ii., quanto affermato è:",
+    "answers": [
+      {
+        "text": "corretto.",
+        "correct": true
+      },
+      {
+        "text": "errato, poiché è redatto in termini di competenza e di cassa per un periodo non inferiore al triennio.",
+        "correct": false
+      },
+      {
+        "text": "errato, poiché è redatto\nsolo in termini di cassa per un periodo non inferiore al triennio.",
+        "correct": false
+      },
+      {
+        "text": "errato, poiché è redatto in termini di competenza e di cassa per un periodo non inferiore al biennio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 128,
+    "text": "Secondo quanto specificato dal\nD.P.R. n. 97/2003 e ss.mm.ii., entro quale termine i titolari dei centri di responsabilità\ncomunicano al direttore generale ed al servizio ragioneria, tutti gli elementi relativi agli obiettivi da conseguire, nonché i fabbisogni finanziari, anche in termini di\ncontabilità analitica?",
+    "answers": [
+      {
+        "text": "Entro il 31 luglio.",
+        "correct": true
+      },
+      {
+        "text": "Entro il 30 giugno.",
+        "correct": false
+      },
+      {
+        "text": "Entro il 31 ottobre.",
+        "correct": false
+      },
+      {
+        "text": "Entro il 30 aprile.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 129,
+    "text": "A norma del D.P.R. n. 97/2003 e ss.mm.ii., le previsioni\nsull'andamento delle entrate e delle uscite per ciascuno degli esercizi compresi nel bilancio pluriennale, sono definite:",
+    "answers": [
+      {
+        "text": "nell'allegato tecnico al preventivo finanziario decisionale.",
+        "correct": true
+      },
+      {
+        "text": "nell'allegato tecnico al preventivo finanziario gestionale.",
+        "correct": false
+      },
+      {
+        "text": "nell’allegato tecnico alla relazione programmatica.",
+        "correct": false
+      },
+      {
+        "text": "nell'allegato tecnico al preventivo economico gestionale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 130,
+    "text": "“I criteri di valutazione adottati per la formulazione delle\nprevisioni, con particolare\nriguardo alla spesa corrente di carattere discrezionale, sono definiti nell'allegato tecnico al preventivo economico\ngestionale”. A norma del D.P.R. n. 97/2003 e ss.mm.ii., quanto\naffermato è:",
+    "answers": [
+      {
+        "text": "errato, poiché i criteri di valutazione adottati per la formulazione delle\nprevisioni, con particolare riguardo alla spesa\ncorrente di carattere\ndiscrezionale, sono definiti nell'allegato tecnico al\npreventivo finanziario\ndecisionale.",
+        "correct": true
+      },
+      {
+        "text": "corretto.",
+        "correct": false
+      },
+      {
+        "text": "errato, poiché i criteri di valutazione adottati per la formulazione delle\nprevisioni, con particolare riguardo alla spesa\ncorrente di carattere discrezionale, sono definiti nell'allegato tecnico al preventivo al preventivo\neconomico consolidato.",
+        "correct": false
+      },
+      {
+        "text": "errato, poiché i criteri di valutazione adottati per la formulazione delle\nprevisioni, con particolare riguardo alla spesa\ncorrente di carattere discrezionale, sono definiti nell'allegato tecnico alla relazione programmatica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 131,
+    "text": "Ai sensi del D.P.R. n. 97/2003 e ss.mm.ii., quale, tra i seguenti documenti, è costituito dalla\nsomma dei budget economici dei centri di responsabilità di 1° livello?",
+    "answers": [
+      {
+        "text": "Il preventivo economico.",
+        "correct": true
+      },
+      {
+        "text": "Il preventivo finanziario.",
+        "correct": false
+      },
+      {
+        "text": "Il conto del bilancio consolidato.",
+        "correct": false
+      },
+      {
+        "text": "Il quadro generale\nriassuntivo della gestione finanziaria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 132,
+    "text": "A norma dell’art. 17 del D.P.R. n. 97/2003 e ss.mm.ii., i prelievi dal fondo di riserva per le spese impreviste sono effettuati:",
+    "answers": [
+      {
+        "text": "con un apposito\nprovvedimento del\ndirettore generale fino al 30 novembre di ciascun anno.",
+        "correct": true
+      },
+      {
+        "text": "con un apposito\nprovvedimento del direttore generale fino al 30\nsettembre di ciascun anno.",
+        "correct": false
+      },
+      {
+        "text": "con un apposito\nprovvedimento del Collegio dei revisori fino al 30 aprile di ciascun anno.",
+        "correct": false
+      },
+      {
+        "text": "con un apposito provvedimento del\nCollegio dei revisori fino al 30 settembre di ciascun anno.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 133,
+    "text": "Secondo quanto statuito dal\nD.P.R. n. 97/2003 e ss.mm.ii., gli accantonamenti al fondo rischi ed oneri, per spese future e per\nripristino investimenti, stimate per un importo diverso da zero, presentano:",
+    "answers": [
+      {
+        "text": "previsioni di sola competenza.",
+        "correct": true
+      },
+      {
+        "text": "previsioni di sola cassa.",
+        "correct": false
+      },
+      {
+        "text": "previsioni di sola cassa, salvo le eccezioni previste dalla normativa.",
+        "correct": false
+      },
+      {
+        "text": "previsioni di competenza e di cassa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 134,
+    "text": "A norma dell’art. 20 comma 1 del\nD.P.R. n. 97/2003 e ss.mm.ii., entro quale termine è deliberato l’assestamento del bilancio di previsione secondo le procedure e le norme previste per la relativa approvazione?",
+    "answers": [
+      {
+        "text": "entro il termine del 30 luglio di ciascun anno.",
+        "correct": true
+      },
+      {
+        "text": "entro il termine del 30 giugno di ciascun anno.",
+        "correct": false
+      },
+      {
+        "text": "entro il termine del 31 maggio di ciascun anno.",
+        "correct": false
+      },
+      {
+        "text": "entro il termine del 30 aprile di ciascun anno.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 135,
+    "text": "Ai sensi del D.P.R. n. 97/2003 e ss.mm.ii. e con riferimento al bilancio di previsione, è corretto affermare che:",
+    "answers": [
+      {
+        "text": "sono vietati gli storni nella gestione dei residui, nonché tra la gestione dei residui e quella di\ncompetenza o viceversa.",
+        "correct": true
+      },
+      {
+        "text": "sono ammessi gli storni nella gestione dei residui,\nnonché tra la gestione dei residui e quella di\ncompetenza o viceversa.",
+        "correct": false
+      },
+      {
+        "text": "sono ammessi gli storni nella gestione dei residui,\nnonché tra la gestione dei residui e quella di\ncompetenza o viceversa, salvo eventuali casi eccezionali da motivare.",
+        "correct": false
+      },
+      {
+        "text": "sono ammessi gli storni nella gestione dei residui, mentre sono ammessi gli storni tra la gestione dei residui e quella di\ncompetenza o viceversa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 136,
+    "text": "Ai sensi del D.P.R. n. 97/2003 e ss.mm.ii., come è chiamata la fase del procedimento di spesa con\ncui, in base ai documenti ed ai\ntitoli atti a comprovare il diritto del creditore, si determina la somma da pagare nei limiti\ndell'ammontare dell'impegno\ndefinitivo assunto?",
+    "answers": [
+      {
+        "text": "Liquidazione.",
+        "correct": true
+      },
+      {
+        "text": "Ordinazione.",
+        "correct": false
+      },
+      {
+        "text": "Impegno.",
+        "correct": false
+      },
+      {
+        "text": "Accertamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 137,
+    "text": "Ai sensi del D.P.R. n. 97/2003 e ss.mm.ii., il rendiconto generale è deliberato dall'organo di vertice:",
+    "answers": [
+      {
+        "text": "entro il mese di aprile successivo alla chiusura dell'esercizio finanziario, salvo diverso termine\nprevisto da norma di legge o da disposizione\nstatutaria.",
+        "correct": true
+      },
+      {
+        "text": "entro il mese di giugno successivo alla chiusura dell'esercizio finanziario, salvo diverso termine\nprevisto da norma di legge o da disposizione statutaria.",
+        "correct": false
+      },
+      {
+        "text": "in ogni caso, entro il 31 dicembre dell’anno di chiusura dell’esercizio finanziario, senza eccezioni.",
+        "correct": false
+      },
+      {
+        "text": "in ogni caso, entro il mese di novembre successivo alla chiusura dell'esercizio finanziario.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 138,
+    "text": "Secondo quanto specificato dal\nD.P.R. n. 97/2003 e ss.mm.ii., quale, tra i seguenti documenti, in relazione alla classificazione del preventivo finanziario, evidenzia le risultanze della gestione delle\nentrate e delle uscite?",
+    "answers": [
+      {
+        "text": "Il conto del bilancio.",
+        "correct": true
+      },
+      {
+        "text": "Il conto economico.",
+        "correct": false
+      },
+      {
+        "text": "La nota integrativa.",
+        "correct": false
+      },
+      {
+        "text": "Il preventivo economico.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 139,
+    "text": "Il rendiconto generale, di cui all’art.38 del D.P.R. n. 97/2003 e ss.mm.ii., è costituito:",
+    "answers": [
+      {
+        "text": "dal conto di bilancio, dal conto economico, dallo stato patrimoniale e dalla nota integrativa.",
+        "correct": true
+      },
+      {
+        "text": "dal conto di bilancio, dal conto economico, dallo stato patrimoniale e dalla relazione programmatica.",
+        "correct": false
+      },
+      {
+        "text": "dal conto di bilancio, dal conto economico, il prospetto degli impegni per missioni, programmi e macroaggregati.",
+        "correct": false
+      },
+      {
+        "text": "dal conto di bilancio, dal preventivo economico e dallo stato patrimoniale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 140,
+    "text": "Secondo quanto specificato dal\nD.P.R. n. 97/2003 e ss.mm.ii., compongono l'attivo dello stato patrimoniale:",
+    "answers": [
+      {
+        "text": "le immobilizzazioni, l'attivo circolante, i ratei e i risconti attivi.",
+        "correct": true
+      },
+      {
+        "text": "le immobilizzazioni, i ratei, i risconti attivi e i\ntrasferimenti correnti.",
+        "correct": false
+      },
+      {
+        "text": "l'attivo circolante, i ratei, i risconti attivi e i proventi finanziari.",
+        "correct": false
+      },
+      {
+        "text": "l'attivo circolante, i ratei, i risconti attivi e le plusvalenze da alienazioni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 141,
+    "text": "Con riferimento allo stato patrimoniale del rendiconto generale, di cui all’art. 42 del\nD.P.R. n. 97/2003 e ss.mm.ii.,\ncompongono il passivo dello stato patrimoniale, tra l’altro:",
+    "answers": [
+      {
+        "text": "i fondi per rischi e oneri.",
+        "correct": true
+      },
+      {
+        "text": "le immobilizzazioni.",
+        "correct": false
+      },
+      {
+        "text": "le partecipazioni.",
+        "correct": false
+      },
+      {
+        "text": "le rimanenze.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 142,
+    "text": "Relativamente allo stato patrimoniale del rendiconto\ngenerale, di cui all’art. 42 del\nD.P.R. n. 97/2003 e ss.mm.ii.,\ncompongono il passivo dello stato patrimoniale, tra l’altro:",
+    "answers": [
+      {
+        "text": "il patrimonio netto.",
+        "correct": true
+      },
+      {
+        "text": "le immobilizzazioni finanziarie.",
+        "correct": false
+      },
+      {
+        "text": "le disponibilità liquide.",
+        "correct": false
+      },
+      {
+        "text": "le anticipazioni di durata superiore all’anno.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 143,
+    "text": "Secondo quanto specificato dal\nD.P.R. n. 97/2003 e ss.mm.ii. e con specifico riferimento allo\nstato patrimoniale del rendiconto generale, l’attivo circolante\ncomprende, tra l’altro:",
+    "answers": [
+      {
+        "text": "le rimanenze.",
+        "correct": true
+      },
+      {
+        "text": "il patrimonio netto.",
+        "correct": false
+      },
+      {
+        "text": "le immobilizzazioni immateriali.",
+        "correct": false
+      },
+      {
+        "text": "le immobilizzazioni finanziarie.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 144,
+    "text": "Secondo quanto specificato dal\nD.P.R. n. 97/2003 e ss.mm.ii. e con specifico riferimento allo stato patrimoniale, gli elementi patrimoniali dell'attivo sono esposti:",
+    "answers": [
+      {
+        "text": "al netto dei fondi\nammortamento o dei fondi di svalutazione.",
+        "correct": true
+      },
+      {
+        "text": "al lordo dei fondi\nammortamento o dei fondi di svalutazione.",
+        "correct": false
+      },
+      {
+        "text": "al lordo dei fondi\nammortamento e al netto dei fondi di svalutazione, salvo eventuali casi eccezionali da motivare.",
+        "correct": false
+      },
+      {
+        "text": "al netto dei fondi\nammortamento e al netto dei fondi di svalutazione, salvo eventuali casi eccezionali da motivare.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 145,
+    "text": "Secondo il disposto del D.P.R. n. 97/2003 e ss.mm.ii., il bilancio di previsione in forma abbreviata si compone…",
+    "answers": [
+      {
+        "text": "di tre documenti: il\npreventivo finanziario gestionale, il quadro\ngenerale riassuntivo della gestione finanziaria e il\npreventivo economico in forma abbreviata.",
+        "correct": true
+      },
+      {
+        "text": "di tre documenti: il preventivo finanziario gestionale in forma abbreviata, il conto\neconomico e il preventivo economico.",
+        "correct": false
+      },
+      {
+        "text": "di due documenti: il preventivo finanziario decisionale in forma abbreviata e il preventivo economico.",
+        "correct": false
+      },
+      {
+        "text": "di due documenti: il preventivo finanziario gestionale in forma\nabbreviata e il preventivo economico.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 146,
+    "text": "Secondo quanto specificato dal\nD.P.R. n. 97/2003 e ss.mm.ii., sono considerati allegati al bilancio di previsione in forma abbreviata:",
+    "answers": [
+      {
+        "text": "la relazione\nprogrammatica, la tabella dimostrativa del presunto risultato di\namministrazione e la relazione del collegio dei revisori dei conti.",
+        "correct": true
+      },
+      {
+        "text": "esclusivamente la relazione programmatica e la relazione del collegio dei revisori dei conti.",
+        "correct": false
+      },
+      {
+        "text": "la relazione\nprogrammatica, il conto economico e la relazione del collegio dei revisori dei conti.",
+        "correct": false
+      },
+      {
+        "text": "la relazione\nprogrammatica, bilancio pluriennale e la relazione del collegio dei revisori dei conti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 147,
+    "text": "“Sono considerati allegati al bilancio di previsione in forma abbreviata la relazione\nprogrammatica, la tabella\ndimostrativa del presunto risultato di amministrazione e la relazione del collegio dei revisori dei conti.” Secondo quanto specificato dal\nD.P.R. n. 97/2003 e ss.mm.ii., quanto precedentemente\naffermato è:",
+    "answers": [
+      {
+        "text": "corretto.",
+        "correct": true
+      },
+      {
+        "text": "errato, poiché sono considerati allegati al bilancio di previsione in forma abbreviata esclusivamente la tabella dimostrativa del presunto\nrisultato di amministrazione e la relazione del collegio dei revisori dei conti.",
+        "correct": false
+      },
+      {
+        "text": "errato, poiché sono considerati allegati al bilancio di previsione in\nforma abbreviata il bilancio pluriennale, la tabella dimostrativa del presunto\nrisultato di amministrazione e la relazione del collegio dei revisori dei conti.",
+        "correct": false
+      },
+      {
+        "text": "errato, poiché sono considerati allegati al bilancio di previsione in\nforma abbreviata il bilancio pluriennale, la relazione programmatica e la relazione del collegio dei revisori dei conti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 148,
+    "text": "A norma del D.P.R. n. 97/2003 e ss.mm.ii., gli enti pubblici\nnazionali, di cui alla L. n. 70/1975, provvedono alla ricognizione dei beni mobili:",
+    "answers": [
+      {
+        "text": "ogni cinque anni.",
+        "correct": true
+      },
+      {
+        "text": "ogni sette anni.",
+        "correct": false
+      },
+      {
+        "text": "ogni tre anni.",
+        "correct": false
+      },
+      {
+        "text": "ogni dieci anni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 149,
+    "text": "A norma del D.P.R. n. 97/2003 e ss.mm.ii., gli enti pubblici\nnazionali, di cui alla L. n. 70/1975, provvedono alla ricognizione dei beni immobili:",
+    "answers": [
+      {
+        "text": "ogni dieci anni.",
+        "correct": true
+      },
+      {
+        "text": "ogni quindici anni.",
+        "correct": false
+      },
+      {
+        "text": "ogni venti anni.",
+        "correct": false
+      },
+      {
+        "text": "ogni cinque anni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 150,
+    "text": "Secondo quanto disciplinato dall’art.92 del D.P.R. n. 97/2003 e ss.mm.ii., le spese di\nrappresentanza sono impegnate:",
+    "answers": [
+      {
+        "text": "dal presidente o dal direttore generale\ndell'ente nell'ambito delle rispettive competenze.",
+        "correct": true
+      },
+      {
+        "text": "dal tesoriere o cassiere dell'ente.",
+        "correct": false
+      },
+      {
+        "text": "dal presidente dell'ente, previo parere favorevole della Corte dei conti.",
+        "correct": false
+      },
+      {
+        "text": "dal presidente dell'ente, previo parere favorevole del Collegio dei revisori dei conti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 151,
+    "text": "A norma dell’art.42 (“Lo Stato patrimoniale”) del D.P.R. n.\n97/2003 e ss.mm.ii., gli elementi patrimoniali dell'attivo sono esposti al netto dei fondi\nammortamento o dei fondi di svalutazione; le relative variazioni devono trovare riscontro:",
+    "answers": [
+      {
+        "text": "nella nota integrativa.",
+        "correct": true
+      },
+      {
+        "text": "nel conto economico.",
+        "correct": false
+      },
+      {
+        "text": "nella relazione del collegio dei revisori dei conti.",
+        "correct": false
+      },
+      {
+        "text": "nel conto del bilancio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 152,
+    "text": "Secondo la specifica disciplina del D.P.R. n. 97/2003 e ss.mm. ii., le immobilizzazioni rappresentano uno degli elementi che compone:",
+    "answers": [
+      {
+        "text": "l’attivo dello stato patrimoniale.",
+        "correct": true
+      },
+      {
+        "text": "il passivo dello stato patrimoniale.",
+        "correct": false
+      },
+      {
+        "text": "il conto economico.",
+        "correct": false
+      },
+      {
+        "text": "il conto del bilancio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 153,
+    "text": "A norma del D.P.R. 97/2003 e ss.mm.ii., il limite massimo per le \"anticipazioni di tesoreria\" concesse all'ente dal tesoriere o dal cassiere è pari:",
+    "answers": [
+      {
+        "text": "ai 3/12 delle entrate accertate nell'anno precedente.",
+        "correct": true
+      },
+      {
+        "text": "ai 5/12 delle entrate accertate nell'anno precedente.",
+        "correct": false
+      },
+      {
+        "text": "ai 3/12 delle entrate accertate nell'anno corrente.",
+        "correct": false
+      },
+      {
+        "text": "ai 5/12 delle entrate accertate nell'anno corrente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 154,
+    "text": "A norma del D.P.R. n. 97/2003 e ss.mm.ii., il libro dei verbali del collegio dei revisori dei conti è custodito presso:",
+    "answers": [
+      {
+        "text": "la sede dell'ente.",
+        "correct": true
+      },
+      {
+        "text": "la Corte dei conti.",
+        "correct": false
+      },
+      {
+        "text": "il Dipartimento della funzione pubblica.",
+        "correct": false
+      },
+      {
+        "text": "il Ministero dell’economia e delle finanze.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 155,
+    "text": "L’effettuazione delle spese di\nrappresentanza, di cui al D.P.R. n. 97/2003 e ss.mm.ii., deve\nrispettare, tra l’altro:",
+    "answers": [
+      {
+        "text": "il principio della\ncorrelazione tra spesa sostenuta e risultato\nperseguito.",
+        "correct": true
+      },
+      {
+        "text": "il principio di non superare l'importo del 10% delle spese di parte corrente.",
+        "correct": false
+      },
+      {
+        "text": "il principio della congruità con il risultato di\namministrazione.",
+        "correct": false
+      },
+      {
+        "text": "il principio della verificabilità.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 156,
+    "text": "Ai sensi del D.P.R. n. 97/2003 e ss.mm.ii., il preventivo economico è costituito:",
+    "answers": [
+      {
+        "text": "dalla somma dei budget economici dei centri di responsabilità di 1° livello.",
+        "correct": true
+      },
+      {
+        "text": "dalla somma dei budget economici di tutti i centri di responsabilità.",
+        "correct": false
+      },
+      {
+        "text": "dalla somma dei budget finanziari di tutti i centri di responsabilità.",
+        "correct": false
+      },
+      {
+        "text": "dalla somma di tutte le spese programmate.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 157,
+    "text": "Il consuntivo di ciascun centro di costo, di cui all’art. 49 del D.P.R. n. 97/2003 e ss.mm.ii., è redatto:",
+    "answers": [
+      {
+        "text": "periodicamente e, a fine esercizio, mette a confronto i costi previsti con quelli effettivamente sostenuti.",
+        "correct": true
+      },
+      {
+        "text": "trimestralmente e, a fine esercizio, mette a\nconfronto i costi previsti con quelli effettivamente sostenuti.",
+        "correct": false
+      },
+      {
+        "text": "periodicamente e, a fine esercizio, mette a\nconfronto gli obiettivi\nprogrammati con i risultati realizzati.",
+        "correct": false
+      },
+      {
+        "text": "periodicamente e, a fine esercizio, mette a\nconfronto i valori numerari certi, assimilati e presunti attivi rispetto alla diminuzione di valori numerari assimilati e presunti passivi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 158,
+    "text": "A norma del D.P.R. n. 97/2003 e ss.mm.ii. e con specifico\nriferimento alle risultanze della\ngestione economico-finanziaria, è corretto affermare che al rendiconto generale:",
+    "answers": [
+      {
+        "text": "sono allegati la situazione amministrativa, la relazione sulla gestione e la relazione del collegio dei Revisori dei conti.",
+        "correct": true
+      },
+      {
+        "text": "non è allegato alcun documento.",
+        "correct": false
+      },
+      {
+        "text": "sono allegati il conto\npatrimoniale, la relazione sulla gestione e la relazione del collegio dei revisori dei conti.",
+        "correct": false
+      },
+      {
+        "text": "sono allegati il conto\npatrimoniale, la situazione amministrativa e la relazione del collegio dei Revisori dei conti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 159,
+    "text": "Relativamente alle risultanze della gestione economico-finanziaria e con specifico riferimento allo\nstato patrimoniale, secondo quanto disciplinato dal D.P.R. n. 97/2003 e ss.mm.ii. quale, tra le seguenti affermazioni, è corretta?",
+    "answers": [
+      {
+        "text": "Allo stato patrimoniale è allegato un elenco\ndescrittivo dei beni\nappartenenti al patrimonio immobiliare dell'ente alla data di chiusura\ndell'esercizio cui il conto si riferisce.",
+        "correct": true
+      },
+      {
+        "text": "Lo stato patrimoniale si\narticola in due parti: lo stato patrimoniale e lo stato\npatrimoniale gestionale.",
+        "correct": false
+      },
+      {
+        "text": "I trasferimenti correnti costituiscono uno dei\ncomponenti positivi dello stato patrimoniale.",
+        "correct": false
+      },
+      {
+        "text": "Gli elementi patrimoniali dell'attivo sono esposti al netto dei fondi\nammortamento o dei fondi di svalutazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 160,
+    "text": "Il budget del centro di responsabilità di 1° livello di cui all'art. 22 del D.P.R. n. 97/2003 e ss.mm.ii., è composto:",
+    "answers": [
+      {
+        "text": "dal budget finanziario di competenza e cassa e dal budget economico.",
+        "correct": true
+      },
+      {
+        "text": "dal preventivo finanziario e dal preventivo economico.",
+        "correct": false
+      },
+      {
+        "text": "dal budget finanziario di\ncompetenza e di cassa, dal budget economico e dalla tabella dimostrativa del presunto risultato di amministrazione.",
+        "correct": false
+      },
+      {
+        "text": "dal budget finanziario di competenza e di cassa, dal budget economico e dal fondo di riserva per le spese impreviste.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 161,
+    "text": "Ai sensi della L. n. 196/2009 e ss.mm.ii., l'impostazione delle previsioni di entrata e di spesa dei bilanci delle amministrazioni pubbliche si conforma al metodo della:",
+    "answers": [
+      {
+        "text": "programmazione.",
+        "correct": true
+      },
+      {
+        "text": "progressione.",
+        "correct": false
+      },
+      {
+        "text": "prudenza.",
+        "correct": false
+      },
+      {
+        "text": "progettazione.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 162,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., il Documento di economia e finanza (DEF) è\ncomposto da:",
+    "answers": [
+      {
+        "text": "tre sezioni.",
+        "correct": true
+      },
+      {
+        "text": "quattro sezioni.",
+        "correct": false
+      },
+      {
+        "text": "due sezioni.",
+        "correct": false
+      },
+      {
+        "text": "cinque sezioni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 163,
+    "text": "Secondo la L. n. 196/2009 e ss.mm.ii., gli enti di previdenza\ntrasmettono al Dipartimento della Ragioneria generale dello Stato i dati concernenti tutti gli incassi ed i pagamenti effettuati, codificati con criteri uniformi sul territorio\nnazionale:",
+    "answers": [
+      {
+        "text": "mensilmente.",
+        "correct": true
+      },
+      {
+        "text": "annualmente.",
+        "correct": false
+      },
+      {
+        "text": "semestralmente.",
+        "correct": false
+      },
+      {
+        "text": "ogni tre anni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 164,
+    "text": "Per le finalità di monitoraggio e controllo dei conti pubblici, le amministrazioni pubbliche, ai sensi della L. n. 196/2009 e ss.mm.ii., sono tenute all'invio\ntelematico alla Ragioneria generale dello Stato:",
+    "answers": [
+      {
+        "text": "dei dati relativi ai bilanci di previsione, alle relative variazioni e ai conti consuntivi.",
+        "correct": true
+      },
+      {
+        "text": "dei soli dati relativi ai bilanci di previsione.",
+        "correct": false
+      },
+      {
+        "text": "esclusivamente delle variazioni ai bilanci di previsione.",
+        "correct": false
+      },
+      {
+        "text": "esclusivamente dei conti consuntivi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 165,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., l’unità temporale della gestione è l’anno finanziario:",
+    "answers": [
+      {
+        "text": "che inizia il 1° gennaio e termina il 31 dicembre.",
+        "correct": true
+      },
+      {
+        "text": "che inizia il 1° ottobre e termina il 30 settembre.",
+        "correct": false
+      },
+      {
+        "text": "che inizia il 1° giugno e termina il 31 maggio.",
+        "correct": false
+      },
+      {
+        "text": "i cui termini di inizio e di fine sono stabiliti dalla Corte dei Conti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 166,
+    "text": "Ai sensi della L. n.196/2009 e ss.mm.ii., il disegno di legge del bilancio di previsione si riferisce:",
+    "answers": [
+      {
+        "text": "ad un periodo triennale e si compone di due sezioni.",
+        "correct": true
+      },
+      {
+        "text": "ad un periodo triennale e si compone di tre sezioni.",
+        "correct": false
+      },
+      {
+        "text": "ad un periodo annuale e si compone di due sezioni.",
+        "correct": false
+      },
+      {
+        "text": "ad un periodo biennale e si compone di due sezioni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 167,
+    "text": "A norma della L. n.196/2009 e ss.mm.ii., la gestione finanziaria dello Stato si svolge in base:",
+    "answers": [
+      {
+        "text": "al bilancio annuale di previsione redatto in\ntermini di competenza e cassa.",
+        "correct": true
+      },
+      {
+        "text": "al bilancio annuale di previsione redatto esclusivamente in termini di competenza.",
+        "correct": false
+      },
+      {
+        "text": "al bilancio annuale di previsione redatto esclusivamente in termini di cassa.",
+        "correct": false
+      },
+      {
+        "text": "al bilancio annuale di programmazione redatto\nesclusivamente in termini di cassa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 168,
+    "text": "Secondo di quanto disciplinato dalla L. n.196/2009 e ss.mm.ii., le norme volte a rafforzare il\ncontrasto e la prevenzione\ndell'evasione fiscale e contributiva ovvero a stimolare l'adempimento spontaneo degli obblighi fiscali e contributivi, sono contenute:",
+    "answers": [
+      {
+        "text": "nella prima sezione del disegno di legge di\nbilancio.",
+        "correct": true
+      },
+      {
+        "text": "nella seconda sezione del disegno di legge di bilancio.",
+        "correct": false
+      },
+      {
+        "text": "nella seconda sezione del Documento di economia e finanza (DEF).",
+        "correct": false
+      },
+      {
+        "text": "nella prima e nella seconda sezione del disegno di legge di bilancio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 169,
+    "text": "Ai sensi della L. n. 196/2009 e ss.mm.ii., la seconda sezione del disegno di legge di bilancio espone per l'entrata e,\ndistintamente per ciascun\nMinistero, per la spesa le unità di voto parlamentare determinate con riferimento rispettivamente alla tipologia di entrata e ad aree omogenee di attività; per la spesa, le unità di voto sono\ncostituite:",
+    "answers": [
+      {
+        "text": "dai programmi.",
+        "correct": true
+      },
+      {
+        "text": "dalle missioni.",
+        "correct": false
+      },
+      {
+        "text": "dai macroaggregati.",
+        "correct": false
+      },
+      {
+        "text": "dalle unità previsionali di base.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 170,
+    "text": "Secondo quanto disciplinato dall’ art.24 della L. n. 196/2009 e ss.mm.ii., quali, tra i seguenti\ncriteri, costituiscono profili attuativi dell'articolo 81 della Costituzione?",
+    "answers": [
+      {
+        "text": "integrità, universalità e unità del bilancio.",
+        "correct": true
+      },
+      {
+        "text": "integrità, flessibilità e unità del bilancio.",
+        "correct": false
+      },
+      {
+        "text": "prudenza, flessibilità e unità del bilancio.",
+        "correct": false
+      },
+      {
+        "text": "veridicità, verificabilità e unità del bilancio",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 171,
+    "text": "Secondo quanto disciplinato dall’ art.24 della L. n. 196/2009 e ss.mm.ii., quale, tra i seguenti\ncriteri, costituisce un profilo attuativo dell'articolo 81 della Costituzione?",
+    "answers": [
+      {
+        "text": "universalità del bilancio.",
+        "correct": true
+      },
+      {
+        "text": "comparabilità del bilancio.",
+        "correct": false
+      },
+      {
+        "text": "flessibilità del bilancio.",
+        "correct": false
+      },
+      {
+        "text": "trasferibilità del bilancio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 172,
+    "text": "Secondo quanto disciplinato dall’ art.24 della L. n. 196/2009 e ss.mm.ii., quale, tra i seguenti\ncriteri, non costituisce un profilo attuativo dell'articolo 81 della Costituzione?",
+    "answers": [
+      {
+        "text": "attendibilità del bilancio.",
+        "correct": true
+      },
+      {
+        "text": "integrità del bilancio.",
+        "correct": false
+      },
+      {
+        "text": "universalità del bilancio.",
+        "correct": false
+      },
+      {
+        "text": "unità del bilancio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 173,
+    "text": "Ai sensi della L. n. 196/2009 e ss.mm.ii., le entrate dello Stato sono ripartite in:",
+    "answers": [
+      {
+        "text": "titoli, ricorrenti e non ricorrenti, tipologie, categorie e unità elementari.",
+        "correct": true
+      },
+      {
+        "text": "missioni, programmi e unità elementari di bilancio.",
+        "correct": false
+      },
+      {
+        "text": "titoli, tipologie, categorie e missioni.",
+        "correct": false
+      },
+      {
+        "text": "categorie, programmi e titoli.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 174,
+    "text": "Ai sensi della L. n. 196/2009 e ss.mm.ii., le spese dello Stato sono ripartite in:",
+    "answers": [
+      {
+        "text": "missioni, programmi e unità elementari di\nbilancio.",
+        "correct": true
+      },
+      {
+        "text": "titoli, tipologie, programmi e unità elementari di bilancio.",
+        "correct": false
+      },
+      {
+        "text": "titoli, tipologie, missioni e programmi.",
+        "correct": false
+      },
+      {
+        "text": "missioni, categorie, programmi e unità elementari di bilancio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 175,
+    "text": "Ai sensi della L. n. 196/2009 e ss.mm.ii., quale, tra le seguenti voci, rientrano nella classificazione delle spese dello Stato?",
+    "answers": [
+      {
+        "text": "I programmi.",
+        "correct": true
+      },
+      {
+        "text": "I titoli.",
+        "correct": false
+      },
+      {
+        "text": "Le tipologie.",
+        "correct": false
+      },
+      {
+        "text": "Le categorie.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 176,
+    "text": "Ai sensi della L. n. 196/2009 e ss.mm.ii., quale, tra le seguenti voci, non rientrano nella classificazione delle entrate dello Stato?",
+    "answers": [
+      {
+        "text": "Le missioni.",
+        "correct": true
+      },
+      {
+        "text": "Le categorie",
+        "correct": false
+      },
+      {
+        "text": "I titoli.",
+        "correct": false
+      },
+      {
+        "text": "Le tipologie.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 177,
+    "text": "Come specificato dalla L. n. 196/2009 e ss.mm.ii., quale, tra i seguenti fondi di riserva, è istituito nello stato di previsione del\nMinistero dell'economia e delle finanze, nella parte corrente?",
+    "answers": [
+      {
+        "text": "Il fondo di riserva per le spese impreviste.",
+        "correct": true
+      },
+      {
+        "text": "Il fondo di riserva per le spese di bilancio.",
+        "correct": false
+      },
+      {
+        "text": "Il fondo di riserva per le spese di garanzia.",
+        "correct": false
+      },
+      {
+        "text": "Il fondo di riserva per le spese a carattere\npermanente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 178,
+    "text": "La dotazione del “fondo di riserva per le spese obbligatorie”, di cui all’art. 26 della L. n. 196/2009 e ss.mm.ii., è determinata:",
+    "answers": [
+      {
+        "text": "dalla legge di\napprovazione del bilancio.",
+        "correct": true
+      },
+      {
+        "text": "dal Documento di\neconomia e finanza (DEF).",
+        "correct": false
+      },
+      {
+        "text": "dalla nota di\naggiornamento al\nDocumento di economia e finanza (DEF).",
+        "correct": false
+      },
+      {
+        "text": "dal conto del patrimonio del Ministero\ndell'economia e delle finanze.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 179,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., lo stanziamento del “fondo di riserva per\nl'integrazione delle autorizzazioni di cassa” è determinato\nannualmente:",
+    "answers": [
+      {
+        "text": "con apposito articolo, dalla legge del bilancio.",
+        "correct": true
+      },
+      {
+        "text": "con apposito articolo, dal Documento di economia e finanza (DEF).",
+        "correct": false
+      },
+      {
+        "text": "con apposito articolo, dalla nota di aggiornamento al Documento di economia e finanza (DEF).",
+        "correct": false
+      },
+      {
+        "text": "con apposito decreto del Ministro dell'economia e delle finanze.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 180,
+    "text": "Secondo quanto statuito dalla L.\nn. 196/2009 e ss.mm.ii., l'esercizio provvisorio del bilancio:",
+    "answers": [
+      {
+        "text": "può essere concesso per legge e per periodi non superiori\ncomplessivamente a quattro mesi.",
+        "correct": true
+      },
+      {
+        "text": "può essere concesso per legge e per periodi non superiori\ncomplessivamente a nove mesi.",
+        "correct": false
+      },
+      {
+        "text": "può essere concesso con decreto del Ministro dell’economia e delle\nfinanze e per e per periodi non superiori\ncomplessivamente a tre mesi.",
+        "correct": false
+      },
+      {
+        "text": "è concesso senza particolari vincoli o limitazioni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 181,
+    "text": "Secondo quanto statuito dalla L.\nn. 196/2009 e ss.mm.ii., a chi spetta il compito di presentare un disegno di legge ai fini\ndell'assestamento delle previsioni di bilancio formulate a\nlegislazione vigente?",
+    "answers": [
+      {
+        "text": "Al Ministro dell'economia e delle finanze.",
+        "correct": true
+      },
+      {
+        "text": "Al Parlamento, riunito in seduta comune.",
+        "correct": false
+      },
+      {
+        "text": "Al Senato della Repubblica.",
+        "correct": false
+      },
+      {
+        "text": "Alla Corte dei conti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 182,
+    "text": "Secondo il disposto dell’art. 35 della L. n. 196/2009 e ss.mm.ii., il Ministro dell’economia e delle\nfinanze presenta il rendiconto\ngenerale dell'esercizio scaduto il 31 dicembre dell'anno precedente:",
+    "answers": [
+      {
+        "text": "alle Camere.",
+        "correct": true
+      },
+      {
+        "text": "al Presidente del Consiglio dei ministri.",
+        "correct": false
+      },
+      {
+        "text": "alla Corte dei conti.",
+        "correct": false
+      },
+      {
+        "text": "al Dipartimento della funzione pubblica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 183,
+    "text": "Il rendiconto generale dello stato, a norma della L. n. 196/2009 e ss.mm.ii., è articolato in:",
+    "answers": [
+      {
+        "text": "missioni e programmi.",
+        "correct": true
+      },
+      {
+        "text": "titoli, missioni e categorie.",
+        "correct": false
+      },
+      {
+        "text": "titoli e programmi.",
+        "correct": false
+      },
+      {
+        "text": "titoli e programmi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 184,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., i risultati della gestione dell'anno finanziario sono\nriassunti e dimostrati nel rendiconto generale dello Stato costituito:",
+    "answers": [
+      {
+        "text": "da due distinte parti.",
+        "correct": true
+      },
+      {
+        "text": "da tre distinte parti.",
+        "correct": false
+      },
+      {
+        "text": "da quattro distinte parti.",
+        "correct": false
+      },
+      {
+        "text": "da tre distinte parti, salvo che non sia diversamente previsto con legge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 185,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., il rendiconto generale dello Stato è costituito:",
+    "answers": [
+      {
+        "text": "dal conto del bilancio e dal conto generale del\npatrimonio.",
+        "correct": true
+      },
+      {
+        "text": "dal conto di bilancio, dal conto generale di\npatrimonio e dal conto consuntivo.",
+        "correct": false
+      },
+      {
+        "text": "dal conto di bilancio, dal conto generale di\npatrimonio e dal fondo di riserva per le spese\nobbligatorie.",
+        "correct": false
+      },
+      {
+        "text": "dal conto del bilancio e dal conto generale parificato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 186,
+    "text": "Il piano dei conti integrato, di cui all’art. 38-ter della L. n. 196/2009 e ss.mm.ii., è adottato:",
+    "answers": [
+      {
+        "text": "dalle Amministrazioni centrali dello Stato.",
+        "correct": true
+      },
+      {
+        "text": "esclusivamente da Ministeri e Avvocatura dello Stato.",
+        "correct": false
+      },
+      {
+        "text": "da tutte le pubbliche amministrazioni.",
+        "correct": false
+      },
+      {
+        "text": "dalle Amministrazioni centrali dello Stato e dalle Pubbliche Amministrazioni Locali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 187,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., il risultato del\nconsolidamento tra flussi di cassa del bilancio dello Stato e della Tesoreria statale è:",
+    "answers": [
+      {
+        "text": "il saldo di cassa del settore statale.",
+        "correct": true
+      },
+      {
+        "text": "il saldo di competenza del settore statale.",
+        "correct": false
+      },
+      {
+        "text": "l’attivo di competenza del settore statale.",
+        "correct": false
+      },
+      {
+        "text": "il conto generale del settore statale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "text": "Secondo quanto specificato dalla\nL. n. 196/2009 e ss.mm.ii., la Nota di aggiornamento del Documento di economia e finanza (DEF)\nviene presentata:",
+    "answers": [
+      {
+        "text": "alle Camere.",
+        "correct": true
+      },
+      {
+        "text": "al Ministero dell’economia e delle finanze.",
+        "correct": false
+      },
+      {
+        "text": "al Presidente del Consiglio dei ministri.",
+        "correct": false
+      },
+      {
+        "text": "alla Corte dei conti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "text": "Secondo quanto disciplinato dalla\nL. n. 196/2009 e ss.mm.ii., quale, tra i seguenti, non rientra tra gli strumenti di programmazione della finanza pubblica?",
+    "answers": [
+      {
+        "text": "Il Fondo di riserva\ngenerale del patrimonio.",
+        "correct": true
+      },
+      {
+        "text": "La Nota di aggiornamento del Documento di\neconomia e finanza (DEF).",
+        "correct": false
+      },
+      {
+        "text": "Il disegno di legge del bilancio dello Stato.",
+        "correct": false
+      },
+      {
+        "text": "Il disegno di legge di assestamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 190,
+    "text": "Secondo quanto disciplinato dalla\nL. n. 196/2009 e ss.mm.ii., le regioni e gli enti locali\ndeterminano gli obiettivi dei\npropri bilanci annuali e pluriennali in coerenza:",
+    "answers": [
+      {
+        "text": "con gli obiettivi\nprogrammatici risultanti dal Documento di\nEconomia e Finanza (DEF).",
+        "correct": true
+      },
+      {
+        "text": "con gli obiettivi\nprogrammatici definiti dal disegno di legge di assestamento.",
+        "correct": false
+      },
+      {
+        "text": "con gli obiettivi\nprogrammatici definiti espressamente dalla L. n. 196/2009.",
+        "correct": false
+      },
+      {
+        "text": "con gli obiettivi\nprogrammatici definiti dalla Conferenza\npermanente per il coordinamento della finanza pubblica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 191,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., lo schema del\nProgramma nazionale di riforma è contenuto:",
+    "answers": [
+      {
+        "text": "nella terza sezione del\nDocumento di Economia e Finanza (DEF).",
+        "correct": true
+      },
+      {
+        "text": "nella seconda sezione del Documento di Economia e Finanza (DEF).",
+        "correct": false
+      },
+      {
+        "text": "nel disegno di legge del bilancio dello Stato.",
+        "correct": false
+      },
+      {
+        "text": "nel disegno di legge di assestamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 192,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii., nella predisposizione dei documenti di bilancio, le\nprevisioni di ciascun esercizio sia di competenza sia di cassa sono elaborate sulla base di una\nprogrammazione di medio periodo, con un orizzonte\ntemporale:",
+    "answers": [
+      {
+        "text": "almeno triennale.",
+        "correct": true
+      },
+      {
+        "text": "almeno biennale.",
+        "correct": false
+      },
+      {
+        "text": "almeno quinquennale.",
+        "correct": false
+      },
+      {
+        "text": "almeno biennale, salvo le eccezioni espressamente previste dalla norma.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 193,
+    "text": "A norma della L. n. 196/2009 e ss.mm.ii. e con specifico\nriferimento ai documenti di bilancio, quale, tra le seguenti affermazioni, è corretta?",
+    "answers": [
+      {
+        "text": "I documenti di bilancio, sia di previsione che di\nrendicontazione, sono\npredisposti con cadenza annuale.",
+        "correct": true
+      },
+      {
+        "text": "I documenti di bilancio di previsione sono predisposti con cadenza annuale, mentre i documenti di bilancio rendicontazione sono predisposti con cadenza triennale.",
+        "correct": false
+      },
+      {
+        "text": "I documenti di bilancio di previsione sono predisposti con cadenza triennale, mentre i documenti di bilancio rendicontazione, sono predisposti con cadenza annuale.",
+        "correct": false
+      },
+      {
+        "text": "I documenti di bilancio di previsione sono predisposti con cadenza annuale, mentre i\ndocumenti di bilancio rendicontazione, sono predisposti con cadenza semestrale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 194,
+    "text": "Secondo quanto specificato dalla\nL. n. 196/2009 e ss.mm.ii., nel sistema del bilancio dello Stato, il principio del pareggio finanziario:",
+    "answers": [
+      {
+        "text": "deve essere rispettato sia in fase di previsione, che in fase di rendicontazione.",
+        "correct": true
+      },
+      {
+        "text": "deve essere rispettato esclusivamente in fase di previsione.",
+        "correct": false
+      },
+      {
+        "text": "deve essere rispettato esclusivamente in fase di rendicontazione.",
+        "correct": false
+      },
+      {
+        "text": "deve essere rispettato in fase di previsione, salvo i casi eccezionali\nespressamente disciplinati dalla normativa di\nriferimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 195,
+    "text": "Quale, tra i seguenti, rappresenta uno dei principi contabili generali specificati dall’allegato 1 della L.\nn. 196/2009 e ss.mm.ii.?",
+    "answers": [
+      {
+        "text": "Principio della congruità.",
+        "correct": true
+      },
+      {
+        "text": "Principio della rilevanza.",
+        "correct": false
+      },
+      {
+        "text": "Principio dell’assestamento.",
+        "correct": false
+      },
+      {
+        "text": "Principio della sussidiarietà.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 196,
+    "text": "Secondo quanto disciplinato dal\nD.P.R. n. 97/2003 e ss.mm.ii. la relazione sulla gestione è allegata:",
+    "answers": [
+      {
+        "text": "al rendiconto generale.",
+        "correct": true
+      },
+      {
+        "text": "al conto di bilancio.",
+        "correct": false
+      },
+      {
+        "text": "al preventivo finanziario.",
+        "correct": false
+      },
+      {
+        "text": "al preventivo economico.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 197,
+    "text": "Secondo quanto specificato dal\nD.P.R. n. 97/2003 e ss.mm.ii. la relazione del collegio dei revisori dei conti è allegata:",
+    "answers": [
+      {
+        "text": "al rendiconto generale.",
+        "correct": true
+      },
+      {
+        "text": "al bilancio pluriennale.",
+        "correct": false
+      },
+      {
+        "text": "allo stato patrimoniale.",
+        "correct": false
+      },
+      {
+        "text": "alla nota integrativa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 198,
+    "text": "A norma del D.P.R. n. 97/2003 e ss.mm.ii., quale fase, nel procedimento di gestione delle uscite, segue immediatamente la liquidazione?",
+    "answers": [
+      {
+        "text": "L’ordinazione.",
+        "correct": true
+      },
+      {
+        "text": "Il pagamento.",
+        "correct": false
+      },
+      {
+        "text": "L’impegno.",
+        "correct": false
+      },
+      {
+        "text": "Il versamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 199,
+    "text": "A norma del D.P.R. n. 97/2003 e ss.mm.ii., il “risultato di\namministrazione” è definito come:",
+    "answers": [
+      {
+        "text": "la somma algebrica tra il fondo di cassa (o deficit di cassa), residui attivi e residui passivi.",
+        "correct": true
+      },
+      {
+        "text": "la somma algebrica tra il fondo di cassa (o deficit di cassa) e i residui attivi.",
+        "correct": false
+      },
+      {
+        "text": "la somma algebrica tra i residui attivi e i residui passivi.",
+        "correct": false
+      },
+      {
+        "text": "la differenza algebrica tra il fondo di cassa (o deficit di cassa) e i residui attivi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "number": 200,
+    "text": "A norma dell’art. 38 del D.P.R. n. 97/2003 e ss.mm.ii., quale, tra i seguenti documenti, è allegato al rendiconto generale?",
+    "answers": [
+      {
+        "text": "La relazione sulla gestione.",
+        "correct": true
+      },
+      {
+        "text": "Il conto di bilancio.",
+        "correct": false
+      },
+      {
+        "text": "Il conto economico.",
+        "correct": false
+      },
+      {
+        "text": "Lo stato patrimoniale.",
+        "correct": false
+      }
+    ]
+  }
+]

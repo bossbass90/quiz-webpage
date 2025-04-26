@@ -2,7 +2,7 @@ const xlsx = require('xlsx');
 const fs = require('fs');
 
 // Percorso del file Excel
-const filePath = './data/diritto_amministrativo.xlsx';
+const filePath = './src/data/scienze_dell_organizzazione.xlsx';
 
 // Leggi il file Excel
 const workbook = xlsx.readFile(filePath);
@@ -25,5 +25,5 @@ const questions = rows.slice(1).map((row) => ({
 }));
 
 // Scrivi il file JSON
-fs.writeFileSync('./data/diritto_amministrativo.json', JSON.stringify(questions, null, 2));
+fs.writeFileSync('./src/data/scienze_dell_organizzazione.json', JSON.stringify(questions, null, 2));
 console.log('File JSON generato con successo!');
